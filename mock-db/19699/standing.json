@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 247762,
+    "name": "Group A",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 597,
+          "team_name": "Napoli",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247762,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 5,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 20,
+            "goals_against": 6,
+            "points": 15
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 11,
+            "goals_against": 3,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 3,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "14",
+            "points": 15
+          },
+          "result": "8th Finals",
+          "points": 15,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 8,
+          "team_name": "Liverpool",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247762,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 5,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 17,
+            "goals_against": 6,
+            "points": 15
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 5,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 15
+          },
+          "result": "8th Finals",
+          "points": 15,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 629,
+          "team_name": "Ajax",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247762,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 11,
+            "goals_against": 16,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 6,
+            "goals_against": 7,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 6
+          },
+          "result": "UEFA Europa League",
+          "points": 6,
+          "recent_form": "WLLLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 62,
+          "team_name": "Rangers",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247762,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 0,
+            "lost": 6,
+            "goals_scored": 2,
+            "goals_against": 22,
+            "points": 0
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 13,
+            "points": 0
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 0,
+            "goals_against": 9,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-20",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247763,
+    "name": "Group B",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 652,
+          "team_name": "Porto",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247763,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 12,
+            "goals_against": 7,
+            "points": 12
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 5,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 2,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 12
+          },
+          "result": "8th Finals",
+          "points": 12,
+          "recent_form": "WWWWL",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 340,
+          "team_name": "Club Brugge",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247763,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 4,
+            "points": 11
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 4,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 0,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 11
+          },
+          "result": "8th Finals",
+          "points": 11,
+          "recent_form": "DLDWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 3321,
+          "team_name": "Bayer 04 Leverkusen",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247763,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 8,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 3,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 5
+          },
+          "result": "UEFA Europa League",
+          "points": 5,
+          "recent_form": "DDLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 7980,
+          "team_name": "Atlético Madrid",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247763,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 3,
+            "points": 5
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 6,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "LDDLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247764,
+    "name": "Group C",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 503,
+          "team_name": "FC Bayern München",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247764,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 6,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 18,
+            "goals_against": 2,
+            "points": 18
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 0,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 2,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "16",
+            "points": 18
+          },
+          "result": "8th Finals",
+          "points": 18,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 2930,
+          "team_name": "Inter",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247764,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 10,
+            "goals_against": 7,
+            "points": 10
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 2,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 5,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 10
+          },
+          "result": "8th Finals",
+          "points": 10,
+          "recent_form": "LWDWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 83,
+          "team_name": "FC Barcelona",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247764,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 12,
+            "goals_against": 12,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 7,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 5,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 7
+          },
+          "result": "UEFA Europa League",
+          "points": 7,
+          "recent_form": "WLDLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 3545,
+          "team_name": "Viktoria Plzeň",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247764,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 0,
+            "lost": 6,
+            "goals_scored": 5,
+            "goals_against": 24,
+            "points": 0
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 10,
+            "points": 0
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 14,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-19",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247765,
+    "name": "Group D",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 6,
+          "team_name": "Tottenham Hotspur",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247765,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 6,
+            "points": 11
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 3,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 11
+          },
+          "result": "8th Finals",
+          "points": 11,
+          "recent_form": "WDWDL",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 366,
+          "team_name": "Eintracht Frankfurt",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247765,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 8,
+            "points": 10
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 4,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 4,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 10
+          },
+          "result": "8th Finals",
+          "points": 10,
+          "recent_form": "WWLDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 58,
+          "team_name": "Sporting CP",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247765,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 8,
+            "goals_against": 9,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 4,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 5,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 7
+          },
+          "result": "UEFA Europa League",
+          "points": 7,
+          "recent_form": "LDLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 44,
+          "team_name": "Olympique Marseille",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247765,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 8,
+            "goals_against": 8,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 4,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 4,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "LLWWL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247766,
+    "name": "Group E",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18,
+          "team_name": "Chelsea",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247766,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 10,
+            "goals_against": 4,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 2,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 2,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 13
+          },
+          "result": "8th Finals",
+          "points": 13,
+          "recent_form": "WWWWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 113,
+          "team_name": "Milan",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247766,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 12,
+            "goals_against": 7,
+            "points": 10
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 3,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 4,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 10
+          },
+          "result": "8th Finals",
+          "points": 10,
+          "recent_form": "WWLLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 49,
+          "team_name": "Salzburg",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247766,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 3,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 6,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 6
+          },
+          "result": "UEFA Europa League",
+          "points": 6,
+          "recent_form": "LLDWD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 674,
+          "team_name": "Dinamo Zagreb",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247766,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 11,
+            "points": 4
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 6,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LLDLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247767,
+    "name": "Group F",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 3468,
+          "team_name": "Real Madrid",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247767,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 15,
+            "goals_against": 6,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 2,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 13
+          },
+          "result": "8th Finals",
+          "points": 13,
+          "recent_form": "WLDWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 277,
+          "team_name": "RB Leipzig",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247767,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 13,
+            "goals_against": 9,
+            "points": 12
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 7,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 2,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 12
+          },
+          "result": "8th Finals",
+          "points": 12,
+          "recent_form": "WWWWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 621,
+          "team_name": "Shakhtar Donetsk",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247767,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 10,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 6,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-2",
+            "points": 6
+          },
+          "result": "UEFA Europa League",
+          "points": 6,
+          "recent_form": "LDDLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 53,
+          "team_name": "Celtic",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247767,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 15,
+            "points": 2
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 6,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 9,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 2
+          },
+          "result": null,
+          "points": 2,
+          "recent_form": "LDLLD",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247768,
+    "name": "Group G",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 9,
+          "team_name": "Manchester City",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247768,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 14,
+            "goals_against": 2,
+            "points": 14
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 2,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 0,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 14
+          },
+          "result": "8th Finals",
+          "points": 14,
+          "recent_form": "WDDWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 68,
+          "team_name": "Borussia Dortmund",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247768,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 10,
+            "goals_against": 5,
+            "points": 9
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 1,
+            "points": 5
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 9
+          },
+          "result": "8th Finals",
+          "points": 9,
+          "recent_form": "DDDWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 676,
+          "team_name": "Sevilla",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247768,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 12,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 8,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 4,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 5
+          },
+          "result": "UEFA Europa League",
+          "points": 5,
+          "recent_form": "LWDLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 85,
+          "team_name": "København",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247768,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 12,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 1,
+            "goals_against": 1,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 0,
+            "goals_against": 11,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "DLDLD",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 247769,
+    "name": "Group H",
+    "league_id": 2,
+    "season_id": 19699,
+    "round_id": 290018,
+    "round_name": 6,
+    "stage_id": 77457732,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 605,
+          "team_name": "Benfica",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247769,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 16,
+            "goals_against": 7,
+            "points": 14
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 4,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 3,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 14
+          },
+          "result": "8th Finals",
+          "points": 14,
+          "recent_form": "WWDDW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 591,
+          "team_name": "Paris Saint Germain",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247769,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 16,
+            "goals_against": 7,
+            "points": 14
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 4,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 14
+          },
+          "result": "8th Finals",
+          "points": 14,
+          "recent_form": "WWDDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 625,
+          "team_name": "Juventus",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247769,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 9,
+            "goals_against": 13,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 5,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 8,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 3
+          },
+          "result": "UEFA Europa League",
+          "points": 3,
+          "recent_form": "LLLWL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 571,
+          "team_name": "Maccabi Haifa",
+          "round_id": 290018,
+          "round_name": 6,
+          "group_id": 247769,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 7,
+            "goals_against": 21,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 9,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 12,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-14",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLWLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

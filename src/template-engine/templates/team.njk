@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.team (team_id, country_id, name, code, is_national)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.country_id|ifNil() }}, '{{ item.name|esc|replace(r/(.*) W$/, "$1") }}', '{{ item.short_code }}', {{ item.national_team }})
+  {%- if not loop.last %},{% endif %}
+{% endfor -%}
+on conflict (team_id) do nothing;

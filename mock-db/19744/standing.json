@@ -1,0 +1,810 @@
+[
+  {
+    "id": 77457883,
+    "name": "Regular Season",
+    "league_id": 82,
+    "season_id": 19744,
+    "round_id": 274929,
+    "round_name": 25,
+    "type": "Group Stage",
+    "stage_id": 77457883,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 68,
+          "team_name": "Borussia Dortmund",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 17,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 55,
+            "goals_against": 31,
+            "points": 53
+          },
+          "home": {
+            "games_played": 12,
+            "won": 10,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 36,
+            "goals_against": 12,
+            "points": 31
+          },
+          "away": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 19,
+            "goals_against": 19,
+            "points": 22
+          },
+          "total": {
+            "goal_difference": "24",
+            "points": 53
+          },
+          "result": "UEFA Champions League",
+          "points": 53,
+          "recent_form": "WDWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 503,
+          "team_name": "FC Bayern München",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 15,
+            "draw": 7,
+            "lost": 3,
+            "goals_scored": 72,
+            "goals_against": 27,
+            "points": 52
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 39,
+            "goals_against": 11,
+            "points": 28
+          },
+          "away": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 33,
+            "goals_against": 16,
+            "points": 24
+          },
+          "total": {
+            "goal_difference": "45",
+            "points": 52
+          },
+          "result": "UEFA Champions League",
+          "points": 52,
+          "recent_form": "LWWWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 1079,
+          "team_name": "FC Union Berlin",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 14,
+            "draw": 6,
+            "lost": 5,
+            "goals_scored": 38,
+            "goals_against": 28,
+            "points": 48
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 21,
+            "goals_against": 8,
+            "points": 28
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 20,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 48
+          },
+          "result": "UEFA Champions League",
+          "points": 48,
+          "recent_form": "WDDLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 3543,
+          "team_name": "SC Freiburg",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 13,
+            "draw": 7,
+            "lost": 5,
+            "goals_scored": 38,
+            "goals_against": 34,
+            "points": 46
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 21,
+            "goals_against": 10,
+            "points": 27
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 17,
+            "goals_against": 24,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 46
+          },
+          "result": "UEFA Champions League",
+          "points": 46,
+          "recent_form": "DWDDW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 277,
+          "team_name": "RB Leipzig",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 13,
+            "draw": 6,
+            "lost": 6,
+            "goals_scored": 49,
+            "goals_against": 30,
+            "points": 45
+          },
+          "home": {
+            "games_played": 12,
+            "won": 9,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 28,
+            "goals_against": 10,
+            "points": 29
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 21,
+            "goals_against": 20,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "19",
+            "points": 45
+          },
+          "result": "UEFA Europa League",
+          "points": 45,
+          "recent_form": "LWLWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 366,
+          "team_name": "Eintracht Frankfurt",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 11,
+            "draw": 7,
+            "lost": 7,
+            "goals_scored": 46,
+            "goals_against": 36,
+            "points": 40
+          },
+          "home": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 27,
+            "goals_against": 14,
+            "points": 23
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 22,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 40
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 40,
+          "recent_form": "LDDLW",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 510,
+          "team_name": "VfL Wolfsburg",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 10,
+            "draw": 8,
+            "lost": 7,
+            "goals_scored": 44,
+            "goals_against": 32,
+            "points": 38
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 26,
+            "goals_against": 20,
+            "points": 17
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 18,
+            "goals_against": 12,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 38
+          },
+          "result": null,
+          "points": 38,
+          "recent_form": "WDDWL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 3321,
+          "team_name": "Bayer 04 Leverkusen",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 11,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 45,
+            "goals_against": 40,
+            "points": 37
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 27,
+            "goals_against": 18,
+            "points": 20
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 22,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 37
+          },
+          "result": null,
+          "points": 37,
+          "recent_form": "WWWDL",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 794,
+          "team_name": "FSV Mainz 05",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 10,
+            "draw": 7,
+            "lost": 8,
+            "goals_scored": 40,
+            "goals_against": 36,
+            "points": 37
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 23,
+            "goals_against": 15,
+            "points": 20
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 21,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 37
+          },
+          "result": null,
+          "points": 37,
+          "recent_form": "DDWWW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 683,
+          "team_name": "Borussia Mönchengladbach",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 7,
+            "lost": 10,
+            "goals_scored": 40,
+            "goals_against": 44,
+            "points": 31
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 27,
+            "goals_against": 17,
+            "points": 24
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 13,
+            "goals_against": 27,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 31
+          },
+          "result": null,
+          "points": 31,
+          "recent_form": "DLDLW",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 82,
+          "team_name": "Werder Bremen",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 9,
+            "draw": 4,
+            "lost": 12,
+            "goals_scored": 39,
+            "goals_against": 48,
+            "points": 31
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 1,
+            "lost": 7,
+            "goals_scored": 22,
+            "goals_against": 21,
+            "points": 16
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 27,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "-9",
+            "points": 31
+          },
+          "result": null,
+          "points": 31,
+          "recent_form": "DLLWL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 90,
+          "team_name": "FC Augsburg",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 4,
+            "lost": 13,
+            "goals_scored": 32,
+            "goals_against": 45,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 18
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 19,
+            "goals_against": 28,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "DLWLW",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 3320,
+          "team_name": "FC Köln",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 6,
+            "draw": 9,
+            "lost": 10,
+            "goals_scored": 33,
+            "goals_against": 44,
+            "points": 27
+          },
+          "home": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 21,
+            "goals_against": 14,
+            "points": 18
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 6,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 30,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 27
+          },
+          "result": null,
+          "points": 27,
+          "recent_form": "LLDLL",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 999,
+          "team_name": "VfL Bochum 1848",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 1,
+            "lost": 16,
+            "goals_scored": 27,
+            "goals_against": 56,
+            "points": 25
+          },
+          "home": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 21,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 0,
+            "lost": 11,
+            "goals_scored": 9,
+            "goals_against": 35,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-29",
+            "points": 25
+          },
+          "result": null,
+          "points": 25,
+          "recent_form": "WWLLL",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 2726,
+          "team_name": "TSG Hoffenheim",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 6,
+            "draw": 4,
+            "lost": 15,
+            "goals_scored": 33,
+            "goals_against": 45,
+            "points": 22
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 18,
+            "goals_against": 23,
+            "points": 14
+          },
+          "away": {
+            "games_played": 12,
+            "won": 2,
+            "draw": 2,
+            "lost": 8,
+            "goals_scored": 15,
+            "goals_against": 22,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-12",
+            "points": 22
+          },
+          "result": null,
+          "points": 22,
+          "recent_form": "WLLLL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 3317,
+          "team_name": "Hertha BSC",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 5,
+            "draw": 6,
+            "lost": 14,
+            "goals_scored": 30,
+            "goals_against": 48,
+            "points": 21
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 20,
+            "points": 17
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 1,
+            "lost": 10,
+            "goals_scored": 11,
+            "goals_against": 28,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-18",
+            "points": 21
+          },
+          "result": "Relegation Play-off",
+          "points": 21,
+          "recent_form": "LDLWL",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 67,
+          "team_name": "Schalke 04",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 4,
+            "draw": 9,
+            "lost": 12,
+            "goals_scored": 21,
+            "goals_against": 45,
+            "points": 21
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 14,
+            "goals_against": 28,
+            "points": 13
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 7,
+            "goals_against": 17,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-24",
+            "points": 21
+          },
+          "result": "Relegation",
+          "points": 21,
+          "recent_form": "DDWWD",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 3319,
+          "team_name": "VfB Stuttgart",
+          "round_id": 274929,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 4,
+            "draw": 8,
+            "lost": 13,
+            "goals_scored": 29,
+            "goals_against": 42,
+            "points": 20
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 16,
+            "goals_against": 16,
+            "points": 15
+          },
+          "away": {
+            "games_played": 12,
+            "won": 0,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 13,
+            "goals_against": 26,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 20
+          },
+          "result": "Relegation",
+          "points": 20,
+          "recent_form": "LDLLW",
+          "status": null
+        }
+      ]
+    }
+  }
+]

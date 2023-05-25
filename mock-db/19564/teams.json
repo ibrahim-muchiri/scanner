@@ -1,0 +1,58 @@
+[
+  {
+    "id": 18598,
+    "legacy_id": 1211,
+    "name": "Costa Rica",
+    "short_code": "CRC",
+    "twitter": null,
+    "country_id": 1739,
+    "national_team": true,
+    "founded": 1921,
+    "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/6/18598.png",
+    "venue_id": 10981,
+    "current_season_id": 18017,
+    "is_placeholder": false
+  },
+  {
+    "id": 18613,
+    "legacy_id": 1839,
+    "name": "New Zealand",
+    "short_code": "NZL",
+    "twitter": null,
+    "country_id": 2817,
+    "national_team": true,
+    "founded": 1891,
+    "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/21/18613.png",
+    "venue_id": 968,
+    "current_season_id": 19158,
+    "is_placeholder": false
+  },
+  {
+    "id": 18730,
+    "legacy_id": 1332,
+    "name": "Australia",
+    "short_code": "AUS",
+    "twitter": null,
+    "country_id": 98,
+    "national_team": true,
+    "founded": 1961,
+    "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/10/18730.png",
+    "venue_id": 14477,
+    "current_season_id": 18017,
+    "is_placeholder": false
+  },
+  {
+    "id": 18775,
+    "legacy_id": 1364,
+    "name": "Peru",
+    "short_code": "PER",
+    "twitter": null,
+    "country_id": 338,
+    "national_team": true,
+    "founded": 1922,
+    "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/23/18775.png",
+    "venue_id": 11432,
+    "current_season_id": 16761,
+    "is_placeholder": false
+  }
+]

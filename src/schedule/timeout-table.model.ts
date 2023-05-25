@@ -1,0 +1,39 @@
+const second = 1000;
+const minute = second * 60;
+
+const DEFAULT_TIMEOUT = minute * 60;
+const LIVE_TIMEOUT = second * 15;
+const MIN_15_TIMEOUT = second * 30;
+const MIN_30_TIMEOUT = minute;
+const HOUR_1_TIMEOUT = minute * 5;
+const HOUR_4_TIMEOUT = minute * 15;
+const HOUR_8_TIMEOUT = minute * 30;
+const HOUR_12_TIMEOUT = minute * 45;
+
+export interface TimeoutTable {
+  DEFAULT_TIMEOUT: number;
+  LIVE_TIMEOUT: number;
+  MIN_5_TIMEOUT: number;
+  MIN_15_TIMEOUT: number;
+  MIN_30_TIMEOUT: number;
+  HOUR_1_TIMEOUT: number;
+  HOUR_4_TIMEOUT: number;
+  HOUR_8_TIMEOUT: number;
+  HOUR_12_TIMEOUT: number;
+  LONG_AFTER_TIMEOUT: number;
+  LONG_BEFORE_TIMEOUT: number;
+}
+
+export const DEFAULT_TIMEOUT_TABLE = {
+  DEFAULT_TIMEOUT: DEFAULT_TIMEOUT,
+  LIVE_TIMEOUT: LIVE_TIMEOUT,
+  MIN_5_TIMEOUT: LIVE_TIMEOUT,
+  MIN_15_TIMEOUT: MIN_15_TIMEOUT,
+  MIN_30_TIMEOUT: MIN_30_TIMEOUT,
+  HOUR_1_TIMEOUT: HOUR_1_TIMEOUT,
+  HOUR_4_TIMEOUT: HOUR_4_TIMEOUT,
+  HOUR_8_TIMEOUT: HOUR_8_TIMEOUT,
+  HOUR_12_TIMEOUT: HOUR_12_TIMEOUT,
+  LONG_AFTER_TIMEOUT: DEFAULT_TIMEOUT,
+  LONG_BEFORE_TIMEOUT: DEFAULT_TIMEOUT,
+};

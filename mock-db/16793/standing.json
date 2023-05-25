@@ -1,0 +1,458 @@
+[
+  {
+    "id": 77446439,
+    "name": "Regular Season",
+    "league_id": 726,
+    "season_id": 16793,
+    "round_id": null,
+    "round_name": null,
+    "type": "Group Stage",
+    "stage_id": 77446439,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18704,
+          "team_name": "Brazil",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 14,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 40,
+            "goals_against": 5,
+            "points": 45
+          },
+          "home": {
+            "games_played": 8,
+            "won": 8,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 23,
+            "goals_against": 1,
+            "points": 24
+          },
+          "away": {
+            "games_played": 9,
+            "won": 6,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 4,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "35",
+            "points": 45
+          },
+          "result": "Final Tournament",
+          "points": 45,
+          "recent_form": "WWWDD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18644,
+          "team_name": "Argentina",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 11,
+            "draw": 6,
+            "lost": 0,
+            "goals_scored": 27,
+            "goals_against": 8,
+            "points": 39
+          },
+          "home": {
+            "games_played": 9,
+            "won": 6,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 14,
+            "goals_against": 2,
+            "points": 21
+          },
+          "away": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 13,
+            "goals_against": 6,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "19",
+            "points": 39
+          },
+          "result": "Final Tournament",
+          "points": 39,
+          "recent_form": "DWWWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 15251,
+          "team_name": "Uruguay",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 8,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 22,
+            "goals_against": 22,
+            "points": 28
+          },
+          "home": {
+            "games_played": 9,
+            "won": 5,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 12,
+            "goals_against": 7,
+            "points": 17
+          },
+          "away": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 10,
+            "goals_against": 15,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 28
+          },
+          "result": "Final Tournament",
+          "points": 28,
+          "recent_form": "WWWWL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18573,
+          "team_name": "Ecuador",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 7,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 27,
+            "goals_against": 19,
+            "points": 26
+          },
+          "home": {
+            "games_played": 9,
+            "won": 5,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 19,
+            "goals_against": 7,
+            "points": 18
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 8,
+            "goals_against": 12,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 26
+          },
+          "result": "Final Tournament",
+          "points": 26,
+          "recent_form": "DLDDW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18775,
+          "team_name": "Peru",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 7,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 19,
+            "goals_against": 22,
+            "points": 24
+          },
+          "home": {
+            "games_played": 9,
+            "won": 4,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 12,
+            "goals_against": 11,
+            "points": 14
+          },
+          "away": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 7,
+            "goals_against": 11,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 24
+          },
+          "result": "Intercontinental Play-off",
+          "points": 24,
+          "recent_form": "WLDWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18720,
+          "team_name": "Colombia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 5,
+            "draw": 8,
+            "lost": 5,
+            "goals_scored": 20,
+            "goals_against": 19,
+            "points": 23
+          },
+          "home": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 11,
+            "goals_against": 7,
+            "points": 13
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 9,
+            "goals_against": 12,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 23
+          },
+          "result": null,
+          "points": 23,
+          "recent_form": "WWLLD",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 18774,
+          "team_name": "Chile",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 5,
+            "draw": 4,
+            "lost": 9,
+            "goals_scored": 19,
+            "goals_against": 26,
+            "points": 19
+          },
+          "home": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 11,
+            "goals_against": 10,
+            "points": 11
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 8,
+            "goals_against": 16,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 19
+          },
+          "result": null,
+          "points": 19,
+          "recent_form": "LLWLL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 18723,
+          "team_name": "Paraguay",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 3,
+            "draw": 7,
+            "lost": 8,
+            "goals_scored": 12,
+            "goals_against": 26,
+            "points": 16
+          },
+          "home": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 10,
+            "goals_against": 11,
+            "points": 10
+          },
+          "away": {
+            "games_played": 9,
+            "won": 1,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 2,
+            "goals_against": 15,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-14",
+            "points": 16
+          },
+          "result": null,
+          "points": 16,
+          "recent_form": "LWLLD",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 18825,
+          "team_name": "Bolivia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 4,
+            "draw": 3,
+            "lost": 11,
+            "goals_scored": 23,
+            "goals_against": 42,
+            "points": 15
+          },
+          "home": {
+            "games_played": 9,
+            "won": 4,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 17,
+            "goals_against": 14,
+            "points": 13
+          },
+          "away": {
+            "games_played": 9,
+            "won": 0,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 6,
+            "goals_against": 28,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-19",
+            "points": 15
+          },
+          "result": null,
+          "points": 15,
+          "recent_form": "LLLLW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 18711,
+          "team_name": "Venezuela",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 3,
+            "draw": 1,
+            "lost": 14,
+            "goals_scored": 14,
+            "goals_against": 34,
+            "points": 10
+          },
+          "home": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 11,
+            "goals_against": 13,
+            "points": 10
+          },
+          "away": {
+            "games_played": 9,
+            "won": 0,
+            "draw": 0,
+            "lost": 9,
+            "goals_scored": 3,
+            "goals_against": 21,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-20",
+            "points": 10
+          },
+          "result": null,
+          "points": 10,
+          "recent_form": "LLLWL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": 77457866,
+    "name": "1st Phase",
+    "league_id": 501,
+    "season_id": 19735,
+    "round_id": 275094,
+    "round_name": 29,
+    "type": "Group Stage",
+    "stage_id": 77457866,
+    "stage_name": "1st Phase",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 53,
+          "team_name": "Celtic",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 27,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 93,
+            "goals_against": 21,
+            "points": 82
+          },
+          "home": {
+            "games_played": 15,
+            "won": 15,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 47,
+            "goals_against": 9,
+            "points": 45
+          },
+          "away": {
+            "games_played": 14,
+            "won": 12,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 46,
+            "goals_against": 12,
+            "points": 37
+          },
+          "total": {
+            "goal_difference": "72",
+            "points": 82
+          },
+          "result": "Championship Round",
+          "points": 82,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 62,
+          "team_name": "Rangers",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 23,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 72,
+            "goals_against": 27,
+            "points": 73
+          },
+          "home": {
+            "games_played": 14,
+            "won": 12,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 37,
+            "goals_against": 9,
+            "points": 38
+          },
+          "away": {
+            "games_played": 15,
+            "won": 11,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 35,
+            "goals_against": 18,
+            "points": 35
+          },
+          "total": {
+            "goal_difference": "45",
+            "points": 73
+          },
+          "result": "Championship Round",
+          "points": 73,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 314,
+          "team_name": "Hearts",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 13,
+            "draw": 6,
+            "lost": 10,
+            "goals_scored": 49,
+            "goals_against": 43,
+            "points": 45
+          },
+          "home": {
+            "games_played": 14,
+            "won": 10,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 34,
+            "goals_against": 20,
+            "points": 31
+          },
+          "away": {
+            "games_played": 15,
+            "won": 3,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 15,
+            "goals_against": 23,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 45
+          },
+          "result": "Championship Round",
+          "points": 45,
+          "recent_form": "LLWLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 273,
+          "team_name": "Aberdeen",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 13,
+            "draw": 2,
+            "lost": 14,
+            "goals_scored": 46,
+            "goals_against": 52,
+            "points": 41
+          },
+          "home": {
+            "games_played": 15,
+            "won": 10,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 34,
+            "goals_against": 14,
+            "points": 31
+          },
+          "away": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 1,
+            "lost": 10,
+            "goals_scored": 12,
+            "goals_against": 38,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 41
+          },
+          "result": "Championship Round",
+          "points": 41,
+          "recent_form": "WWWLW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 66,
+          "team_name": "Hibernian",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 12,
+            "draw": 4,
+            "lost": 13,
+            "goals_scored": 45,
+            "goals_against": 46,
+            "points": 40
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 27,
+            "goals_against": 18,
+            "points": 24
+          },
+          "away": {
+            "games_played": 15,
+            "won": 5,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 18,
+            "goals_against": 28,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 40
+          },
+          "result": "Championship Round",
+          "points": 40,
+          "recent_form": "LLWWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 258,
+          "team_name": "Livingston",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 11,
+            "draw": 6,
+            "lost": 12,
+            "goals_scored": 31,
+            "goals_against": 44,
+            "points": 39
+          },
+          "home": {
+            "games_played": 16,
+            "won": 7,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 20,
+            "points": 25
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 14,
+            "goals_against": 24,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 39
+          },
+          "result": "Championship Round",
+          "points": 39,
+          "recent_form": "WDLLL",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 496,
+          "team_name": "St. Mirren",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 10,
+            "draw": 8,
+            "lost": 11,
+            "goals_scored": 31,
+            "goals_against": 42,
+            "points": 38
+          },
+          "home": {
+            "games_played": 15,
+            "won": 8,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 14,
+            "points": 28
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 13,
+            "goals_against": 28,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 38
+          },
+          "result": "Relegation Round",
+          "points": 38,
+          "recent_form": "DLDWL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 734,
+          "team_name": "St. Johnstone",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 9,
+            "draw": 5,
+            "lost": 15,
+            "goals_scored": 33,
+            "goals_against": 48,
+            "points": 32
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 14,
+            "goals_against": 19,
+            "points": 12
+          },
+          "away": {
+            "games_played": 16,
+            "won": 6,
+            "draw": 2,
+            "lost": 8,
+            "goals_scored": 19,
+            "goals_against": 29,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "-15",
+            "points": 32
+          },
+          "result": "Relegation Round",
+          "points": 32,
+          "recent_form": "DLDWL",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 309,
+          "team_name": "Motherwell",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 8,
+            "draw": 6,
+            "lost": 15,
+            "goals_scored": 36,
+            "goals_against": 44,
+            "points": 30
+          },
+          "home": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 16,
+            "goals_against": 24,
+            "points": 12
+          },
+          "away": {
+            "games_played": 15,
+            "won": 5,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 20,
+            "goals_against": 20,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 30
+          },
+          "result": "Relegation Round",
+          "points": 30,
+          "recent_form": "LWDWW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 180,
+          "team_name": "Kilmarnock",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 6,
+            "draw": 7,
+            "lost": 16,
+            "goals_scored": 24,
+            "goals_against": 51,
+            "points": 25
+          },
+          "home": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 19,
+            "points": 23
+          },
+          "away": {
+            "games_played": 15,
+            "won": 0,
+            "draw": 2,
+            "lost": 13,
+            "goals_scored": 6,
+            "goals_against": 32,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-27",
+            "points": 25
+          },
+          "result": "Relegation Round",
+          "points": 25,
+          "recent_form": "DLDLL",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 246,
+          "team_name": "Ross County",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 6,
+            "draw": 6,
+            "lost": 17,
+            "goals_scored": 25,
+            "goals_against": 43,
+            "points": 24
+          },
+          "home": {
+            "games_played": 15,
+            "won": 4,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 17,
+            "goals_against": 24,
+            "points": 15
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 8,
+            "goals_against": 19,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-18",
+            "points": 24
+          },
+          "result": "Relegation Round",
+          "points": 24,
+          "recent_form": "LLWLL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 282,
+          "team_name": "Dundee United",
+          "round_id": 275094,
+          "round_name": 29,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 29,
+            "won": 5,
+            "draw": 7,
+            "lost": 17,
+            "goals_scored": 30,
+            "goals_against": 54,
+            "points": 22
+          },
+          "home": {
+            "games_played": 15,
+            "won": 4,
+            "draw": 2,
+            "lost": 9,
+            "goals_scored": 18,
+            "goals_against": 28,
+            "points": 14
+          },
+          "away": {
+            "games_played": 14,
+            "won": 1,
+            "draw": 5,
+            "lost": 8,
+            "goals_scored": 12,
+            "goals_against": 26,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-24",
+            "points": 22
+          },
+          "result": "Relegation Round",
+          "points": 22,
+          "recent_form": "DDLLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

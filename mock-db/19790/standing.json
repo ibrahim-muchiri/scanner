@@ -1,0 +1,1106 @@
+[
+  {
+    "id": 77457999,
+    "name": "Regular Season",
+    "league_id": 181,
+    "season_id": 19790,
+    "round_id": 275675,
+    "round_name": 22,
+    "type": "Group Stage",
+    "stage_id": 77457999,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 49,
+          "team_name": "Salzburg",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 17,
+            "draw": 4,
+            "lost": 1,
+            "goals_scored": 49,
+            "goals_against": 13,
+            "points": 55
+          },
+          "home": {
+            "games_played": 11,
+            "won": 7,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 19,
+            "goals_against": 4,
+            "points": 25
+          },
+          "away": {
+            "games_played": 11,
+            "won": 10,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 30,
+            "goals_against": 9,
+            "points": 30
+          },
+          "total": {
+            "goal_difference": "36",
+            "points": 55
+          },
+          "result": "Championship Round",
+          "points": 55,
+          "recent_form": "DWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 3357,
+          "team_name": "Sturm Graz",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 14,
+            "draw": 6,
+            "lost": 2,
+            "goals_scored": 37,
+            "goals_against": 15,
+            "points": 48
+          },
+          "home": {
+            "games_played": 11,
+            "won": 8,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 20,
+            "goals_against": 9,
+            "points": 25
+          },
+          "away": {
+            "games_played": 11,
+            "won": 6,
+            "draw": 5,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 6,
+            "points": 23
+          },
+          "total": {
+            "goal_difference": "22",
+            "points": 48
+          },
+          "result": "Championship Round",
+          "points": 48,
+          "recent_form": "WWWLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 3369,
+          "team_name": "LASK Linz",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 8,
+            "lost": 4,
+            "goals_scored": 38,
+            "goals_against": 28,
+            "points": 38
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 17,
+            "points": 18
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 5,
+            "lost": 1,
+            "goals_scored": 19,
+            "goals_against": 11,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 38
+          },
+          "result": "Championship Round",
+          "points": 38,
+          "recent_form": "DLWWD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 3678,
+          "team_name": "Rapid Vienna",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 34,
+            "goals_against": 26,
+            "points": 33
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 14,
+            "points": 16
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 16,
+            "goals_against": 12,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 33
+          },
+          "result": "Championship Round",
+          "points": 33,
+          "recent_form": "LWLWW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 3630,
+          "team_name": "Austria Wien",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 37,
+            "goals_against": 31,
+            "points": 32
+          },
+          "home": {
+            "games_played": 11,
+            "won": 6,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 13,
+            "points": 20
+          },
+          "away": {
+            "games_played": 11,
+            "won": 4,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 18,
+            "goals_against": 18,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 32
+          },
+          "result": "Championship Round",
+          "points": 32,
+          "recent_form": "WLWWL",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 4065,
+          "team_name": "Austria Klagenfurt",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 9,
+            "draw": 3,
+            "lost": 10,
+            "goals_scored": 35,
+            "goals_against": 40,
+            "points": 30
+          },
+          "home": {
+            "games_played": 11,
+            "won": 4,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 13
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 22,
+            "goals_against": 23,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 30
+          },
+          "result": "Championship Round",
+          "points": 30,
+          "recent_form": "LWWWL",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 4080,
+          "team_name": "WSG Tirol",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 8,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 32,
+            "goals_against": 37,
+            "points": 28
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 21,
+            "points": 12
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 19,
+            "goals_against": 16,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 28
+          },
+          "result": "Relegation Round",
+          "points": 28,
+          "recent_form": "LLLDL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 3601,
+          "team_name": "Austria Lustenau",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 7,
+            "draw": 6,
+            "lost": 9,
+            "goals_scored": 29,
+            "goals_against": 37,
+            "points": 27
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 19,
+            "points": 18
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 10,
+            "goals_against": 18,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 27
+          },
+          "result": "Relegation Round",
+          "points": 27,
+          "recent_form": "WWLLW",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 3787,
+          "team_name": "Wolfsberger AC",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 6,
+            "draw": 3,
+            "lost": 13,
+            "goals_scored": 35,
+            "goals_against": 41,
+            "points": 21
+          },
+          "home": {
+            "games_played": 11,
+            "won": 1,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 15,
+            "goals_against": 25,
+            "points": 4
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 20,
+            "goals_against": 16,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 21
+          },
+          "result": "Relegation Round",
+          "points": 21,
+          "recent_form": "DLLLW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 3569,
+          "team_name": "Ried",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 4,
+            "draw": 6,
+            "lost": 12,
+            "goals_scored": 16,
+            "goals_against": 32,
+            "points": 18
+          },
+          "home": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 10,
+            "goals_against": 16,
+            "points": 10
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 6,
+            "goals_against": 16,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 18
+          },
+          "result": "Relegation Round",
+          "points": 18,
+          "recent_form": "DWLLD",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 5769,
+          "team_name": "Hartberg",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 5,
+            "draw": 3,
+            "lost": 14,
+            "goals_scored": 22,
+            "goals_against": 42,
+            "points": 18
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 14,
+            "goals_against": 22,
+            "points": 11
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 8,
+            "goals_against": 20,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-20",
+            "points": 18
+          },
+          "result": "Relegation Round",
+          "points": 18,
+          "recent_form": "DLWLL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 3949,
+          "team_name": "Rheindorf Altach",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 4,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 22,
+            "goals_against": 44,
+            "points": 17
+          },
+          "home": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 9
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 10,
+            "goals_against": 26,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-22",
+            "points": 17
+          },
+          "result": "Relegation Round",
+          "points": 17,
+          "recent_form": "DLLDL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 77457998,
+    "name": "Relegation Round",
+    "league_id": 181,
+    "season_id": 19790,
+    "round_id": 275675,
+    "round_name": 22,
+    "type": "Group Stage",
+    "stage_id": 77457998,
+    "stage_name": "Relegation Round",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 4080,
+          "team_name": "WSG Tirol",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 8,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 32,
+            "goals_against": 37,
+            "points": 14
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 21,
+            "points": 12
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 19,
+            "goals_against": 16,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 14
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 14,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 3601,
+          "team_name": "Austria Lustenau",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 7,
+            "draw": 6,
+            "lost": 9,
+            "goals_scored": 29,
+            "goals_against": 37,
+            "points": 13
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 19,
+            "points": 18
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 10,
+            "goals_against": 18,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 13
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 13,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 3787,
+          "team_name": "Wolfsberger AC",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 6,
+            "draw": 3,
+            "lost": 13,
+            "goals_scored": 35,
+            "goals_against": 41,
+            "points": 10
+          },
+          "home": {
+            "games_played": 11,
+            "won": 1,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 15,
+            "goals_against": 25,
+            "points": 4
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 20,
+            "goals_against": 16,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 10
+          },
+          "result": null,
+          "points": 10,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 3569,
+          "team_name": "Ried",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 4,
+            "draw": 6,
+            "lost": 12,
+            "goals_scored": 16,
+            "goals_against": 32,
+            "points": 9
+          },
+          "home": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 10,
+            "goals_against": 16,
+            "points": 10
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 6,
+            "goals_against": 16,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 5769,
+          "team_name": "Hartberg",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 5,
+            "draw": 3,
+            "lost": 14,
+            "goals_scored": 22,
+            "goals_against": 42,
+            "points": 9
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 14,
+            "goals_against": 22,
+            "points": 11
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 8,
+            "goals_against": 20,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-20",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 3949,
+          "team_name": "Rheindorf Altach",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 4,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 22,
+            "goals_against": 44,
+            "points": 8
+          },
+          "home": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 9
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 10,
+            "goals_against": 26,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-22",
+            "points": 8
+          },
+          "result": "Relegation",
+          "points": 8,
+          "recent_form": "",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 77457997,
+    "name": "Championship Round",
+    "league_id": 181,
+    "season_id": 19790,
+    "round_id": 275675,
+    "round_name": 22,
+    "type": "Group Stage",
+    "stage_id": 77457997,
+    "stage_name": "Championship Round",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 49,
+          "team_name": "Salzburg",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 17,
+            "draw": 4,
+            "lost": 1,
+            "goals_scored": 49,
+            "goals_against": 13,
+            "points": 27
+          },
+          "home": {
+            "games_played": 11,
+            "won": 7,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 19,
+            "goals_against": 4,
+            "points": 25
+          },
+          "away": {
+            "games_played": 11,
+            "won": 10,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 30,
+            "goals_against": 9,
+            "points": 30
+          },
+          "total": {
+            "goal_difference": "36",
+            "points": 27
+          },
+          "result": "UEFA Champions League",
+          "points": 27,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 3357,
+          "team_name": "Sturm Graz",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 14,
+            "draw": 6,
+            "lost": 2,
+            "goals_scored": 37,
+            "goals_against": 15,
+            "points": 24
+          },
+          "home": {
+            "games_played": 11,
+            "won": 8,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 20,
+            "goals_against": 9,
+            "points": 25
+          },
+          "away": {
+            "games_played": 11,
+            "won": 6,
+            "draw": 5,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 6,
+            "points": 23
+          },
+          "total": {
+            "goal_difference": "22",
+            "points": 24
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 24,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 3369,
+          "team_name": "LASK Linz",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 8,
+            "lost": 4,
+            "goals_scored": 38,
+            "goals_against": 28,
+            "points": 19
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 17,
+            "points": 18
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 5,
+            "lost": 1,
+            "goals_scored": 19,
+            "goals_against": 11,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 19
+          },
+          "result": "UEFA Europa League Qualifiers",
+          "points": 19,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 3630,
+          "team_name": "Austria Wien",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 37,
+            "goals_against": 31,
+            "points": 17
+          },
+          "home": {
+            "games_played": 11,
+            "won": 6,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 13,
+            "points": 20
+          },
+          "away": {
+            "games_played": 11,
+            "won": 4,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 18,
+            "goals_against": 18,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 17
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 17,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 3678,
+          "team_name": "Rapid Vienna",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 10,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 34,
+            "goals_against": 26,
+            "points": 16
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 14,
+            "points": 16
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 16,
+            "goals_against": 12,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 16
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 16,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 4065,
+          "team_name": "Austria Klagenfurt",
+          "round_id": 275675,
+          "round_name": 22,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 22,
+            "won": 9,
+            "draw": 3,
+            "lost": 10,
+            "goals_scored": 35,
+            "goals_against": 40,
+            "points": 15
+          },
+          "home": {
+            "games_played": 11,
+            "won": 4,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 13
+          },
+          "away": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 22,
+            "goals_against": 23,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 15
+          },
+          "result": null,
+          "points": 15,
+          "recent_form": "",
+          "status": null
+        }
+      ]
+    }
+  }
+]

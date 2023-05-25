@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.round (round_id, season_id, stage_id, name, start_on, end_on)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.season_id }}, {{ item.stage_id }}, '{{ item.name }}', '{{ item.start }}', '{{ item.end }}')
+  {%- if not loop.last %},{% endif %}
+{% endfor %}
+on conflict (round_id) do nothing;

@@ -1,0 +1,15 @@
+{
+  "language": "ts",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "assets": [
+      { "include": "**/postgraphile.tags.json5", "watchAssets": true, "outDir": "dist/src" },
+      { "include": "**/*.js", "watchAssets": true },
+      { "include": "**/*.html", "watchAssets": true },
+      { "include": "**/*.css", "watchAssets": true },
+      { "include": "./template-engine/templates/**", "watchAssets": true }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+-- created at {{now()}}
+insert into app_public.season (season_id, league_id, name, current_stage_id, current_round_id)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.league_id }}, '{{ item.name|esc }}', {{ item.current_stage_id|default('NULL', true) }}, {{ item.current_round_id|default('NULL', true) }})
+  {%- if not loop.last %},{% else %};{% endif %}
+{% endfor %}

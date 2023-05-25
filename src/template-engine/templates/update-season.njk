@@ -1,0 +1,36 @@
+-- created at {{now()}}
+insert into app_public.season (season_id, league_id, name, current_stage_id, current_round_id)
+values
+{% for item in data.season -%}
+  ({{ item.id }}, {{ item.league_id }}, '{{ item.name|esc }}', {{ item.current_stage_id|default('NULL', true) }}, {{ item.current_round_id|default('NULL', true) }})
+  {%- if not loop.last %},{% endif %}
+{% endfor %}
+on conflict (season_id) do update
+  set
+    current_stage_id = EXCLUDED.current_stage_id,
+    current_round_id = EXCLUDED.current_round_id;
+
+update app_public.fixture as f set
+  status_detail = u.status_detail,
+  winner_id = u.winner_id,
+  scheduled_at = u.scheduled_at,
+  fin_home = u.fin_home,
+  fin_away = u.fin_away,
+  ft_home = u.ft_home,
+  ft_away = u.ft_away,
+  ht_home = u.ht_home,
+  ht_away = u.ht_away,
+  et_home = u.et_home,
+  et_away = u.et_away,
+  pen_home = u.pen_home,
+  pen_away = u.pen_away,
+  deleted = u.deleted
+from (values
+{% for item in data.fixtures -%}
+    ({{ item.id }}, '{{ item.time.status|status -}}'::app_public.fixture_state_detail, {{ item.winner_team_id|ifNil() }}::int, '{{ item.time.starting_at.date_time }}Z'::timestamptz, {{ item.scores.localteam_score|ifNil() }}::smallint, {{ item.scores.visitorteam_score|ifNil() }}::smallint, {{ item.scores.ft_score|home|ifNil() }}::smallint, {{ item.scores.ft_score|away|ifNil() }}::smallint, {{ item.scores.ht_score|home|ifNil() }}::smallint, {{ item.scores.ht_score|away|ifNil() }}::smallint, {{ item.scores.et_score|home|ifNil() }}::smallint, {{ item.scores.et_score|away|ifNil() }}::smallint, {{ item.scores.localteam_pen_score|ifNil() }}::smallint, {{ item.scores.visitorteam_pen_score|ifNil() }}::smallint, {{ item.deleted }})
+    {%- if not loop.last %},{% endif %}
+{% endfor %}) as u(fixture_id, status_detail, winner_id, scheduled_at, fin_home, fin_away, ft_home, ft_away, ht_home, ht_away, et_home, et_away, pen_home, pen_away, deleted)
+where f.fixture_id = u.fixture_id;
+
+insert into app_public.scanner_log (type, hash, identifier, scanner, data) values
+('{{meta.type}}'::app_public.scanner_log_type, '{{meta.hash}}', '{{ meta.id|ifNil() }}', '{{meta.log}}', '{{meta.json}}');

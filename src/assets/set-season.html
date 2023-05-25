@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="./../styles.css" />
+    <title>Bettles DevTools</title>
+  </head>
+  <body>
+    <script src="./../set-season.js" type="text/javascript"></script>
+
+    <nav class="container navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="/db-mock/">Bettles DevTools</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="/db-mock/set-season"
+              >Set Back Season
+              <span class="sr-only"></span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="feature2" aria-disabled="true">Feature 2</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="position-fixed top-0 end-0 p-3 toastfront">
+      <div class="toast" id="successToast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header">
+          <strong class="me-auto">Bettles</strong>
+          <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body" id="toast-message">Nothing</div>
+      </div>
+    </div>
+
+    <div class="accordion container-sm" id="accordionLeague">
+      {% for season in seasons %}
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="{{ season.htmlId }}">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse{{ season.htmlId }}"
+            aria-expanded="false"
+            aria-controls="collapse{{ season.htmlId }}"
+          >
+            {{ season.name }}
+          </button>
+        </h2>
+        <div
+          id="collapse{{ season.htmlId }}"
+          class="accordion-collapse collapse"
+          aria-labelledby="{{ season.htmlId }}"
+          data-bs-parent="#accordionLeague"
+        >
+          <div class="accordion-body">
+            <!-- inner Accordion for fixtures -->
+            <strong>Fixtures of {{ season.name }}</strong>
+            <div class="row container">
+              <div class="col">
+                <div class="accordion" id="accordionFixtureFirstHalf">
+                  {% for fixture in season.fixturesFirstHalf %}
+                  <div class="accordion-item">
+                    <h4 class="accordion-header" id="{{ fixture.id }}">
+                      <button
+                        class="accordion-button collapsed"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapse{{ fixture.id }}"
+                        aria-expanded="false"
+                        aria-controls="collapse{{ season.htmlId }}"
+                      >
+                        {{ fixture.date_time }} : {{fixture.local_team}} ({{ fixture.local_team_score }}) - {{
+                        fixture.visiting_team }} ({{ fixture.visiting_team_score }})
+                      </button>
+                    </h4>
+                    <div
+                      id="collapse{{ fixture.id }}"
+                      class="accordion-collapse collapse"
+                      aria-labelledby="{{ fixture.id }}"
+                      data-bs-parent="#accordionFixtureFirstHalf"
+                    >
+                      <div class="accordion-body">
+                        <h1>Set back season</h1>
+                        <button
+                          onclick="sendPost('{{ season.htmlId }}', '{{ fixture.date_time }}', true)"
+                          id="btn-{{ fixture.id }}"
+                          class="btn btn-primary"
+                        >
+                          Including {{fixture.local_team}} - {{fixture.visiting_team}}
+                        </button>
+                        <button
+                          onclick="sendPost('{{ season.htmlId }}', '{{ fixture.date_time }}', false)"
+                          id="btn-{{ fixture.id }}"
+                          class="btn btn-primary"
+                        >
+                          Excluding {{fixture.local_team}} - {{fixture.visiting_team}}
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+              </div>
+              <div class="col">
+                <div class="accordion" id="accordionFixtureSecondHalf">
+                  {% for fixture in season.fixturesSecondHalf %}
+                  <div class="accordion-item">
+                    <h4 class="accordion-header" id="{{ fixture.id }}">
+                      <button
+                        class="accordion-button collapsed"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapse{{ fixture.id }}"
+                        aria-expanded="false"
+                        aria-controls="collapse{{ fixture.id }}"
+                      >
+                        {{ fixture.date_time }} : {{fixture.local_team}} ({{ fixture.local_team_score }}) - {{
+                        fixture.visiting_team }} ({{ fixture.visiting_team_score }})
+                      </button>
+                    </h4>
+                    <div
+                      id="collapse{{ fixture.id }}"
+                      class="accordion-collapse collapse"
+                      aria-labelledby="{{ fixture.id }}"
+                      data-bs-parent="#accordionFixtureSecondHalf"
+                    >
+                      <div class="accordion-body">
+                        <h1>Set back season</h1>
+                        <button
+                          onclick="sendPost('{{ season.htmlId }}', '{{ fixture.date_time }}', true)"
+                          id="btn-{{ fixture.id }}"
+                          class="btn btn-primary"
+                        >
+                          Including {{fixture.local_team}} - {{fixture.visiting_team}}
+                        </button>
+                        <button
+                          onclick="sendPost('{{ season.htmlId }}', '{{ fixture.date_time }}', false)"
+                          id="btn-{{ fixture.id }}"
+                          class="btn btn-primary"
+                        >
+                          Excluding {{fixture.local_team}} - {{fixture.visiting_team}}
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Bundled -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+      nonce="{{ nonce3 }}"
+    ></script>
+  </body>
+</html>

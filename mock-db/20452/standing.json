@@ -1,0 +1,722 @@
+[
+  {
+    "id": 77459674,
+    "name": "Regular Season",
+    "league_id": 609,
+    "season_id": 20452,
+    "round_id": 287947,
+    "round_name": 18,
+    "type": "Group Stage",
+    "stage_id": 77459674,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 621,
+          "team_name": "Shakhtar Donetsk",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 13,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 45,
+            "goals_against": 12,
+            "points": 42
+          },
+          "home": {
+            "games_played": 10,
+            "won": 7,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 21,
+            "goals_against": 8,
+            "points": 24
+          },
+          "away": {
+            "games_played": 7,
+            "won": 6,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 24,
+            "goals_against": 4,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "33",
+            "points": 42
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 42,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 109275,
+          "team_name": "Dnipro-1",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 12,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 34,
+            "goals_against": 13,
+            "points": 39
+          },
+          "home": {
+            "games_played": 8,
+            "won": 6,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 16,
+            "goals_against": 5,
+            "points": 19
+          },
+          "away": {
+            "games_played": 9,
+            "won": 6,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 18,
+            "goals_against": 8,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "21",
+            "points": 39
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 39,
+          "recent_form": "WLDLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 6255,
+          "team_name": "Zorya",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 11,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 39,
+            "goals_against": 25,
+            "points": 37
+          },
+          "home": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 21,
+            "goals_against": 12,
+            "points": 18
+          },
+          "away": {
+            "games_played": 10,
+            "won": 6,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 13,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "14",
+            "points": 37
+          },
+          "result": "UEFA Europa League Qualifiers",
+          "points": 37,
+          "recent_form": "WWWDD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 556,
+          "team_name": "Dynamo Kyiv",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 10,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 25,
+            "goals_against": 16,
+            "points": 33
+          },
+          "home": {
+            "games_played": 11,
+            "won": 5,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 14,
+            "goals_against": 9,
+            "points": 18
+          },
+          "away": {
+            "games_played": 7,
+            "won": 5,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 11,
+            "goals_against": 7,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 33
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 33,
+          "recent_form": "LWLDW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 3668,
+          "team_name": "Oleksandria",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 7,
+            "draw": 7,
+            "lost": 3,
+            "goals_scored": 29,
+            "goals_against": 25,
+            "points": 28
+          },
+          "home": {
+            "games_played": 9,
+            "won": 5,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 20,
+            "goals_against": 13,
+            "points": 18
+          },
+          "away": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 9,
+            "goals_against": 12,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 28
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 28,
+          "recent_form": "DDDDD",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 6637,
+          "team_name": "Kolos Kovalivka",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 6,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 15,
+            "goals_against": 20,
+            "points": 23
+          },
+          "home": {
+            "games_played": 9,
+            "won": 4,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 9,
+            "goals_against": 7,
+            "points": 14
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 6,
+            "goals_against": 13,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 23
+          },
+          "result": null,
+          "points": 23,
+          "recent_form": "LWLWD",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 6403,
+          "team_name": "Kryvbas Kryvyi Rih",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 6,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 14,
+            "goals_against": 21,
+            "points": 22
+          },
+          "home": {
+            "games_played": 9,
+            "won": 4,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 8,
+            "points": 14
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 8,
+            "goals_against": 13,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 22
+          },
+          "result": null,
+          "points": 22,
+          "recent_form": "DLWWW",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 109276,
+          "team_name": "Metalist 1925 Kharkiv",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 4,
+            "draw": 9,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 28,
+            "points": 21
+          },
+          "home": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 10,
+            "goals_against": 20,
+            "points": 11
+          },
+          "away": {
+            "games_played": 9,
+            "won": 1,
+            "draw": 7,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 8,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 21
+          },
+          "result": null,
+          "points": 21,
+          "recent_form": "DDLDD",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 11117,
+          "team_name": "Vorskla",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 5,
+            "draw": 5,
+            "lost": 8,
+            "goals_scored": 22,
+            "goals_against": 25,
+            "points": 20
+          },
+          "home": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 9,
+            "goals_against": 8,
+            "points": 12
+          },
+          "away": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 20
+          },
+          "result": null,
+          "points": 20,
+          "recent_form": "DDLLW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 5563,
+          "team_name": "Inhulets",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 5,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 17,
+            "goals_against": 21,
+            "points": 19
+          },
+          "home": {
+            "games_played": 9,
+            "won": 4,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 9,
+            "goals_against": 10,
+            "points": 12
+          },
+          "away": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 8,
+            "goals_against": 11,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 19
+          },
+          "result": null,
+          "points": 19,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 5562,
+          "team_name": "Veres",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 5,
+            "draw": 3,
+            "lost": 10,
+            "goals_scored": 20,
+            "goals_against": 26,
+            "points": 18
+          },
+          "home": {
+            "games_played": 8,
+            "won": 0,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 6,
+            "goals_against": 14,
+            "points": 2
+          },
+          "away": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 14,
+            "goals_against": 12,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 18
+          },
+          "result": null,
+          "points": 18,
+          "recent_form": "LDLLL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 6061,
+          "team_name": "Chornomorets",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 4,
+            "draw": 6,
+            "lost": 8,
+            "goals_scored": 16,
+            "goals_against": 23,
+            "points": 18
+          },
+          "home": {
+            "games_played": 9,
+            "won": 1,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 5,
+            "goals_against": 13,
+            "points": 6
+          },
+          "away": {
+            "games_played": 9,
+            "won": 3,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 11,
+            "goals_against": 10,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 18
+          },
+          "result": null,
+          "points": 18,
+          "recent_form": "WDWDL",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 226703,
+          "team_name": "Minai",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 4,
+            "draw": 6,
+            "lost": 8,
+            "goals_scored": 13,
+            "goals_against": 21,
+            "points": 18
+          },
+          "home": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 5,
+            "goals_against": 10,
+            "points": 6
+          },
+          "away": {
+            "games_played": 10,
+            "won": 3,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 8,
+            "goals_against": 11,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 18
+          },
+          "result": "Relegation Play-off",
+          "points": 18,
+          "recent_form": "WDLLD",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 6629,
+          "team_name": "Rukh Vynnyky",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 4,
+            "draw": 5,
+            "lost": 8,
+            "goals_scored": 19,
+            "goals_against": 26,
+            "points": 17
+          },
+          "home": {
+            "games_played": 9,
+            "won": 2,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 12,
+            "goals_against": 13,
+            "points": 9
+          },
+          "away": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 7,
+            "goals_against": 13,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 17
+          },
+          "result": "Relegation Play-off",
+          "points": 17,
+          "recent_form": "LLWDD",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 249462,
+          "team_name": "Metal Kharkiv",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 18,
+            "won": 4,
+            "draw": 5,
+            "lost": 9,
+            "goals_scored": 17,
+            "goals_against": 27,
+            "points": 17
+          },
+          "home": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 6,
+            "goals_against": 13,
+            "points": 6
+          },
+          "away": {
+            "games_played": 10,
+            "won": 3,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 11,
+            "goals_against": 14,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 17
+          },
+          "result": "Relegation",
+          "points": 17,
+          "recent_form": "DLLLD",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 13986,
+          "team_name": "Lviv",
+          "round_id": 287947,
+          "round_name": 18,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 17,
+            "won": 3,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 13,
+            "goals_against": 26,
+            "points": 13
+          },
+          "home": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 9,
+            "goals_against": 14,
+            "points": 8
+          },
+          "away": {
+            "games_played": 9,
+            "won": 1,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 4,
+            "goals_against": 12,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 13
+          },
+          "result": "Relegation",
+          "points": 13,
+          "recent_form": "DLWLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

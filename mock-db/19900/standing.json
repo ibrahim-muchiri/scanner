@@ -1,0 +1,854 @@
+[
+  {
+    "id": 77458273,
+    "name": "Regular Season",
+    "league_id": 600,
+    "season_id": 19900,
+    "round_id": 277549,
+    "round_name": 26,
+    "type": "Group Stage",
+    "stage_id": 77458273,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 34,
+          "team_name": "Galatasaray",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 19,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 52,
+            "goals_against": 19,
+            "points": 60
+          },
+          "home": {
+            "games_played": 12,
+            "won": 10,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 24,
+            "goals_against": 12,
+            "points": 31
+          },
+          "away": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 28,
+            "goals_against": 7,
+            "points": 29
+          },
+          "total": {
+            "goal_difference": "33",
+            "points": 60
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 60,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 88,
+          "team_name": "Fenerbahçe",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 17,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 61,
+            "goals_against": 26,
+            "points": 54
+          },
+          "home": {
+            "games_played": 12,
+            "won": 9,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 35,
+            "goals_against": 15,
+            "points": 28
+          },
+          "away": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 26,
+            "goals_against": 11,
+            "points": 26
+          },
+          "total": {
+            "goal_difference": "35",
+            "points": 54
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 54,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 554,
+          "team_name": "Beşiktaş",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 14,
+            "draw": 7,
+            "lost": 4,
+            "goals_scored": 45,
+            "goals_against": 25,
+            "points": 49
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 26,
+            "goals_against": 10,
+            "points": 30
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 15,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "20",
+            "points": 49
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 49,
+          "recent_form": "WWWDL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 1039,
+          "team_name": "Adana Demirspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 12,
+            "draw": 9,
+            "lost": 4,
+            "goals_scored": 47,
+            "goals_against": 27,
+            "points": 45
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 26,
+            "goals_against": 7,
+            "points": 28
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 21,
+            "goals_against": 20,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "20",
+            "points": 45
+          },
+          "result": null,
+          "points": 45,
+          "recent_form": "WLDWW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 688,
+          "team_name": "Trabzonspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 13,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 42,
+            "goals_against": 32,
+            "points": 44
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 24,
+            "goals_against": 7,
+            "points": 30
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 18,
+            "goals_against": 25,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 44
+          },
+          "result": null,
+          "points": 44,
+          "recent_form": "WWLLW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 3702,
+          "team_name": "İstanbul Başakşehir",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 12,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 34,
+            "goals_against": 26,
+            "points": 41
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 13,
+            "points": 25
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 13,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 41
+          },
+          "result": null,
+          "points": 41,
+          "recent_form": "DLLLW",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 643,
+          "team_name": "Kayserispor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 12,
+            "draw": 2,
+            "lost": 11,
+            "goals_scored": 39,
+            "goals_against": 36,
+            "points": 38
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 22,
+            "goals_against": 16,
+            "points": 22
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 20,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 38
+          },
+          "result": null,
+          "points": 38,
+          "recent_form": "WLLWW",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 2632,
+          "team_name": "Konyaspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 10,
+            "lost": 7,
+            "goals_scored": 29,
+            "goals_against": 27,
+            "points": 34
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 11,
+            "goals_against": 11,
+            "points": 17
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 16,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "WWLDL",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 3990,
+          "team_name": "Fatih Karagümrük",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 7,
+            "draw": 10,
+            "lost": 7,
+            "goals_scored": 51,
+            "goals_against": 47,
+            "points": 31
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 28,
+            "goals_against": 23,
+            "points": 17
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 23,
+            "goals_against": 24,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 31
+          },
+          "result": null,
+          "points": 31,
+          "recent_form": "DDWWD",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 81,
+          "team_name": "Antalyaspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 4,
+            "lost": 13,
+            "goals_scored": 32,
+            "goals_against": 40,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 23,
+            "goals_against": 20,
+            "points": 20
+          },
+          "away": {
+            "games_played": 12,
+            "won": 2,
+            "draw": 2,
+            "lost": 8,
+            "goals_scored": 9,
+            "goals_against": 20,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "LWLDW",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 347,
+          "team_name": "Alanyaspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 7,
+            "lost": 11,
+            "goals_scored": 35,
+            "goals_against": 46,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 23,
+            "goals_against": 17,
+            "points": 22
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 12,
+            "goals_against": 29,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "LLWLL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 365,
+          "team_name": "Sivasspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 6,
+            "lost": 12,
+            "goals_scored": 31,
+            "goals_against": 38,
+            "points": 27
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 14,
+            "goals_against": 13,
+            "points": 14
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 17,
+            "goals_against": 25,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 27
+          },
+          "result": null,
+          "points": 27,
+          "recent_form": "WLLWW",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 1071,
+          "team_name": "Kasımpaşa",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 31,
+            "goals_against": 44,
+            "points": 26
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 23,
+            "goals_against": 26,
+            "points": 18
+          },
+          "away": {
+            "games_played": 11,
+            "won": 2,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 8,
+            "goals_against": 18,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "DLWLW",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 4192,
+          "team_name": "Gaziantep F.K.",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 6,
+            "draw": 7,
+            "lost": 12,
+            "goals_scored": 31,
+            "goals_against": 39,
+            "points": 25
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 19,
+            "points": 13
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 14,
+            "goals_against": 20,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 25
+          },
+          "result": null,
+          "points": 25,
+          "recent_form": "LLLLW",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 3470,
+          "team_name": "Ankaragücü",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 7,
+            "draw": 4,
+            "lost": 13,
+            "goals_scored": 27,
+            "goals_against": 37,
+            "points": 25
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 15,
+            "goals_against": 18,
+            "points": 14
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 12,
+            "goals_against": 19,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 25
+          },
+          "result": null,
+          "points": 25,
+          "recent_form": "LWLLL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 3009,
+          "team_name": "İstanbulspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 7,
+            "draw": 3,
+            "lost": 14,
+            "goals_scored": 27,
+            "goals_against": 48,
+            "points": 24
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 15,
+            "goals_against": 23,
+            "points": 11
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 12,
+            "goals_against": 25,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-21",
+            "points": 24
+          },
+          "result": "Relegation",
+          "points": 24,
+          "recent_form": "LWWWL",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 6328,
+          "team_name": "Giresunspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 5,
+            "draw": 8,
+            "lost": 11,
+            "goals_scored": 23,
+            "goals_against": 42,
+            "points": 23
+          },
+          "home": {
+            "games_played": 11,
+            "won": 3,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 11
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 6,
+            "lost": 5,
+            "goals_scored": 11,
+            "goals_against": 24,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-19",
+            "points": 23
+          },
+          "result": "Relegation",
+          "points": 23,
+          "recent_form": "DDLLL",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 13833,
+          "team_name": "Hatayspor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 24,
+            "won": 6,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 19,
+            "goals_against": 47,
+            "points": 23
+          },
+          "home": {
+            "games_played": 11,
+            "won": 4,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 12,
+            "goals_against": 16,
+            "points": 16
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 1,
+            "lost": 10,
+            "goals_scored": 7,
+            "goals_against": 31,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-28",
+            "points": 23
+          },
+          "result": "Relegation",
+          "points": 23,
+          "recent_form": "LLLWL",
+          "status": null
+        },
+        {
+          "position": 19,
+          "team_id": 936,
+          "team_name": "Ümraniyespor",
+          "round_id": 277549,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 5,
+            "draw": 7,
+            "lost": 13,
+            "goals_scored": 33,
+            "goals_against": 43,
+            "points": 22
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 15,
+            "goals_against": 21,
+            "points": 9
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 22,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 22
+          },
+          "result": "Relegation",
+          "points": 22,
+          "recent_form": "DWWDL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

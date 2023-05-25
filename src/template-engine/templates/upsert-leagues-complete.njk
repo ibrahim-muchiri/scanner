@@ -1,0 +1,11 @@
+-- created at {{now()}}
+insert into app_public.league (league_id, country_id, name, active, type, is_cup, logo_path, live_standings, current_season_id, current_stage_id, current_round_id)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.country_id }}, '{{ item.name|esc }}', {{ item.active }}, '{{ item.type|leagueType }}', {{ item.is_cup }}, '{{ item.logo_path }}', {{ item.live_standings }}, {{ item.current_season_id|ifNil() }}, {{ item.current_stage_id|ifNil() }}, {{ item.current_round_id|ifNil() }})
+  {%- if not loop.last %},{% endif %}
+{% endfor -%}
+on conflict (league_id) do nothing;
+
+insert into app_public.scanner_log (type, hash, entity_id, log, data) values
+('{{meta.type}}'::app_public.scanner_log_type, '{{meta.hash}}', '{{ meta.id|ifNil() }}', '{{meta.log}}', '{{meta.json}}');

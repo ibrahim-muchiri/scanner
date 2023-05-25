@@ -1,0 +1,898 @@
+[
+  {
+    "id": 77457864,
+    "name": "Regular Season",
+    "league_id": 8,
+    "season_id": 19734,
+    "round_id": 274695,
+    "round_name": 28,
+    "type": "Group Stage",
+    "stage_id": 77457864,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 19,
+          "team_name": "Arsenal",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 22,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 66,
+            "goals_against": 26,
+            "points": 69
+          },
+          "home": {
+            "games_played": 14,
+            "won": 11,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 38,
+            "goals_against": 17,
+            "points": 35
+          },
+          "away": {
+            "games_played": 14,
+            "won": 11,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 28,
+            "goals_against": 9,
+            "points": 34
+          },
+          "total": {
+            "goal_difference": "40",
+            "points": 69
+          },
+          "result": "UEFA Champions League",
+          "points": 69,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 9,
+          "team_name": "Manchester City",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 19,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 67,
+            "goals_against": 25,
+            "points": 61
+          },
+          "home": {
+            "games_played": 13,
+            "won": 11,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 43,
+            "goals_against": 13,
+            "points": 34
+          },
+          "away": {
+            "games_played": 14,
+            "won": 8,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 24,
+            "goals_against": 12,
+            "points": 27
+          },
+          "total": {
+            "goal_difference": "42",
+            "points": 61
+          },
+          "result": "UEFA Champions League",
+          "points": 61,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 14,
+          "team_name": "Manchester United",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 15,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 41,
+            "goals_against": 35,
+            "points": 50
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 24,
+            "goals_against": 8,
+            "points": 30
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 27,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 50
+          },
+          "result": "UEFA Champions League",
+          "points": 50,
+          "recent_form": "DLWWD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 6,
+          "team_name": "Tottenham Hotspur",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 15,
+            "draw": 4,
+            "lost": 9,
+            "goals_scored": 52,
+            "goals_against": 40,
+            "points": 49
+          },
+          "home": {
+            "games_played": 14,
+            "won": 10,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 29,
+            "goals_against": 16,
+            "points": 30
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 23,
+            "goals_against": 24,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 49
+          },
+          "result": "UEFA Champions League",
+          "points": 49,
+          "recent_form": "DWLWW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 20,
+          "team_name": "Newcastle United",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 12,
+            "draw": 11,
+            "lost": 3,
+            "goals_scored": 39,
+            "goals_against": 19,
+            "points": 47
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 5,
+            "lost": 1,
+            "goals_scored": 21,
+            "goals_against": 9,
+            "points": 26
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 6,
+            "lost": 2,
+            "goals_scored": 18,
+            "goals_against": 10,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "20",
+            "points": 47
+          },
+          "result": "UEFA Europa League",
+          "points": 47,
+          "recent_form": "WWLLD",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 8,
+          "team_name": "Liverpool",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 12,
+            "draw": 6,
+            "lost": 8,
+            "goals_scored": 47,
+            "goals_against": 29,
+            "points": 42
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 34,
+            "goals_against": 9,
+            "points": 30
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 13,
+            "goals_against": 20,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "18",
+            "points": 42
+          },
+          "result": null,
+          "points": 42,
+          "recent_form": "LWWDW",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 78,
+          "team_name": "Brighton & Hove Albion",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 12,
+            "draw": 6,
+            "lost": 7,
+            "goals_scored": 46,
+            "goals_against": 31,
+            "points": 42
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 22,
+            "goals_against": 11,
+            "points": 23
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 24,
+            "goals_against": 20,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "15",
+            "points": 42
+          },
+          "result": null,
+          "points": 42,
+          "recent_form": "WDWLD",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 236,
+          "team_name": "Brentford",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 10,
+            "draw": 12,
+            "lost": 5,
+            "goals_scored": 43,
+            "goals_against": 34,
+            "points": 42
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 6,
+            "lost": 1,
+            "goals_scored": 28,
+            "goals_against": 14,
+            "points": 27
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 6,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 20,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 42
+          },
+          "result": null,
+          "points": 42,
+          "recent_form": "DWLWD",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 11,
+          "team_name": "Fulham",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 11,
+            "draw": 6,
+            "lost": 10,
+            "goals_scored": 38,
+            "goals_against": 37,
+            "points": 39
+          },
+          "home": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 21,
+            "goals_against": 20,
+            "points": 22
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 17,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 39
+          },
+          "result": null,
+          "points": 39,
+          "recent_form": "LLDWW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 18,
+          "team_name": "Chelsea",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 10,
+            "draw": 8,
+            "lost": 9,
+            "goals_scored": 29,
+            "goals_against": 28,
+            "points": 38
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 16,
+            "goals_against": 10,
+            "points": 22
+          },
+          "away": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 18,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 38
+          },
+          "result": null,
+          "points": 38,
+          "recent_form": "DWWLL",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 15,
+          "team_name": "Aston Villa",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 11,
+            "draw": 5,
+            "lost": 11,
+            "goals_scored": 35,
+            "goals_against": 39,
+            "points": 38
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 23,
+            "goals_against": 19,
+            "points": 23
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 20,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 38
+          },
+          "result": null,
+          "points": 38,
+          "recent_form": "WDWWL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 51,
+          "team_name": "Crystal Palace",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 6,
+            "draw": 9,
+            "lost": 13,
+            "goals_scored": 22,
+            "goals_against": 38,
+            "points": 27
+          },
+          "home": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 17
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 10,
+            "goals_against": 20,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 27
+          },
+          "result": null,
+          "points": 27,
+          "recent_form": "LLLLD",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 29,
+          "team_name": "Wolverhampton Wanderers",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 7,
+            "draw": 6,
+            "lost": 15,
+            "goals_scored": 22,
+            "goals_against": 41,
+            "points": 27
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 12,
+            "goals_against": 19,
+            "points": 17
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 10,
+            "goals_against": 22,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-19",
+            "points": 27
+          },
+          "result": null,
+          "points": 27,
+          "recent_form": "LLWLD",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 71,
+          "team_name": "Leeds United",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 6,
+            "draw": 8,
+            "lost": 13,
+            "goals_scored": 35,
+            "goals_against": 44,
+            "points": 26
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 18,
+            "goals_against": 18,
+            "points": 17
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 17,
+            "goals_against": 26,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-9",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "WDLWL",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 13,
+          "team_name": "Everton",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 6,
+            "draw": 8,
+            "lost": 14,
+            "goals_scored": 22,
+            "goals_against": 40,
+            "points": 26
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 12,
+            "goals_against": 16,
+            "points": 17
+          },
+          "away": {
+            "games_played": 14,
+            "won": 1,
+            "draw": 6,
+            "lost": 7,
+            "goals_scored": 10,
+            "goals_against": 24,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-18",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "DWDLL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 63,
+          "team_name": "Nottingham Forest",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 6,
+            "draw": 8,
+            "lost": 13,
+            "goals_scored": 22,
+            "goals_against": 49,
+            "points": 26
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 18,
+            "goals_against": 17,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 4,
+            "goals_against": 32,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-27",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "LLDLD",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 42,
+          "team_name": "Leicester City",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 7,
+            "draw": 4,
+            "lost": 16,
+            "goals_scored": 38,
+            "goals_against": 47,
+            "points": 25
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 16,
+            "goals_against": 17,
+            "points": 12
+          },
+          "away": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 22,
+            "goals_against": 30,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-9",
+            "points": 25
+          },
+          "result": null,
+          "points": 25,
+          "recent_form": "DLLLL",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 1,
+          "team_name": "West Ham United",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 6,
+            "draw": 6,
+            "lost": 14,
+            "goals_scored": 24,
+            "goals_against": 34,
+            "points": 24
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 14,
+            "points": 18
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 7,
+            "goals_against": 20,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 24
+          },
+          "result": "Relegation",
+          "points": 24,
+          "recent_form": "DLWLD",
+          "status": null
+        },
+        {
+          "position": 19,
+          "team_id": 52,
+          "team_name": "AFC Bournemouth",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 27,
+            "won": 6,
+            "draw": 6,
+            "lost": 15,
+            "goals_scored": 25,
+            "goals_against": 54,
+            "points": 24
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 16,
+            "points": 16
+          },
+          "away": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 2,
+            "lost": 10,
+            "goals_scored": 12,
+            "goals_against": 38,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-29",
+            "points": 24
+          },
+          "result": "Relegation",
+          "points": 24,
+          "recent_form": "LWLLW",
+          "status": null
+        },
+        {
+          "position": 20,
+          "team_id": 65,
+          "team_name": "Southampton",
+          "round_id": 274695,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 6,
+            "draw": 5,
+            "lost": 17,
+            "goals_scored": 23,
+            "goals_against": 46,
+            "points": 23
+          },
+          "home": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 14,
+            "goals_against": 24,
+            "points": 10
+          },
+          "away": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 9,
+            "goals_against": 22,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-23",
+            "points": 23
+          },
+          "result": "Relegation",
+          "points": 23,
+          "recent_form": "DLDWL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{% macro nullifyAsString(data) %}
+    {%- if data -%}
+        '{{ data }}'
+    {%- else -%}
+        NULL
+    {%- endif -%}
+{% endmacro %}
+
+{% macro nullify(data) %}
+    {%- if data -%}
+        '{{ data }}'
+    {%- else -%}
+        NULL
+    {%- endif -%}
+{% endmacro %}

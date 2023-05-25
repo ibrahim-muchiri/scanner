@@ -1,0 +1,10 @@
+-- created at {{now()}}
+insert into app_public.fixture (fixture_id, season_id, stage_id, round_id, group_id, status_detail, home_id, away_id, winner_id, scheduled_at, fin_home, fin_away, ft_home, ft_away, ht_home, ht_away, et_home, et_away, pen_home, pen_away, odds_home, odds_draw, odds_away, deleted)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.season_id }}, {{ item.stage_id }}, {{ item.round_id|ifNil() }}, {{ item.group_id|ifNil() }}, '{{ item.time.status|status -}}', {{ item.localteam_id }}, {{ item.visitorteam_id }}, {{ item.winner_team_id|ifNil() }}, '{{ item.time.starting_at.date_time }}Z', {{ item.scores.localteam_score|ifNil() }}, {{ item.scores.visitorteam_score|ifNil() }}, {{ item.scores.ft_score|home|ifNil() }}, {{ item.scores.ft_score|away|ifNil() }}, {{ item.scores.ht_score|home|ifNil() }}, {{ item.scores.ht_score|away|ifNil() }}, {{ item.scores.et_score|home|ifNil() }}, {{ item.scores.et_score|away|ifNil() }}, {{ item.scores.localteam_pen_score|ifNil() }}, {{ item.scores.visitorteam_pen_score|ifNil() }}, {{ item.odds.data[0].bookmaker.data[0].odds.data[0].value|ifNil() }}, {{ item.odds.data[0].bookmaker.data[0].odds.data[1].value|ifNil() }}, {{ item.odds.data[0].bookmaker.data[0].odds.data[2].value|ifNil() }}, {{ item.deleted }})
+  {%- if not loop.last %},{% else %};{% endif %}
+{% endfor %}
+
+insert into app_public.scanner_log (type, hash, identifier, scanner, data) values
+('{{meta.type}}'::app_public.scanner_log_type, '{{meta.hash}}', '{{ meta.id }}', '{{meta.log}}', '{{meta.json}}');

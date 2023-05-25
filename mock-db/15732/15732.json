@@ -1,0 +1,3228 @@
+{
+  "id": 15732,
+  "name": "2004",
+  "league_id": 1326,
+  "is_current_season": false,
+  "current_round_id": null,
+  "current_stage_id": null,
+  "league": {
+    "data": {
+      "id": 1326,
+      "active": true,
+      "type": "international",
+      "legacy_id": 363,
+      "country_id": 41,
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/leagues/14/1326.png",
+      "name": "European Championship",
+      "is_cup": true,
+      "is_friendly": false,
+      "current_season_id": 15733,
+      "current_round_id": null,
+      "current_stage_id": null,
+      "live_standings": true,
+      "coverage": {
+        "predictions": true,
+        "topscorer_goals": true,
+        "topscorer_assists": true,
+        "topscorer_cards": true
+      }
+    }
+  },
+  "stages": {
+    "data": [
+      {
+        "id": 77442461,
+        "name": "Final",
+        "type": "Knock Out",
+        "league_id": 1326,
+        "season_id": 15732,
+        "sort_order": 4,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      },
+      {
+        "id": 77442462,
+        "name": "Semi-finals",
+        "type": "Knock Out",
+        "league_id": 1326,
+        "season_id": 15732,
+        "sort_order": 3,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      },
+      {
+        "id": 77442463,
+        "name": "Quarter-finals",
+        "type": "Knock Out",
+        "league_id": 1326,
+        "season_id": 15732,
+        "sort_order": 2,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      },
+      {
+        "id": 77442464,
+        "name": "Group Stage",
+        "type": "Group Stage",
+        "league_id": 1326,
+        "season_id": 15732,
+        "sort_order": 1,
+        "has_standings": true,
+        "has_outgroup_matches": 0
+      }
+    ]
+  },
+  "rounds": {
+    "data": [
+      {
+        "id": 163580,
+        "name": 1,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "start": "2004-06-15",
+        "end": "2004-06-15"
+      },
+      {
+        "id": 163581,
+        "name": 2,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "start": "2004-06-19",
+        "end": "2004-06-19"
+      },
+      {
+        "id": 163582,
+        "name": 3,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "start": "2004-06-23",
+        "end": "2004-06-23"
+      }
+    ]
+  },
+  "groups": {
+    "data": [
+      {
+        "id": 225396,
+        "name": "Group A",
+        "league_id": 1326,
+        "season_id": 15732,
+        "round_id": 163582,
+        "round_name": 3,
+        "stage_id": 77442464,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": [
+            {
+              "position": 1,
+              "team_id": 18701,
+              "team_name": "Portugal",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225396,
+              "group_name": "Group A",
+              "overall": {
+                "games_played": 3,
+                "won": 2,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 4,
+                "goals_against": 2
+              },
+              "home": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 1,
+                "goals_against": 2
+              },
+              "away": {
+                "games_played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 3,
+                "goals_against": 0
+              },
+              "total": {
+                "goal_difference": "+2",
+                "points": 6
+              },
+              "result": null,
+              "points": 6,
+              "recent_form": "WWL",
+              "status": "same"
+            },
+            {
+              "position": 2,
+              "team_id": 18568,
+              "team_name": "Greece",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225396,
+              "group_name": "Group A",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 4,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 1,
+                "goals_against": 1
+              },
+              "away": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 3,
+                "goals_against": 3
+              },
+              "total": {
+                "goal_difference": 0,
+                "points": 4
+              },
+              "result": null,
+              "points": 4,
+              "recent_form": "LDW",
+              "status": "same"
+            },
+            {
+              "position": 3,
+              "team_id": 18710,
+              "team_name": "Spain",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225396,
+              "group_name": "Group A",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 2,
+                "goals_against": 2
+              },
+              "home": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 1,
+                "goals_against": 1
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 1,
+                "goals_against": 1
+              },
+              "total": {
+                "goal_difference": 0,
+                "points": 4
+              },
+              "result": null,
+              "points": 4,
+              "recent_form": "LDW",
+              "status": "same"
+            },
+            {
+              "position": 4,
+              "team_id": 18702,
+              "team_name": "Russia",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225396,
+              "group_name": "Group A",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 0,
+                "lost": 2,
+                "goals_scored": 2,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 2,
+                "goals_against": 3
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 0,
+                "goals_against": 1
+              },
+              "total": {
+                "goal_difference": -2,
+                "points": 3
+              },
+              "result": null,
+              "points": 3,
+              "recent_form": "WLL",
+              "status": "same"
+            }
+          ]
+        }
+      },
+      {
+        "id": 225397,
+        "name": "Group B",
+        "league_id": 1326,
+        "season_id": 15732,
+        "round_id": 163582,
+        "round_name": 3,
+        "stage_id": 77442464,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": [
+            {
+              "position": 1,
+              "team_id": 18647,
+              "team_name": "France",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225397,
+              "group_name": "Group B",
+              "overall": {
+                "games_played": 3,
+                "won": 2,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 7,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 2,
+                "goals_against": 1
+              },
+              "away": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 5,
+                "goals_against": 3
+              },
+              "total": {
+                "goal_difference": "+3",
+                "points": 7
+              },
+              "result": null,
+              "points": 7,
+              "recent_form": "WDW",
+              "status": "same"
+            },
+            {
+              "position": 2,
+              "team_id": 18645,
+              "team_name": "England",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225397,
+              "group_name": "Group B",
+              "overall": {
+                "games_played": 3,
+                "won": 2,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 8,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 3,
+                "goals_against": 0
+              },
+              "away": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 5,
+                "goals_against": 4
+              },
+              "total": {
+                "goal_difference": "+4",
+                "points": 6
+              },
+              "result": null,
+              "points": 6,
+              "recent_form": "WWL",
+              "status": "same"
+            },
+            {
+              "position": 3,
+              "team_id": 18588,
+              "team_name": "Croatia",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225397,
+              "group_name": "Group B",
+              "overall": {
+                "games_played": 3,
+                "won": 0,
+                "draw": 2,
+                "lost": 1,
+                "goals_scored": 4,
+                "goals_against": 6
+              },
+              "home": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 4,
+                "goals_against": 6
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 0,
+                "goals_against": 0
+              },
+              "total": {
+                "goal_difference": -2,
+                "points": 2
+              },
+              "result": null,
+              "points": 2,
+              "recent_form": "LDD",
+              "status": "same"
+            },
+            {
+              "position": 4,
+              "team_id": 18708,
+              "team_name": "Switzerland",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225397,
+              "group_name": "Group B",
+              "overall": {
+                "games_played": 3,
+                "won": 0,
+                "draw": 1,
+                "lost": 2,
+                "goals_scored": 1,
+                "goals_against": 6
+              },
+              "home": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 1,
+                "goals_against": 3
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 0,
+                "goals_against": 3
+              },
+              "total": {
+                "goal_difference": -5,
+                "points": 1
+              },
+              "result": null,
+              "points": 1,
+              "recent_form": "LLD",
+              "status": "same"
+            }
+          ]
+        }
+      },
+      {
+        "id": 225398,
+        "name": "Group C",
+        "league_id": 1326,
+        "season_id": 15732,
+        "round_id": 163582,
+        "round_name": 3,
+        "stage_id": 77442464,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": [
+            {
+              "position": 1,
+              "team_id": 18564,
+              "team_name": "Sweden",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225398,
+              "group_name": "Group C",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 2,
+                "lost": 0,
+                "goals_scored": 8,
+                "goals_against": 3
+              },
+              "home": {
+                "games_played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 5,
+                "goals_against": 0
+              },
+              "away": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 2,
+                "lost": 0,
+                "goals_scored": 3,
+                "goals_against": 3
+              },
+              "total": {
+                "goal_difference": "+5",
+                "points": 5
+              },
+              "result": null,
+              "points": 5,
+              "recent_form": "DDW",
+              "status": "same"
+            },
+            {
+              "position": 2,
+              "team_id": 18583,
+              "team_name": "Denmark",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225398,
+              "group_name": "Group C",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 2,
+                "lost": 0,
+                "goals_scored": 4,
+                "goals_against": 2
+              },
+              "home": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 2,
+                "lost": 0,
+                "goals_scored": 2,
+                "goals_against": 2
+              },
+              "away": {
+                "games_played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 2,
+                "goals_against": 0
+              },
+              "total": {
+                "goal_difference": "+2",
+                "points": 5
+              },
+              "result": null,
+              "points": 5,
+              "recent_form": "DWD",
+              "status": "same"
+            },
+            {
+              "position": 3,
+              "team_id": 18658,
+              "team_name": "Italy",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225398,
+              "group_name": "Group C",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 2,
+                "lost": 0,
+                "goals_scored": 3,
+                "goals_against": 2
+              },
+              "home": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 3,
+                "goals_against": 2
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 0,
+                "goals_against": 0
+              },
+              "total": {
+                "goal_difference": "+1",
+                "points": 5
+              },
+              "result": null,
+              "points": 5,
+              "recent_form": "WDD",
+              "status": "same"
+            },
+            {
+              "position": 4,
+              "team_id": 18690,
+              "team_name": "Bulgaria",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225398,
+              "group_name": "Group C",
+              "overall": {
+                "games_played": 3,
+                "won": 0,
+                "draw": 0,
+                "lost": 3,
+                "goals_scored": 1,
+                "goals_against": 9
+              },
+              "home": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 0,
+                "goals_against": 2
+              },
+              "away": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goals_scored": 1,
+                "goals_against": 7
+              },
+              "total": {
+                "goal_difference": -8,
+                "points": 0
+              },
+              "result": null,
+              "points": 0,
+              "recent_form": "LLL",
+              "status": "same"
+            }
+          ]
+        }
+      },
+      {
+        "id": 225399,
+        "name": "Group D",
+        "league_id": 1326,
+        "season_id": 15732,
+        "round_id": 163582,
+        "round_name": 3,
+        "stage_id": 77442464,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": [
+            {
+              "position": 3,
+              "team_id": 18660,
+              "team_name": "Germany",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225399,
+              "group_name": "Group D",
+              "overall": {
+                "games_played": 3,
+                "won": 0,
+                "draw": 2,
+                "lost": 1,
+                "goals_scored": 2,
+                "goals_against": 3
+              },
+              "home": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 2,
+                "goals_against": 3
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 0,
+                "goals_against": 0
+              },
+              "total": {
+                "goal_difference": -1,
+                "points": 2
+              },
+              "result": null,
+              "points": 2,
+              "recent_form": "LDD",
+              "status": "same"
+            },
+            {
+              "position": 4,
+              "team_id": 18735,
+              "team_name": "Latvia",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225399,
+              "group_name": "Group D",
+              "overall": {
+                "games_played": 3,
+                "won": 0,
+                "draw": 1,
+                "lost": 2,
+                "goals_scored": 1,
+                "goals_against": 5
+              },
+              "home": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 0,
+                "goals_against": 0
+              },
+              "away": {
+                "games_played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goals_scored": 1,
+                "goals_against": 5
+              },
+              "total": {
+                "goal_difference": -4,
+                "points": 1
+              },
+              "result": null,
+              "points": 1,
+              "recent_form": "LDL",
+              "status": "same"
+            },
+            {
+              "position": 1,
+              "team_id": 18718,
+              "team_name": "Czech Republic",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225399,
+              "group_name": "Group D",
+              "overall": {
+                "games_played": 3,
+                "won": 3,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 7,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 2,
+                "goals_against": 1
+              },
+              "away": {
+                "games_played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goals_scored": 5,
+                "goals_against": 3
+              },
+              "total": {
+                "goal_difference": "+3",
+                "points": 9
+              },
+              "result": null,
+              "points": 9,
+              "recent_form": "WWW",
+              "status": "same"
+            },
+            {
+              "position": 2,
+              "team_id": 18694,
+              "team_name": "Netherlands",
+              "round_id": 163582,
+              "round_name": 3,
+              "group_id": 225399,
+              "group_name": "Group D",
+              "overall": {
+                "games_played": 3,
+                "won": 1,
+                "draw": 1,
+                "lost": 1,
+                "goals_scored": 6,
+                "goals_against": 4
+              },
+              "home": {
+                "games_played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goals_scored": 5,
+                "goals_against": 3
+              },
+              "away": {
+                "games_played": 1,
+                "won": 0,
+                "draw": 1,
+                "lost": 0,
+                "goals_scored": 1,
+                "goals_against": 1
+              },
+              "total": {
+                "goal_difference": "+2",
+                "points": 4
+              },
+              "result": null,
+              "points": 4,
+              "recent_form": "WLD",
+              "status": "same"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fixtures": {
+    "data": [
+      {
+        "id": 11786069,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442461,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 14455,
+        "referee_id": null,
+        "localteam_id": 18701,
+        "visitorteam_id": 18568,
+        "winner_team_id": 18568,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "0-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-07-04 18:45:00",
+            "date": "2004-07-04",
+            "time": "18:45:00",
+            "timestamp": 1088966700,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 452916,
+          "visitorteam_coach_id": 37523067
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786070,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442462,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 14455,
+        "referee_id": null,
+        "localteam_id": 18701,
+        "visitorteam_id": 18694,
+        "winner_team_id": 18701,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-30 18:45:00",
+            "date": "2004-06-30",
+            "time": "18:45:00",
+            "timestamp": 1088621100,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 452916,
+          "visitorteam_coach_id": 523970
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786071,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442462,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 254,
+        "referee_id": null,
+        "localteam_id": 18568,
+        "visitorteam_id": 18718,
+        "winner_team_id": 18568,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": null,
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "AET",
+          "starting_at": {
+            "date_time": "2004-07-01 18:45:00",
+            "date": "2004-07-01",
+            "time": "18:45:00",
+            "timestamp": 1088707500,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": 30,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523067,
+          "visitorteam_coach_id": 37523068
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786072,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442463,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 14455,
+        "referee_id": null,
+        "localteam_id": 18701,
+        "visitorteam_id": 18645,
+        "winner_team_id": 18701,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 2,
+          "localteam_pen_score": 6,
+          "visitorteam_pen_score": 5,
+          "ht_score": "1-0",
+          "ft_score": "2-2",
+          "et_score": "0-0",
+          "ps_score": "6-5"
+        },
+        "time": {
+          "status": "FT_PEN",
+          "starting_at": {
+            "date_time": "2004-06-24 18:45:00",
+            "date": "2004-06-24",
+            "time": "18:45:00",
+            "timestamp": 1088102700,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": 30,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 452916,
+          "visitorteam_coach_id": 25939669
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786073,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442463,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": null,
+        "referee_id": null,
+        "localteam_id": 18647,
+        "visitorteam_id": 18568,
+        "winner_team_id": 18568,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "0-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-25 18:45:00",
+            "date": "2004-06-25",
+            "time": "18:45:00",
+            "timestamp": 1088189100,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524395,
+          "visitorteam_coach_id": 37523067
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786074,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442463,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 1668,
+        "referee_id": null,
+        "localteam_id": 18564,
+        "visitorteam_id": 18694,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": "0-0",
+          "ft_score": "0-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT_PEN",
+          "starting_at": {
+            "date_time": "2004-06-26 18:45:00",
+            "date": "2004-06-26",
+            "time": "18:45:00",
+            "timestamp": 1088275500,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": 30,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524393,
+          "visitorteam_coach_id": null
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786075,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442463,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": 1619,
+        "referee_id": null,
+        "localteam_id": 18718,
+        "visitorteam_id": 18583,
+        "winner_team_id": 18718,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 3,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "3-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-27 18:45:00",
+            "date": "2004-06-27",
+            "time": "18:45:00",
+            "timestamp": 1088361900,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523068,
+          "visitorteam_coach_id": 37523403
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786076,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 14455,
+        "referee_id": null,
+        "localteam_id": 18701,
+        "visitorteam_id": 18568,
+        "winner_team_id": 18568,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-12 16:00:00",
+            "date": "2004-06-12",
+            "time": "16:00:00",
+            "timestamp": 1087056000,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 452916,
+          "visitorteam_coach_id": 37523067
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786077,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 2020,
+        "referee_id": null,
+        "localteam_id": 18710,
+        "visitorteam_id": 18702,
+        "winner_team_id": 18710,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-12 18:45:00",
+            "date": "2004-06-12",
+            "time": "18:45:00",
+            "timestamp": 1087065900,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524391,
+          "visitorteam_coach_id": 37524392
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786078,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 254,
+        "referee_id": null,
+        "localteam_id": 18568,
+        "visitorteam_id": 18710,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-16 16:00:00",
+            "date": "2004-06-16",
+            "time": "16:00:00",
+            "timestamp": 1087401600,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523067,
+          "visitorteam_coach_id": 37524391
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786079,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 177923,
+        "referee_id": null,
+        "localteam_id": 18702,
+        "visitorteam_id": 18701,
+        "winner_team_id": 18701,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "0-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-16 18:45:00",
+            "date": "2004-06-16",
+            "time": "18:45:00",
+            "timestamp": 1087411500,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524392,
+          "visitorteam_coach_id": 452916
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786080,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 177923,
+        "referee_id": null,
+        "localteam_id": 18702,
+        "visitorteam_id": 18568,
+        "winner_team_id": 18702,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-20 18:45:00",
+            "date": "2004-06-20",
+            "time": "18:45:00",
+            "timestamp": 1087757100,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524392,
+          "visitorteam_coach_id": 37523067
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786081,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225396,
+        "aggregate_id": null,
+        "venue_id": 2020,
+        "referee_id": null,
+        "localteam_id": 18710,
+        "visitorteam_id": 18701,
+        "winner_team_id": 18701,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "0-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-20 18:45:00",
+            "date": "2004-06-20",
+            "time": "18:45:00",
+            "timestamp": 1087757100,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524391,
+          "visitorteam_coach_id": 452916
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786082,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": 9553,
+        "referee_id": null,
+        "localteam_id": 18708,
+        "visitorteam_id": 18588,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": "0-0",
+          "ft_score": "0-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-13 16:00:00",
+            "date": "2004-06-13",
+            "time": "16:00:00",
+            "timestamp": 1087142400,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523063,
+          "visitorteam_coach_id": 37524394
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786083,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": null,
+        "referee_id": null,
+        "localteam_id": 18647,
+        "visitorteam_id": 18645,
+        "winner_team_id": 18647,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-13 18:45:00",
+            "date": "2004-06-13",
+            "time": "18:45:00",
+            "timestamp": 1087152300,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524395,
+          "visitorteam_coach_id": 25939669
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786084,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": 1315,
+        "referee_id": null,
+        "localteam_id": 18645,
+        "visitorteam_id": 18708,
+        "winner_team_id": 18645,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 3,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "3-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-17 16:00:00",
+            "date": "2004-06-17",
+            "time": "16:00:00",
+            "timestamp": 1087488000,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 25939669,
+          "visitorteam_coach_id": 37523063
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786085,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": 176,
+        "referee_id": null,
+        "localteam_id": 18588,
+        "visitorteam_id": 18647,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-17 18:45:00",
+            "date": "2004-06-17",
+            "time": "18:45:00",
+            "timestamp": 1087497900,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524394,
+          "visitorteam_coach_id": 37524395
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786086,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": 176,
+        "referee_id": null,
+        "localteam_id": 18588,
+        "visitorteam_id": 18645,
+        "winner_team_id": 18645,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 4,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-4",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-21 18:45:00",
+            "date": "2004-06-21",
+            "time": "18:45:00",
+            "timestamp": 1087843500,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524394,
+          "visitorteam_coach_id": 25939669
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786087,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225397,
+        "aggregate_id": null,
+        "venue_id": 9553,
+        "referee_id": null,
+        "localteam_id": 18708,
+        "visitorteam_id": 18647,
+        "winner_team_id": 18647,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 3,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-3",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-21 18:45:00",
+            "date": "2004-06-21",
+            "time": "18:45:00",
+            "timestamp": 1087843500,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523063,
+          "visitorteam_coach_id": 37524395
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786088,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 5655,
+        "referee_id": null,
+        "localteam_id": 18583,
+        "visitorteam_id": 18658,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": "0-0",
+          "ft_score": "0-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-14 16:00:00",
+            "date": "2004-06-14",
+            "time": "16:00:00",
+            "timestamp": 1087228800,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523403,
+          "visitorteam_coach_id": 37523084
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786089,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 1668,
+        "referee_id": null,
+        "localteam_id": 18564,
+        "visitorteam_id": 18690,
+        "winner_team_id": 18564,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 5,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "5-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-14 18:45:00",
+            "date": "2004-06-14",
+            "time": "18:45:00",
+            "timestamp": 1087238700,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524393,
+          "visitorteam_coach_id": null
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786090,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 3723,
+        "referee_id": null,
+        "localteam_id": 18690,
+        "visitorteam_id": 18583,
+        "winner_team_id": 18583,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "0-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-18 16:00:00",
+            "date": "2004-06-18",
+            "time": "16:00:00",
+            "timestamp": 1087574400,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37524396,
+          "visitorteam_coach_id": 37523403
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786091,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 7189,
+        "referee_id": null,
+        "localteam_id": 18658,
+        "visitorteam_id": 18564,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-18 18:45:00",
+            "date": "2004-06-18",
+            "time": "18:45:00",
+            "timestamp": 1087584300,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523084,
+          "visitorteam_coach_id": 474443
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786092,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 5655,
+        "referee_id": null,
+        "localteam_id": 18583,
+        "visitorteam_id": 18564,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-22 18:45:00",
+            "date": "2004-06-22",
+            "time": "18:45:00",
+            "timestamp": 1087929900,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523403,
+          "visitorteam_coach_id": 474443
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786093,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225398,
+        "aggregate_id": null,
+        "venue_id": 7189,
+        "referee_id": null,
+        "localteam_id": 18658,
+        "visitorteam_id": 18690,
+        "winner_team_id": 18658,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-22 18:45:00",
+            "date": "2004-06-22",
+            "time": "18:45:00",
+            "timestamp": 1087929900,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523084,
+          "visitorteam_coach_id": 37524396
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786094,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 1619,
+        "referee_id": null,
+        "localteam_id": 18718,
+        "visitorteam_id": 18735,
+        "winner_team_id": 18718,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-15 16:00:00",
+            "date": "2004-06-15",
+            "time": "16:00:00",
+            "timestamp": 1087315200,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 37523068,
+          "visitorteam_coach_id": 883130
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786095,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163580,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 1944,
+        "referee_id": null,
+        "localteam_id": 18660,
+        "visitorteam_id": 18694,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 1,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-1",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-15 18:45:00",
+            "date": "2004-06-15",
+            "time": "18:45:00",
+            "timestamp": 1087325100,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 535591,
+          "visitorteam_coach_id": 523970
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786096,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 775,
+        "referee_id": null,
+        "localteam_id": 18735,
+        "visitorteam_id": 18660,
+        "winner_team_id": null,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": "0-0",
+          "ft_score": "0-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-19 16:00:00",
+            "date": "2004-06-19",
+            "time": "16:00:00",
+            "timestamp": 1087660800,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 883130,
+          "visitorteam_coach_id": 535591
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786097,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163581,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 154,
+        "referee_id": null,
+        "localteam_id": 18694,
+        "visitorteam_id": 18718,
+        "winner_team_id": 18718,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 2,
+          "visitorteam_score": 3,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "2-3",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-19 18:45:00",
+            "date": "2004-06-19",
+            "time": "18:45:00",
+            "timestamp": 1087670700,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 523970,
+          "visitorteam_coach_id": 37523068
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786098,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 1944,
+        "referee_id": null,
+        "localteam_id": 18660,
+        "visitorteam_id": 18718,
+        "winner_team_id": 18718,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 2,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "1-2",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-23 18:45:00",
+            "date": "2004-06-23",
+            "time": "18:45:00",
+            "timestamp": 1088016300,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 535591,
+          "visitorteam_coach_id": 37523068
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      },
+      {
+        "id": 11786099,
+        "league_id": 1326,
+        "season_id": 15732,
+        "stage_id": 77442464,
+        "round_id": 163582,
+        "group_id": 225399,
+        "aggregate_id": null,
+        "venue_id": 154,
+        "referee_id": null,
+        "localteam_id": 18694,
+        "visitorteam_id": 18735,
+        "winner_team_id": 18694,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": null,
+          "visitorteam_formation": null
+        },
+        "scores": {
+          "localteam_score": 3,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": null,
+          "ft_score": "3-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2004-06-23 18:45:00",
+            "date": "2004-06-23",
+            "time": "18:45:00",
+            "timestamp": 1088016300,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 523970,
+          "visitorteam_coach_id": 883130
+        },
+        "standings": {
+          "localteam_position": null,
+          "visitorteam_position": null
+        },
+        "assistants": {
+          "first_assistant_id": null,
+          "second_assistant_id": null,
+          "fourth_official_id": null
+        },
+        "leg": "1/1",
+        "colors": null,
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": []
+        }
+      }
+    ]
+  },
+  "teams": {
+    "data": [
+      {
+        "id": 18564,
+        "legacy_id": 211,
+        "name": "Sweden",
+        "short_code": "SWE",
+        "twitter": null,
+        "country_id": 47,
+        "national_team": true,
+        "founded": 1904,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/4/18564.png",
+        "venue_id": 1668,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18568,
+        "legacy_id": 197,
+        "name": "Greece",
+        "short_code": "GRE",
+        "twitter": null,
+        "country_id": 125,
+        "national_team": true,
+        "founded": 1926,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/8/18568.png",
+        "venue_id": 254,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18583,
+        "legacy_id": 202,
+        "name": "Denmark",
+        "short_code": "DEN",
+        "twitter": null,
+        "country_id": 320,
+        "national_team": true,
+        "founded": 1889,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/23/18583.png",
+        "venue_id": 5655,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18588,
+        "legacy_id": 206,
+        "name": "Croatia",
+        "short_code": "CRO",
+        "twitter": null,
+        "country_id": 266,
+        "national_team": true,
+        "founded": 1912,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/28/18588.png",
+        "venue_id": 176,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18645,
+        "legacy_id": 208,
+        "name": "England",
+        "short_code": "ENG",
+        "twitter": null,
+        "country_id": 462,
+        "national_team": true,
+        "founded": 1863,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/21/18645.png",
+        "venue_id": 1315,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18647,
+        "legacy_id": 209,
+        "name": "France",
+        "short_code": "FRA",
+        "twitter": null,
+        "country_id": 17,
+        "national_team": true,
+        "founded": 1919,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/23/18647.png",
+        "venue_id": 6152,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18658,
+        "legacy_id": 205,
+        "name": "Italy",
+        "short_code": "ITA",
+        "twitter": null,
+        "country_id": 251,
+        "national_team": true,
+        "founded": 1898,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/2/18658.png",
+        "venue_id": 7189,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18660,
+        "legacy_id": 200,
+        "name": "Germany",
+        "short_code": "GER",
+        "twitter": null,
+        "country_id": 11,
+        "national_team": true,
+        "founded": 1900,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/4/18660.png",
+        "venue_id": 53,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18690,
+        "legacy_id": 244,
+        "name": "Bulgaria",
+        "short_code": "BUL",
+        "twitter": null,
+        "country_id": 224,
+        "national_team": true,
+        "founded": 1923,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/2/18690.png",
+        "venue_id": 3723,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18694,
+        "legacy_id": 203,
+        "name": "Netherlands",
+        "short_code": "NED",
+        "twitter": null,
+        "country_id": 38,
+        "national_team": true,
+        "founded": 1889,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/6/18694.png",
+        "venue_id": 154,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18701,
+        "legacy_id": 201,
+        "name": "Portugal",
+        "short_code": "POR",
+        "twitter": null,
+        "country_id": 20,
+        "national_team": true,
+        "founded": 1914,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/13/18701.png",
+        "venue_id": 14455,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18702,
+        "legacy_id": 198,
+        "name": "Russia",
+        "short_code": "RUS",
+        "twitter": null,
+        "country_id": 227,
+        "national_team": true,
+        "founded": 1912,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/14/18702.png",
+        "venue_id": 8895,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18708,
+        "legacy_id": 230,
+        "name": "Switzerland",
+        "short_code": "SUI",
+        "twitter": null,
+        "country_id": 62,
+        "national_team": true,
+        "founded": 1895,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/20/18708.png",
+        "venue_id": 9553,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18710,
+        "legacy_id": 204,
+        "name": "Spain",
+        "short_code": "ESP",
+        "twitter": null,
+        "country_id": 32,
+        "national_team": true,
+        "founded": 1913,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/22/18710.png",
+        "venue_id": 276481,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18718,
+        "legacy_id": 196,
+        "name": "Czech Republic",
+        "short_code": "CZE",
+        "twitter": null,
+        "country_id": 245,
+        "national_team": true,
+        "founded": 1901,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/30/18718.png",
+        "venue_id": 1619,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      },
+      {
+        "id": 18735,
+        "legacy_id": 214,
+        "name": "Latvia",
+        "short_code": "LVA",
+        "twitter": null,
+        "country_id": 748,
+        "national_team": true,
+        "founded": 1921,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/15/18735.png",
+        "venue_id": 775,
+        "current_season_id": 15838,
+        "is_placeholder": false
+      }
+    ]
+  }
+}

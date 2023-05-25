@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.stage (stage_id, season_id, name, type)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.season_id }}, '{{ item.name|esc }}', '{{ item.type|stageType }}')
+  {%- if not loop.last %},{% endif %}
+{% endfor %}
+on conflict (stage_id) do nothing;

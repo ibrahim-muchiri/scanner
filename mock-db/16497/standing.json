@@ -1,0 +1,1912 @@
+[
+  {
+    "id": 243050,
+    "name": "Group A",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18620,
+          "team_name": "Algeria",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243050,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 25,
+            "goals_against": 4,
+            "points": 14
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 16,
+            "goals_against": 3,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 1,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "21",
+            "points": 14
+          },
+          "result": "Next Round",
+          "points": 14,
+          "recent_form": "DWWWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18621,
+          "team_name": "Burkina Faso",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243050,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 12,
+            "goals_against": 4,
+            "points": 12
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 2,
+            "points": 5
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 2,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 12
+          },
+          "result": null,
+          "points": 12,
+          "recent_form": "DDWWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18920,
+          "team_name": "Niger",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243050,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 8,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 9,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "WDLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18884,
+          "team_name": "Djibouti",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243050,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 0,
+            "lost": 6,
+            "goals_scored": 4,
+            "goals_against": 29,
+            "points": 0
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 12,
+            "points": 0
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 17,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-25",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243051,
+    "name": "Group B",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18554,
+          "team_name": "Tunisia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243051,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 2,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 1,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 13
+          },
+          "result": "Next Round",
+          "points": 13,
+          "recent_form": "WLDWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18786,
+          "team_name": "Equatorial Guinea",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243051,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 5,
+            "points": 11
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 0,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 11
+          },
+          "result": null,
+          "points": 11,
+          "recent_form": "DWDWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18776,
+          "team_name": "Zambia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243051,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 8,
+            "goals_against": 9,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 3,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 6,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "LWDLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18794,
+          "team_name": "Mauritania",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243051,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 11,
+            "points": 2
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 3,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 0,
+            "goals_against": 8,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-9",
+            "points": 2
+          },
+          "result": null,
+          "points": 2,
+          "recent_form": "DLDLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243052,
+    "name": "Group C",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18737,
+          "team_name": "Nigeria",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243052,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 3,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 1,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 13
+          },
+          "result": "Next Round",
+          "points": 13,
+          "recent_form": "DWWLW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18823,
+          "team_name": "Cape Verde Islands",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243052,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 6,
+            "points": 11
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 3,
+            "points": 6
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 3,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 11
+          },
+          "result": null,
+          "points": 11,
+          "recent_form": "DWWWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 11392,
+          "team_name": "Liberia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243052,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 5,
+            "goals_against": 8,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 5,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 3,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "WLLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18787,
+          "team_name": "Central African Republic",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243052,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 9,
+            "points": 4
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 4,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 5,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LLLWL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243053,
+    "name": "Group D",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18780,
+          "team_name": "Cameroon",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243053,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 5,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 12,
+            "goals_against": 3,
+            "points": 15
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 2,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 15
+          },
+          "result": "Next Round",
+          "points": 15,
+          "recent_form": "WWWWL",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18560,
+          "team_name": "Côte d'Ivoire",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243053,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 10,
+            "goals_against": 3,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 2,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 1,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "7",
+            "points": 13
+          },
+          "result": null,
+          "points": 13,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18826,
+          "team_name": "Mozambique",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243053,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 8,
+            "points": 4
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 1,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 7,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "WLLLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18832,
+          "team_name": "Malawi",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243053,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 2,
+            "goals_against": 12,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 7,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 5,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLLLW",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243054,
+    "name": "Group E",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18731,
+          "team_name": "Mali",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243054,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 5,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 11,
+            "goals_against": 0,
+            "points": 16
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 0,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 0,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 16
+          },
+          "result": "Next Round",
+          "points": 16,
+          "recent_form": "WWWWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18830,
+          "team_name": "Uganda",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243054,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 9
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 2,
+            "goals_against": 1,
+            "points": 5
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 1,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "LDWWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18835,
+          "team_name": "Kenya",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243054,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 9,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 2,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 7,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "WDLLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18833,
+          "team_name": "Rwanda",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243054,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 2,
+            "goals_against": 9,
+            "points": 1
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 5,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 4,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 1
+          },
+          "result": null,
+          "points": 1,
+          "recent_form": "LLLLD",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243055,
+    "name": "Group F",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18546,
+          "team_name": "Egypt",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243055,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 4,
+            "points": 14
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 14
+          },
+          "result": "Next Round",
+          "points": 14,
+          "recent_form": "WDWWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18545,
+          "team_name": "Libya",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243055,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 7,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 5,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 2,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "DLLLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18789,
+          "team_name": "Gabon",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243055,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 7,
+            "goals_against": 8,
+            "points": 7
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 1,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "LWWLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18561,
+          "team_name": "Angola",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243055,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 8,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 4,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 4,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-2",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "DDLWL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243056,
+    "name": "Group G",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18555,
+          "team_name": "South Africa",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243056,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 2,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 3,
+            "goals_against": 0,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 13
+          },
+          "result": "Next Round",
+          "points": 13,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18553,
+          "team_name": "Ghana",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243056,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 3,
+            "points": 13
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 5,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 2,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 13
+          },
+          "result": null,
+          "points": 13,
+          "recent_form": "WDWWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18886,
+          "team_name": "Ethiopia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243056,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 7,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 4,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 3,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "DDLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18547,
+          "team_name": "Zimbabwe",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243056,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 7,
+            "points": 2
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 2,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 1,
+            "goals_against": 5,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 2
+          },
+          "result": null,
+          "points": 2,
+          "recent_form": "DLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243057,
+    "name": "Group H",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18558,
+          "team_name": "Senegal",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243057,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 5,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 15,
+            "goals_against": 4,
+            "points": 16
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 1,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 3,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 16
+          },
+          "result": "Next Round",
+          "points": 16,
+          "recent_form": "WDWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18549,
+          "team_name": "Togo",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243057,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 6,
+            "points": 8
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 3,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 3,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 8
+          },
+          "result": null,
+          "points": 8,
+          "recent_form": "WDWDL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18741,
+          "team_name": "Namibia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243057,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 10,
+            "points": 5
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 5,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "LDLLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18785,
+          "team_name": "Congo",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243057,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 10,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 6,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 4,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LDLDL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243058,
+    "name": "Group I",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18551,
+          "team_name": "Morocco",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243058,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 6,
+            "won": 6,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 20,
+            "goals_against": 1,
+            "points": 18
+          },
+          "home": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 0,
+            "points": 9
+          },
+          "away": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 1,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "19",
+            "points": 18
+          },
+          "result": "Next Round",
+          "points": 18,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18880,
+          "team_name": "Guinea-Bissau",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243058,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 11,
+            "points": 6
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 4,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 7,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "DDLLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18548,
+          "team_name": "Guinea",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243058,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 11,
+            "points": 4
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 6,
+            "points": 2
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LDLDD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18829,
+          "team_name": "Sudan",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243058,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 6,
+            "won": 0,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 12,
+            "points": 3
+          },
+          "home": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 8,
+            "points": 1
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 4,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "DLDDL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 243059,
+    "name": "Group J",
+    "league_id": 711,
+    "season_id": 16497,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77445495,
+    "stage_name": "2nd Round",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18552,
+          "team_name": "Congo DR",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243059,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 3,
+            "points": 11
+          },
+          "home": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 5,
+            "goals_against": 1,
+            "points": 7
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 2,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 11
+          },
+          "result": "Next Round",
+          "points": 11,
+          "recent_form": "WWLWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18783,
+          "team_name": "Benin",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243059,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 4,
+            "points": 10
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 2,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 10
+          },
+          "result": null,
+          "points": 10,
+          "recent_form": "LWLWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18831,
+          "team_name": "Tanzania",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243059,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 6,
+            "goals_against": 8,
+            "points": 8
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 6,
+            "points": 3
+          },
+          "away": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-2",
+            "points": 8
+          },
+          "result": null,
+          "points": 8,
+          "recent_form": "DLWLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18828,
+          "team_name": "Madagascar",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 243059,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 9,
+            "points": 4
+          },
+          "home": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 2,
+            "points": 4
+          },
+          "away": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 7,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "DLWLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

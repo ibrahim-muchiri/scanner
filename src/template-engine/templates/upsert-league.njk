@@ -1,0 +1,4 @@
+-- created at {{now()}}
+update app_public.league as l
+set current_season_id = {{ data.id }}
+where league_id = {{ data.league_id }};

@@ -1,0 +1,722 @@
+[
+  {
+    "id": 77461210,
+    "name": "Regular Season",
+    "league_id": 444,
+    "season_id": 20977,
+    "round_id": null,
+    "round_name": null,
+    "type": "Group Stage",
+    "stage_id": 77461210,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 393,
+          "team_name": "Aalesund",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 1668,
+          "team_name": "Bodø / Glimt",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 2474,
+          "team_name": "Brann",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 8661,
+          "team_name": "HamKam",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 270,
+          "team_name": "Haugesund",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 2510,
+          "team_name": "Lillestrøm",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 290,
+          "team_name": "Molde",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 930,
+          "team_name": "Odd",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 1335,
+          "team_name": "Rosenborg",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 617,
+          "team_name": "Sandefjord",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 2601,
+          "team_name": "Sarpsborg 08",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 484,
+          "team_name": "Stabæk",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 313,
+          "team_name": "Strømsgodset",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 7242,
+          "team_name": "Tromsø",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "Relegation Play-off",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 502,
+          "team_name": "Vålerenga",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "Relegation",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 321,
+          "team_name": "Viking",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 0
+          },
+          "result": "Relegation",
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        }
+      ]
+    }
+  }
+]

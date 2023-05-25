@@ -1,0 +1,17 @@
+-- created at {{now()}}
+insert into app_public.standing_entry ( season_id, position, team_id, team_name, group_name, games_played, games_won, games_draw, games_lost, goals_scored, goals_against, goal_difference, points)
+values
+{% for team in data.standing_entries -%}
+    ({{ data.season_id }}, {{ team.position }}, {{ team.team_id }}, '{{ team.team_name }}', '{{ team.group_name }}', {{ team.overall.games_played }}, {{ team.overall.won }}, {{ team.overall.draw }}, {{ team.overall.lost }}, {{ team.overall.goals_scored }}, {{ team.overall.goals_against }}, '{{ team.total.goal_difference }}', {{ team.total.points }})
+    {%- if not loop.last %},{% endif %}
+{% endfor -%}
+on conflict (season_id, team_id, group_name) do update set
+position = excluded.position,
+games_played = excluded.games_played,
+games_won = excluded.games_won,
+games_draw = excluded.games_draw,
+games_lost = excluded.games_lost,
+goals_scored = excluded.goals_scored,
+goals_against = excluded.goals_against,
+goal_difference = excluded.goal_difference,
+points = excluded.points;

@@ -1,0 +1,810 @@
+[
+  {
+    "id": 77457714,
+    "name": "Regular Season",
+    "league_id": 453,
+    "season_id": 19692,
+    "round_id": 274054,
+    "round_name": 25,
+    "type": "Group Stage",
+    "stage_id": 77457714,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 3270,
+          "team_name": "Raków Częstochowa",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 19,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 51,
+            "goals_against": 16,
+            "points": 61
+          },
+          "home": {
+            "games_played": 13,
+            "won": 12,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 34,
+            "goals_against": 7,
+            "points": 37
+          },
+          "away": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 17,
+            "goals_against": 9,
+            "points": 24
+          },
+          "total": {
+            "goal_difference": "35",
+            "points": 61
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 61,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 349,
+          "team_name": "Legia Warszawa",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 15,
+            "draw": 7,
+            "lost": 3,
+            "goals_scored": 39,
+            "goals_against": 26,
+            "points": 52
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 23,
+            "goals_against": 12,
+            "points": 28
+          },
+          "away": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 16,
+            "goals_against": 14,
+            "points": 24
+          },
+          "total": {
+            "goal_difference": "13",
+            "points": 52
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 52,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 302,
+          "team_name": "Lech Poznań",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 12,
+            "draw": 7,
+            "lost": 6,
+            "goals_scored": 34,
+            "goals_against": 23,
+            "points": 43
+          },
+          "home": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 12,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 6,
+            "lost": 1,
+            "goals_scored": 18,
+            "goals_against": 11,
+            "points": 24
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 43
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 43,
+          "recent_form": "WDWLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 808,
+          "team_name": "Pogoń Szczecin",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 11,
+            "draw": 7,
+            "lost": 7,
+            "goals_scored": 37,
+            "goals_against": 35,
+            "points": 40
+          },
+          "home": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 17,
+            "goals_against": 16,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 20,
+            "goals_against": 19,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 40
+          },
+          "result": null,
+          "points": 40,
+          "recent_form": "DWLWW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 171,
+          "team_name": "Warta Poznań",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 10,
+            "draw": 7,
+            "lost": 8,
+            "goals_scored": 30,
+            "goals_against": 23,
+            "points": 37
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 6,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 14,
+            "points": 15
+          },
+          "away": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 9,
+            "points": 22
+          },
+          "total": {
+            "goal_difference": "7",
+            "points": 37
+          },
+          "result": null,
+          "points": 37,
+          "recent_form": "WDLWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 8761,
+          "team_name": "Widzew Lodz",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 10,
+            "draw": 7,
+            "lost": 8,
+            "goals_scored": 31,
+            "goals_against": 28,
+            "points": 37
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 17,
+            "points": 18
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 13,
+            "goals_against": 11,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 37
+          },
+          "result": null,
+          "points": 37,
+          "recent_form": "LDLDW",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 1069,
+          "team_name": "Cracovia Kraków",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 9,
+            "draw": 7,
+            "lost": 9,
+            "goals_scored": 28,
+            "goals_against": 24,
+            "points": 34
+          },
+          "home": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 15,
+            "goals_against": 7,
+            "points": 21
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "LDDLW",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 2778,
+          "team_name": "Wisła Płock",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 9,
+            "draw": 5,
+            "lost": 11,
+            "goals_scored": 34,
+            "goals_against": 34,
+            "points": 32
+          },
+          "home": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 17,
+            "goals_against": 9,
+            "points": 23
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 17,
+            "goals_against": 25,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 32
+          },
+          "result": null,
+          "points": 32,
+          "recent_form": "LDWLL",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 3191,
+          "team_name": "Radomiak Radom",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 9,
+            "draw": 5,
+            "lost": 11,
+            "goals_scored": 26,
+            "goals_against": 29,
+            "points": 32
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 13,
+            "goals_against": 17,
+            "points": 14
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 13,
+            "goals_against": 12,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 32
+          },
+          "result": null,
+          "points": 32,
+          "recent_form": "LLLWD",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 2482,
+          "team_name": "Piast Gliwice",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 6,
+            "lost": 11,
+            "goals_scored": 27,
+            "goals_against": 27,
+            "points": 30
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 14,
+            "points": 12
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 14,
+            "goals_against": 13,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 30
+          },
+          "result": null,
+          "points": 30,
+          "recent_form": "WDWWL",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 7216,
+          "team_name": "Stal Mielec",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 6,
+            "lost": 11,
+            "goals_scored": 27,
+            "goals_against": 31,
+            "points": 30
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 13,
+            "goals_against": 11,
+            "points": 16
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 14,
+            "goals_against": 20,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 30
+          },
+          "result": null,
+          "points": 30,
+          "recent_form": "DLLLL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 3962,
+          "team_name": "Śląsk Wrocław",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 9,
+            "lost": 9,
+            "goals_scored": 25,
+            "goals_against": 34,
+            "points": 30
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 6,
+            "lost": 3,
+            "goals_scored": 16,
+            "goals_against": 18,
+            "points": 18
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 9,
+            "goals_against": 16,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-9",
+            "points": 30
+          },
+          "result": null,
+          "points": 30,
+          "recent_form": "DLDWL",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 1266,
+          "team_name": "Zagłębie Lubin",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 6,
+            "lost": 11,
+            "goals_scored": 24,
+            "goals_against": 36,
+            "points": 30
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 9,
+            "goals_against": 18,
+            "points": 10
+          },
+          "away": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 18,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "-12",
+            "points": 30
+          },
+          "result": null,
+          "points": 30,
+          "recent_form": "DLWWW",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 890,
+          "team_name": "Jagiellonia Białystok",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 6,
+            "draw": 11,
+            "lost": 8,
+            "goals_scored": 35,
+            "goals_against": 34,
+            "points": 29
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 24,
+            "goals_against": 19,
+            "points": 20
+          },
+          "away": {
+            "games_played": 12,
+            "won": 0,
+            "draw": 9,
+            "lost": 3,
+            "goals_scored": 11,
+            "goals_against": 15,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 29
+          },
+          "result": null,
+          "points": 29,
+          "recent_form": "DWDLD",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 3781,
+          "team_name": "Górnik Zabrze",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 7,
+            "lost": 11,
+            "goals_scored": 32,
+            "goals_against": 38,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 16,
+            "goals_against": 21,
+            "points": 13
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 17,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "WLLWL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 3260,
+          "team_name": "Korona Kielce",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 6,
+            "lost": 12,
+            "goals_scored": 27,
+            "goals_against": 37,
+            "points": 27
+          },
+          "home": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 13,
+            "points": 17
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 14,
+            "goals_against": 24,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 27
+          },
+          "result": "Relegation",
+          "points": 27,
+          "recent_form": "DWWLW",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 135,
+          "team_name": "Lechia Gdańsk",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 4,
+            "lost": 14,
+            "goals_scored": 25,
+            "goals_against": 42,
+            "points": 25
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 16,
+            "points": 15
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 13,
+            "goals_against": 26,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-17",
+            "points": 25
+          },
+          "result": "Relegation",
+          "points": 25,
+          "recent_form": "LWLLL",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 244,
+          "team_name": "Miedź Legnica",
+          "round_id": 274054,
+          "round_name": 25,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 4,
+            "draw": 7,
+            "lost": 14,
+            "goals_scored": 25,
+            "goals_against": 40,
+            "points": 19
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 14,
+            "goals_against": 18,
+            "points": 14
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 2,
+            "lost": 9,
+            "goals_scored": 11,
+            "goals_against": 22,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-15",
+            "points": 19
+          },
+          "result": "Relegation",
+          "points": 19,
+          "recent_form": "LLDLW",
+          "status": null
+        }
+      ]
+    }
+  }
+]

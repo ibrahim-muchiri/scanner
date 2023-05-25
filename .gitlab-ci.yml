@@ -1,0 +1,36 @@
+include:
+  - project: "bettles/helpers"
+    ref: "main"
+    file: "templates/nodejs-basics.yaml"
+  - project: "bettles/helpers"
+    ref: "main"
+    file: "templates/kaniko-helpers.yaml"
+
+image: node:18-alpine
+
+stages:
+  # Initialization stuff (like extracting version)
+  - init
+  # Build / Test / Lint in parallel
+  - prepare
+  # Create images
+  - publish
+
+extract-version:
+  extends: .extract-version
+
+build:
+  extends: .default-build-backend
+
+test:
+  extends: .default-test-jest
+  when: on_success
+
+lint:
+  extends: .default-lint
+
+publish:
+  extends: .default-publish
+
+publish-feature:
+  extends: .default-publish-feature

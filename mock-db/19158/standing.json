@@ -1,0 +1,384 @@
+[
+  {
+    "id": 246814,
+    "name": "Group A",
+    "league_id": 723,
+    "season_id": 19158,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77456163,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18843,
+          "team_name": "Solomon Islands",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246814,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 1,
+            "won": 1,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 3,
+            "goals_against": 1,
+            "points": 3
+          },
+          "home": {
+            "games_played": 1,
+            "won": 1,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 3,
+            "goals_against": 1,
+            "points": 3
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "W",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18928,
+          "team_name": "Tahiti",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246814,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 1,
+            "won": 0,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 3,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 1,
+            "won": 0,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 3,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-2",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "L",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18846,
+          "team_name": "Vanuatu",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246814,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": null,
+            "goals_against": null,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18943,
+          "team_name": "Cook Islands",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246814,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": null,
+            "goals_against": null,
+            "points": 0
+          },
+          "home": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "away": {
+            "games_played": 0,
+            "won": 0,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 246815,
+    "name": "Group B",
+    "league_id": 723,
+    "season_id": 19158,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77456163,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18613,
+          "team_name": "New Zealand",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246815,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 3,
+            "won": 3,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 12,
+            "goals_against": 1,
+            "points": 9
+          },
+          "home": {
+            "games_played": 2,
+            "won": 2,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 11,
+            "goals_against": 1,
+            "points": 6
+          },
+          "away": {
+            "games_played": 1,
+            "won": 1,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 1,
+            "goals_against": 0,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "WWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18844,
+          "team_name": "Papua New Guinea",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246815,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 3,
+            "won": 2,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 3,
+            "goals_against": 2,
+            "points": 6
+          },
+          "home": {
+            "games_played": 2,
+            "won": 1,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 1,
+            "points": 3
+          },
+          "away": {
+            "games_played": 1,
+            "won": 1,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 2,
+            "goals_against": 1,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "WWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18950,
+          "team_name": "Fiji",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246815,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 3,
+            "won": 1,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 3
+          },
+          "home": {
+            "games_played": 1,
+            "won": 0,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 2,
+            "points": 0
+          },
+          "away": {
+            "games_played": 2,
+            "won": 1,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 5,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-4",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18845,
+          "team_name": "New Caledonia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 246815,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 3,
+            "won": 0,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 10,
+            "points": 0
+          },
+          "home": {
+            "games_played": 1,
+            "won": 0,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 1,
+            "goals_against": 2,
+            "points": 0
+          },
+          "away": {
+            "games_played": 2,
+            "won": 0,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 1,
+            "goals_against": 8,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "id": 15998,
+  "name": "2020/2021",
+  "league_id": 1371,
+  "is_current_season": false,
+  "current_round_id": null,
+  "current_stage_id": null,
+  "league": {
+    "data": {
+      "id": 1371,
+      "active": true,
+      "type": "domestic",
+      "legacy_id": null,
+      "country_id": 556,
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/leagues/27/1371.png",
+      "name": "UEFA Europa League Play-offs",
+      "is_cup": true,
+      "is_friendly": false,
+      "current_season_id": 15998,
+      "current_round_id": null,
+      "current_stage_id": null,
+      "live_standings": true,
+      "coverage": {
+        "predictions": false,
+        "topscorer_goals": true,
+        "topscorer_assists": true,
+        "topscorer_cards": true
+      }
+    }
+  },
+  "stages": {
+    "data": [
+      {
+        "id": 77443690,
+        "name": "Final",
+        "type": "Knock Out",
+        "league_id": 1371,
+        "season_id": 15998,
+        "sort_order": 3,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      },
+      {
+        "id": 77443691,
+        "name": "Semi-final",
+        "type": "Knock Out",
+        "league_id": 1371,
+        "season_id": 15998,
+        "sort_order": 2,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      },
+      {
+        "id": 77443692,
+        "name": "Group Stage",
+        "type": "Group Stage",
+        "league_id": 1371,
+        "season_id": 15998,
+        "sort_order": 1,
+        "has_standings": true,
+        "has_outgroup_matches": 0
+      }
+    ]
+  },
+  "rounds": {
+    "data": []
+  },
+  "groups": {
+    "data": [
+      {
+        "id": 246580,
+        "name": "Group A",
+        "league_id": 1371,
+        "season_id": 15998,
+        "round_id": null,
+        "round_name": null,
+        "stage_id": 77443692,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": []
+        }
+      },
+      {
+        "id": 246581,
+        "name": "Group B",
+        "league_id": 1371,
+        "season_id": 15998,
+        "round_id": null,
+        "round_name": null,
+        "stage_id": 77443692,
+        "stage_name": "Group Stage",
+        "resource": "group",
+        "standings": {
+          "data": []
+        }
+      }
+    ]
+  },
+  "fixtures": {
+    "data": []
+  },
+  "teams": {
+    "data": []
+  }
+}

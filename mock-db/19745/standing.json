@@ -1,0 +1,898 @@
+[
+  {
+    "id": 77457884,
+    "name": "Regular Season",
+    "league_id": 301,
+    "season_id": 19745,
+    "round_id": 275124,
+    "round_name": 28,
+    "type": "Group Stage",
+    "stage_id": 77457884,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 591,
+          "team_name": "Paris Saint Germain",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 21,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 68,
+            "goals_against": 28,
+            "points": 66
+          },
+          "home": {
+            "games_played": 14,
+            "won": 11,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 34,
+            "goals_against": 17,
+            "points": 35
+          },
+          "away": {
+            "games_played": 14,
+            "won": 10,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 34,
+            "goals_against": 11,
+            "points": 31
+          },
+          "total": {
+            "goal_difference": "40",
+            "points": 66
+          },
+          "result": "UEFA Champions League",
+          "points": 66,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 44,
+          "team_name": "Olympique Marseille",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 18,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 53,
+            "goals_against": 28,
+            "points": 59
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 25,
+            "goals_against": 18,
+            "points": 24
+          },
+          "away": {
+            "games_played": 14,
+            "won": 11,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 28,
+            "goals_against": 10,
+            "points": 35
+          },
+          "total": {
+            "goal_difference": "25",
+            "points": 59
+          },
+          "result": "UEFA Champions League",
+          "points": 59,
+          "recent_form": "WDWLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 271,
+          "team_name": "Lens",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 16,
+            "draw": 9,
+            "lost": 3,
+            "goals_scored": 47,
+            "goals_against": 21,
+            "points": 57
+          },
+          "home": {
+            "games_played": 14,
+            "won": 12,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 29,
+            "goals_against": 10,
+            "points": 37
+          },
+          "away": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 8,
+            "lost": 2,
+            "goals_scored": 18,
+            "goals_against": 11,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "26",
+            "points": 57
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 57,
+          "recent_form": "WWDDW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 6789,
+          "team_name": "Monaco",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 16,
+            "draw": 6,
+            "lost": 6,
+            "goals_scored": 57,
+            "goals_against": 37,
+            "points": 54
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 29,
+            "goals_against": 23,
+            "points": 23
+          },
+          "away": {
+            "games_played": 14,
+            "won": 9,
+            "draw": 4,
+            "lost": 1,
+            "goals_scored": 28,
+            "goals_against": 14,
+            "points": 31
+          },
+          "total": {
+            "goal_difference": "20",
+            "points": 54
+          },
+          "result": "UEFA Europa League",
+          "points": 54,
+          "recent_form": "WLDLW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 598,
+          "team_name": "Rennes",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 15,
+            "draw": 5,
+            "lost": 8,
+            "goals_scored": 47,
+            "goals_against": 29,
+            "points": 50
+          },
+          "home": {
+            "games_played": 14,
+            "won": 11,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 30,
+            "goals_against": 11,
+            "points": 33
+          },
+          "away": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 18,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "18",
+            "points": 50
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 50,
+          "recent_form": "WDLWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 690,
+          "team_name": "Lille",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 14,
+            "draw": 7,
+            "lost": 7,
+            "goals_scored": 51,
+            "goals_against": 36,
+            "points": 49
+          },
+          "home": {
+            "games_played": 14,
+            "won": 8,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 28,
+            "goals_against": 21,
+            "points": 28
+          },
+          "away": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 23,
+            "goals_against": 15,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "15",
+            "points": 49
+          },
+          "result": null,
+          "points": 49,
+          "recent_form": "WDDWL",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 450,
+          "team_name": "Nice",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 11,
+            "draw": 11,
+            "lost": 6,
+            "goals_scored": 37,
+            "goals_against": 25,
+            "points": 44
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 6,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 12,
+            "points": 21
+          },
+          "away": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 13,
+            "points": 23
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 44
+          },
+          "result": null,
+          "points": 44,
+          "recent_form": "DDDWD",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 9257,
+          "team_name": "Lorient",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 12,
+            "draw": 8,
+            "lost": 8,
+            "goals_scored": 41,
+            "goals_against": 37,
+            "points": 44
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 21,
+            "goals_against": 15,
+            "points": 24
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 20,
+            "goals_against": 22,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "4",
+            "points": 44
+          },
+          "result": null,
+          "points": 44,
+          "recent_form": "DWDLW",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 1028,
+          "team_name": "Reims",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 10,
+            "draw": 13,
+            "lost": 5,
+            "goals_scored": 36,
+            "goals_against": 28,
+            "points": 43
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 23,
+            "goals_against": 15,
+            "points": 25
+          },
+          "away": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 9,
+            "lost": 2,
+            "goals_scored": 13,
+            "goals_against": 13,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 43
+          },
+          "result": null,
+          "points": 43,
+          "recent_form": "LWWWD",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 79,
+          "team_name": "Olympique Lyonnais",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 11,
+            "draw": 8,
+            "lost": 9,
+            "goals_scored": 43,
+            "goals_against": 32,
+            "points": 41
+          },
+          "home": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 20,
+            "goals_against": 11,
+            "points": 23
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 23,
+            "goals_against": 21,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 41
+          },
+          "result": null,
+          "points": 41,
+          "recent_form": "DDDWL",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 581,
+          "team_name": "Montpellier",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 11,
+            "draw": 3,
+            "lost": 14,
+            "goals_scored": 44,
+            "goals_against": 47,
+            "points": 36
+          },
+          "home": {
+            "games_played": 15,
+            "won": 6,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 24,
+            "goals_against": 23,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 1,
+            "lost": 7,
+            "goals_scored": 20,
+            "goals_against": 24,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 36
+          },
+          "result": null,
+          "points": 36,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 289,
+          "team_name": "Toulouse",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 10,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 43,
+            "goals_against": 48,
+            "points": 35
+          },
+          "home": {
+            "games_played": 15,
+            "won": 6,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 25,
+            "goals_against": 23,
+            "points": 22
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 18,
+            "goals_against": 25,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 35
+          },
+          "result": null,
+          "points": 35,
+          "recent_form": "LWLLL",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 6898,
+          "team_name": "Clermont",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 9,
+            "draw": 7,
+            "lost": 12,
+            "goals_scored": 27,
+            "goals_against": 40,
+            "points": 34
+          },
+          "home": {
+            "games_played": 14,
+            "won": 4,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 11,
+            "goals_against": 25,
+            "points": 15
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 15,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "LLWDL",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 59,
+          "team_name": "Nantes",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 6,
+            "draw": 12,
+            "lost": 10,
+            "goals_scored": 30,
+            "goals_against": 37,
+            "points": 30
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 6,
+            "lost": 3,
+            "goals_scored": 15,
+            "goals_against": 14,
+            "points": 18
+          },
+          "away": {
+            "games_played": 15,
+            "won": 2,
+            "draw": 6,
+            "lost": 7,
+            "goals_scored": 15,
+            "goals_against": 23,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 30
+          },
+          "result": null,
+          "points": 30,
+          "recent_form": "DDLLL",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 686,
+          "team_name": "Strasbourg",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 5,
+            "draw": 11,
+            "lost": 12,
+            "goals_scored": 34,
+            "goals_against": 46,
+            "points": 26
+          },
+          "home": {
+            "games_played": 15,
+            "won": 3,
+            "draw": 6,
+            "lost": 6,
+            "goals_scored": 18,
+            "goals_against": 22,
+            "points": 15
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 16,
+            "goals_against": 24,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "-12",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "WDLDW",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 266,
+          "team_name": "Brest",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 5,
+            "draw": 9,
+            "lost": 14,
+            "goals_scored": 30,
+            "goals_against": 46,
+            "points": 24
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 14,
+            "goals_against": 22,
+            "points": 11
+          },
+          "away": {
+            "games_played": 15,
+            "won": 3,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 16,
+            "goals_against": 24,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 24
+          },
+          "result": null,
+          "points": 24,
+          "recent_form": "DLWLL",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 3682,
+          "team_name": "Auxerre",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 5,
+            "draw": 8,
+            "lost": 15,
+            "goals_scored": 23,
+            "goals_against": 51,
+            "points": 23
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 11,
+            "goals_against": 20,
+            "points": 14
+          },
+          "away": {
+            "games_played": 15,
+            "won": 2,
+            "draw": 3,
+            "lost": 10,
+            "goals_scored": 12,
+            "goals_against": 31,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-28",
+            "points": 23
+          },
+          "result": null,
+          "points": 23,
+          "recent_form": "LDDWW",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 7047,
+          "team_name": "Troyes",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 4,
+            "draw": 9,
+            "lost": 15,
+            "goals_scored": 38,
+            "goals_against": 61,
+            "points": 21
+          },
+          "home": {
+            "games_played": 14,
+            "won": 1,
+            "draw": 9,
+            "lost": 4,
+            "goals_scored": 16,
+            "goals_against": 22,
+            "points": 12
+          },
+          "away": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 0,
+            "lost": 11,
+            "goals_scored": 22,
+            "goals_against": 39,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "-23",
+            "points": 21
+          },
+          "result": "Relegation Play-off",
+          "points": 21,
+          "recent_form": "DLDLL",
+          "status": null
+        },
+        {
+          "position": 19,
+          "team_id": 524,
+          "team_name": "Ajaccio",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 6,
+            "draw": 3,
+            "lost": 19,
+            "goals_scored": 20,
+            "goals_against": 50,
+            "points": 21
+          },
+          "home": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 1,
+            "lost": 10,
+            "goals_scored": 9,
+            "goals_against": 22,
+            "points": 10
+          },
+          "away": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 2,
+            "lost": 9,
+            "goals_scored": 11,
+            "goals_against": 28,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "-30",
+            "points": 21
+          },
+          "result": "Relegation",
+          "points": 21,
+          "recent_form": "LLLWL",
+          "status": null
+        },
+        {
+          "position": 20,
+          "team_id": 776,
+          "team_name": "Angers SCO",
+          "round_id": 275124,
+          "round_name": 28,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 28,
+            "won": 2,
+            "draw": 4,
+            "lost": 22,
+            "goals_scored": 21,
+            "goals_against": 63,
+            "points": 10
+          },
+          "home": {
+            "games_played": 14,
+            "won": 1,
+            "draw": 2,
+            "lost": 11,
+            "goals_scored": 14,
+            "goals_against": 30,
+            "points": 5
+          },
+          "away": {
+            "games_played": 14,
+            "won": 1,
+            "draw": 2,
+            "lost": 11,
+            "goals_scored": 7,
+            "goals_against": 33,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-42",
+            "points": 10
+          },
+          "result": "Relegation",
+          "points": 10,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

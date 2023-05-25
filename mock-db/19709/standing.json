@@ -1,0 +1,458 @@
+[
+  {
+    "id": 77457769,
+    "name": "Regular Season",
+    "league_id": 244,
+    "season_id": 19709,
+    "round_id": 274278,
+    "round_name": 26,
+    "type": "Group Stage",
+    "stage_id": 77457769,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 674,
+          "team_name": "Dinamo Zagreb",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 18,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 62,
+            "goals_against": 24,
+            "points": 59
+          },
+          "home": {
+            "games_played": 14,
+            "won": 12,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 38,
+            "goals_against": 11,
+            "points": 38
+          },
+          "away": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 24,
+            "goals_against": 13,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "38",
+            "points": 59
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 59,
+          "recent_form": "WLLDW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 906,
+          "team_name": "Hajduk Split",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 15,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 48,
+            "goals_against": 35,
+            "points": 50
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 29,
+            "goals_against": 16,
+            "points": 29
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 19,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "13",
+            "points": 50
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 50,
+          "recent_form": "WWLLW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 7920,
+          "team_name": "Osijek",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 10,
+            "draw": 7,
+            "lost": 9,
+            "goals_scored": 33,
+            "goals_against": 28,
+            "points": 37
+          },
+          "home": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 6,
+            "lost": 2,
+            "goals_scored": 17,
+            "goals_against": 10,
+            "points": 24
+          },
+          "away": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 1,
+            "lost": 7,
+            "goals_scored": 16,
+            "goals_against": 18,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 37
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 37,
+          "recent_form": "DLDLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 7684,
+          "team_name": "Varaždin",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 10,
+            "draw": 6,
+            "lost": 10,
+            "goals_scored": 32,
+            "goals_against": 37,
+            "points": 36
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 17,
+            "goals_against": 20,
+            "points": 19
+          },
+          "away": {
+            "games_played": 12,
+            "won": 5,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 15,
+            "goals_against": 17,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 36
+          },
+          "result": null,
+          "points": 36,
+          "recent_form": "WLWWL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 4504,
+          "team_name": "Istra 1961",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 8,
+            "lost": 9,
+            "goals_scored": 26,
+            "goals_against": 27,
+            "points": 35
+          },
+          "home": {
+            "games_played": 14,
+            "won": 6,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 12,
+            "goals_against": 10,
+            "points": 22
+          },
+          "away": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 14,
+            "goals_against": 17,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 35
+          },
+          "result": null,
+          "points": 35,
+          "recent_form": "DWLLD",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 3358,
+          "team_name": "Rijeka",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 10,
+            "draw": 4,
+            "lost": 12,
+            "goals_scored": 31,
+            "goals_against": 34,
+            "points": 34
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 11
+          },
+          "away": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 19,
+            "goals_against": 16,
+            "points": 23
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "LWWLW",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 2500,
+          "team_name": "Slaven Koprivnica",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 8,
+            "draw": 9,
+            "lost": 9,
+            "goals_scored": 19,
+            "goals_against": 32,
+            "points": 33
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 10,
+            "goals_against": 19,
+            "points": 14
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 9,
+            "goals_against": 13,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 33
+          },
+          "result": null,
+          "points": 33,
+          "recent_form": "LLDWL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 5428,
+          "team_name": "Lokomotiva Zagreb",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 5,
+            "lost": 12,
+            "goals_scored": 35,
+            "goals_against": 37,
+            "points": 32
+          },
+          "home": {
+            "games_played": 12,
+            "won": 6,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 17,
+            "goals_against": 13,
+            "points": 20
+          },
+          "away": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 3,
+            "lost": 8,
+            "goals_scored": 18,
+            "goals_against": 24,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "-2",
+            "points": 32
+          },
+          "result": null,
+          "points": 32,
+          "recent_form": "DWWLL",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 4237,
+          "team_name": "Šibenik",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 4,
+            "draw": 12,
+            "lost": 10,
+            "goals_scored": 18,
+            "goals_against": 30,
+            "points": 24
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 9,
+            "goals_against": 19,
+            "points": 10
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 8,
+            "lost": 3,
+            "goals_scored": 9,
+            "goals_against": 11,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "-12",
+            "points": 24
+          },
+          "result": null,
+          "points": 24,
+          "recent_form": "DWLDW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 8082,
+          "team_name": "Gorica",
+          "round_id": 274278,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 3,
+            "draw": 7,
+            "lost": 16,
+            "goals_scored": 20,
+            "goals_against": 40,
+            "points": 16
+          },
+          "home": {
+            "games_played": 12,
+            "won": 3,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 10,
+            "goals_against": 17,
+            "points": 12
+          },
+          "away": {
+            "games_played": 14,
+            "won": 0,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 10,
+            "goals_against": 23,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-20",
+            "points": 16
+          },
+          "result": "Relegation",
+          "points": 16,
+          "recent_form": "LWDWL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "id": 77457832,
+    "name": "Regular Season",
+    "league_id": 72,
+    "season_id": 19726,
+    "round_id": 274608,
+    "round_name": 26,
+    "type": "Group Stage",
+    "stage_id": 77457832,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 73,
+          "team_name": "Feyenoord",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 18,
+            "draw": 7,
+            "lost": 1,
+            "goals_scored": 59,
+            "goals_against": 25,
+            "points": 61
+          },
+          "home": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 26,
+            "goals_against": 7,
+            "points": 31
+          },
+          "away": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 33,
+            "goals_against": 18,
+            "points": 30
+          },
+          "total": {
+            "goal_difference": "34",
+            "points": 61
+          },
+          "result": "UEFA Champions League",
+          "points": 61,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 629,
+          "team_name": "Ajax",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 16,
+            "draw": 7,
+            "lost": 3,
+            "goals_scored": 72,
+            "goals_against": 28,
+            "points": 55
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 37,
+            "goals_against": 12,
+            "points": 25
+          },
+          "away": {
+            "games_played": 13,
+            "won": 9,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 35,
+            "goals_against": 16,
+            "points": 30
+          },
+          "total": {
+            "goal_difference": "44",
+            "points": 55
+          },
+          "result": "UEFA Champions League Qualifiers",
+          "points": 55,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 682,
+          "team_name": "PSV",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 16,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 67,
+            "goals_against": 31,
+            "points": 53
+          },
+          "home": {
+            "games_played": 13,
+            "won": 11,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 42,
+            "goals_against": 10,
+            "points": 34
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 25,
+            "goals_against": 21,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "36",
+            "points": 53
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 53,
+          "recent_form": "DWWWD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 61,
+          "team_name": "AZ",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 16,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 52,
+            "goals_against": 30,
+            "points": 53
+          },
+          "home": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 4,
+            "lost": 1,
+            "goals_scored": 26,
+            "goals_against": 15,
+            "points": 25
+          },
+          "away": {
+            "games_played": 14,
+            "won": 9,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 26,
+            "goals_against": 15,
+            "points": 28
+          },
+          "total": {
+            "goal_difference": "22",
+            "points": 53
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 53,
+          "recent_form": "LWWWL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 593,
+          "team_name": "FC Twente",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 13,
+            "draw": 8,
+            "lost": 5,
+            "goals_scored": 44,
+            "goals_against": 22,
+            "points": 47
+          },
+          "home": {
+            "games_played": 13,
+            "won": 10,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 32,
+            "goals_against": 7,
+            "points": 33
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 15,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "22",
+            "points": 47
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 47,
+          "recent_form": "WWDLL",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 919,
+          "team_name": "Sparta Rotterdam",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 13,
+            "draw": 7,
+            "lost": 6,
+            "goals_scored": 41,
+            "goals_against": 27,
+            "points": 46
+          },
+          "home": {
+            "games_played": 13,
+            "won": 8,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 23,
+            "goals_against": 13,
+            "points": 26
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 14,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "14",
+            "points": 46
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 46,
+          "recent_form": "WWWLL",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 750,
+          "team_name": "FC Utrecht",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 10,
+            "draw": 8,
+            "lost": 8,
+            "goals_scored": 42,
+            "goals_against": 41,
+            "points": 38
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 14,
+            "goals_against": 13,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 28,
+            "goals_against": 28,
+            "points": 19
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 38
+          },
+          "result": "UEFA Conference League Play-offs",
+          "points": 38,
+          "recent_form": "LDLWD",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 494,
+          "team_name": "NEC",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 13,
+            "lost": 6,
+            "goals_scored": 35,
+            "goals_against": 26,
+            "points": 34
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 9,
+            "lost": 1,
+            "goals_scored": 23,
+            "goals_against": 14,
+            "points": 18
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 12,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "WDLWW",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 1053,
+          "team_name": "SC Heerenveen",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 7,
+            "lost": 10,
+            "goals_scored": 31,
+            "goals_against": 36,
+            "points": 34
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 15,
+            "goals_against": 22,
+            "points": 14
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 16,
+            "goals_against": 14,
+            "points": 20
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "WLDLW",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 814,
+          "team_name": "RKC Waalwijk",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 8,
+            "draw": 8,
+            "lost": 9,
+            "goals_scored": 40,
+            "goals_against": 40,
+            "points": 32
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 27,
+            "goals_against": 19,
+            "points": 21
+          },
+          "away": {
+            "games_played": 12,
+            "won": 2,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 21,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 32
+          },
+          "result": null,
+          "points": 32,
+          "recent_form": "LLWWL",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 664,
+          "team_name": "Go Ahead Eagles",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 25,
+            "won": 7,
+            "draw": 8,
+            "lost": 10,
+            "goals_scored": 36,
+            "goals_against": 44,
+            "points": 29
+          },
+          "home": {
+            "games_played": 12,
+            "won": 4,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 20,
+            "points": 16
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 24,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 29
+          },
+          "result": null,
+          "points": 29,
+          "recent_form": "WLDWL",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 1459,
+          "team_name": "Fortuna Sittard",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 8,
+            "draw": 5,
+            "lost": 13,
+            "goals_scored": 32,
+            "goals_against": 46,
+            "points": 29
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 15,
+            "goals_against": 23,
+            "points": 12
+          },
+          "away": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 2,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 23,
+            "points": 17
+          },
+          "total": {
+            "goal_difference": "-14",
+            "points": 29
+          },
+          "result": null,
+          "points": 29,
+          "recent_form": "LLWLL",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 2396,
+          "team_name": "FC Volendam",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 5,
+            "lost": 14,
+            "goals_scored": 31,
+            "goals_against": 56,
+            "points": 26
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 20,
+            "goals_against": 26,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 11,
+            "goals_against": 30,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-25",
+            "points": 26
+          },
+          "result": null,
+          "points": 26,
+          "recent_form": "WLWLW",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 94,
+          "team_name": "Vitesse",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 5,
+            "draw": 9,
+            "lost": 12,
+            "goals_scored": 30,
+            "goals_against": 46,
+            "points": 24
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 5,
+            "lost": 6,
+            "goals_scored": 14,
+            "goals_against": 25,
+            "points": 11
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 16,
+            "goals_against": 21,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 24
+          },
+          "result": null,
+          "points": 24,
+          "recent_form": "DLLLL",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 1652,
+          "team_name": "Excelsior",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 2,
+            "lost": 17,
+            "goals_scored": 25,
+            "goals_against": 61,
+            "points": 23
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 23,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 1,
+            "lost": 11,
+            "goals_scored": 8,
+            "goals_against": 38,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-36",
+            "points": 23
+          },
+          "result": null,
+          "points": 23,
+          "recent_form": "WLLLL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 2475,
+          "team_name": "FC Emmen",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 4,
+            "draw": 9,
+            "lost": 13,
+            "goals_scored": 23,
+            "goals_against": 45,
+            "points": 21
+          },
+          "home": {
+            "games_played": 14,
+            "won": 3,
+            "draw": 8,
+            "lost": 3,
+            "goals_scored": 15,
+            "goals_against": 17,
+            "points": 17
+          },
+          "away": {
+            "games_played": 12,
+            "won": 1,
+            "draw": 1,
+            "lost": 10,
+            "goals_scored": 8,
+            "goals_against": 28,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-22",
+            "points": 21
+          },
+          "result": "Relegation Play-off",
+          "points": 21,
+          "recent_form": "LWLDD",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 2345,
+          "team_name": "FC Groningen",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 4,
+            "draw": 5,
+            "lost": 17,
+            "goals_scored": 25,
+            "goals_against": 52,
+            "points": 17
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 3,
+            "lost": 7,
+            "goals_scored": 17,
+            "goals_against": 23,
+            "points": 12
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 2,
+            "lost": 10,
+            "goals_scored": 8,
+            "goals_against": 29,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-27",
+            "points": 17
+          },
+          "result": "Relegation",
+          "points": 17,
+          "recent_form": "LLLWD",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 1435,
+          "team_name": "SC Cambuur",
+          "round_id": 274608,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 4,
+            "draw": 4,
+            "lost": 18,
+            "goals_scored": 20,
+            "goals_against": 49,
+            "points": 16
+          },
+          "home": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 0,
+            "lost": 11,
+            "goals_scored": 9,
+            "goals_against": 25,
+            "points": 6
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 11,
+            "goals_against": 24,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-29",
+            "points": 16
+          },
+          "result": "Relegation",
+          "points": 16,
+          "recent_form": "LLWLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

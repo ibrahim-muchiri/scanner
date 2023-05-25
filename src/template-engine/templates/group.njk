@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.group (group_id, league_id, season_id, stage_id, round_id, name)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.league_id }}, {{ item.season_id }}, {{ item.stage_id|default('NULL', true) }}, {{ item.round_id|default('NULL', true) }}, '{{ item.name|esc }}')
+  {%- if not loop.last %},{% endif %}
+{% endfor -%}
+on conflict (group_id) do nothing;

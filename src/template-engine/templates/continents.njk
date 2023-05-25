@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.continent (continent_id, name)
+values
+{% for item in data -%}
+  ({{ item.id }}, '{{ item.name }}')
+  {%- if not loop.last %},{% endif %}
+{% endfor %}
+on conflict (continent_id) do nothing;

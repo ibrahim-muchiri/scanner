@@ -1,0 +1,1796 @@
+[
+  {
+    "id": 77452389,
+    "name": "1st Round",
+    "league_id": 717,
+    "season_id": 18015,
+    "round_id": null,
+    "round_name": null,
+    "type": "Knock Out",
+    "stage_id": 77452389,
+    "stage_name": "1st Round",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "id": 244791,
+          "name": "Group A",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18725,
+                "team_name": "El Salvador",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244791,
+                "group_name": "Group A",
+                "overall": {
+                  "games_played": 4,
+                  "won": 3,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 13,
+                  "goals_against": 1,
+                  "points": 10
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 5,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 8,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "total": {
+                  "goal_difference": "12",
+                  "points": 10
+                },
+                "result": "Next Round",
+                "points": 10,
+                "recent_form": "WWDW",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 27043,
+                "team_name": "Montserrat",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244791,
+                "group_name": "Group A",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 2,
+                  "lost": 0,
+                  "goals_scored": 9,
+                  "goals_against": 4,
+                  "points": 8
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 5,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 4,
+                  "goals_against": 3,
+                  "points": 4
+                },
+                "total": {
+                  "goal_difference": "5",
+                  "points": 8
+                },
+                "result": null,
+                "points": 8,
+                "recent_form": "WWDD",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18874,
+                "team_name": "Antigua and Barbuda",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244791,
+                "group_name": "Group A",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 6,
+                  "goals_against": 5,
+                  "points": 7
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 3,
+                  "goals_against": 2,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 3,
+                  "goals_against": 3,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "1",
+                  "points": 7
+                },
+                "result": null,
+                "points": 7,
+                "recent_form": "LWWD",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 18898,
+                "team_name": "Grenada",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244791,
+                "group_name": "Group A",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 3,
+                  "goals_scored": 2,
+                  "goals_against": 5,
+                  "points": 3
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 2,
+                  "goals_against": 2,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 3,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-3",
+                  "points": 3
+                },
+                "result": null,
+                "points": 3,
+                "recent_form": "LWLL",
+                "status": null
+              },
+              {
+                "position": 5,
+                "team_id": 19013,
+                "team_name": "US Virgin Islands",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244791,
+                "group_name": "Group A",
+                "overall": {
+                  "games_played": 4,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 4,
+                  "goals_scored": 0,
+                  "goals_against": 15,
+                  "points": 0
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 10,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 5,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-15",
+                  "points": 0
+                },
+                "result": null,
+                "points": 0,
+                "recent_form": "LLLL",
+                "status": null
+              }
+            ]
+          }
+        },
+        {
+          "id": 244792,
+          "name": "Group B",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18572,
+                "team_name": "Canada",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244792,
+                "group_name": "Group B",
+                "overall": {
+                  "games_played": 4,
+                  "won": 4,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 27,
+                  "goals_against": 1,
+                  "points": 12
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 9,
+                  "goals_against": 1,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 18,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "total": {
+                  "goal_difference": "26",
+                  "points": 12
+                },
+                "result": "Next Round",
+                "points": 12,
+                "recent_form": "WWWW",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 18911,
+                "team_name": "Suriname",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244792,
+                "group_name": "Group B",
+                "overall": {
+                  "games_played": 4,
+                  "won": 3,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 15,
+                  "goals_against": 4,
+                  "points": 9
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 9,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 6,
+                  "goals_against": 4,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "11",
+                  "points": 9
+                },
+                "result": null,
+                "points": 9,
+                "recent_form": "LWWW",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18810,
+                "team_name": "Bermuda",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244792,
+                "group_name": "Group B",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 2,
+                  "goals_scored": 7,
+                  "goals_against": 12,
+                  "points": 4
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 6,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 1,
+                  "goals_against": 11,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-5",
+                  "points": 4
+                },
+                "result": null,
+                "points": 4,
+                "recent_form": "DLWL",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 19040,
+                "team_name": "Aruba",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244792,
+                "group_name": "Group B",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 3,
+                  "goals_scored": 3,
+                  "goals_against": 19,
+                  "points": 3
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 13,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 3,
+                  "goals_against": 6,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "-16",
+                  "points": 3
+                },
+                "result": null,
+                "points": 3,
+                "recent_form": "LWLL",
+                "status": null
+              },
+              {
+                "position": 5,
+                "team_id": 18922,
+                "team_name": "Cayman Islands",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244792,
+                "group_name": "Group B",
+                "overall": {
+                  "games_played": 4,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 3,
+                  "goals_scored": 2,
+                  "goals_against": 18,
+                  "points": 1
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 1,
+                  "goals_against": 14,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 1,
+                  "goals_against": 4,
+                  "points": 1
+                },
+                "total": {
+                  "goal_difference": "-16",
+                  "points": 1
+                },
+                "result": null,
+                "points": 1,
+                "recent_form": "DLLL",
+                "status": null
+              }
+            ]
+          }
+        },
+        {
+          "id": 244793,
+          "name": "Group C",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18618,
+                "team_name": "Guatemala",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244793,
+                "group_name": "Group C",
+                "overall": {
+                  "games_played": 4,
+                  "won": 3,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 14,
+                  "goals_against": 0,
+                  "points": 10
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 11,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 3,
+                  "goals_against": 0,
+                  "points": 4
+                },
+                "total": {
+                  "goal_difference": "14",
+                  "points": 10
+                },
+                "result": "Next Round",
+                "points": 10,
+                "recent_form": "DWWW",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 18910,
+                "team_name": "Curacao",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244793,
+                "group_name": "Group C",
+                "overall": {
+                  "games_played": 4,
+                  "won": 3,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 15,
+                  "goals_against": 1,
+                  "points": 10
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 5,
+                  "goals_against": 0,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 10,
+                  "goals_against": 1,
+                  "points": 6
+                },
+                "total": {
+                  "goal_difference": "14",
+                  "points": 10
+                },
+                "result": null,
+                "points": 10,
+                "recent_form": "DWWW",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18806,
+                "team_name": "Cuba",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244793,
+                "group_name": "Group C",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 7,
+                  "goals_against": 3,
+                  "points": 6
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 6,
+                  "goals_against": 2,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 1,
+                  "goals_against": 1,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "4",
+                  "points": 6
+                },
+                "result": null,
+                "points": 6,
+                "recent_form": "WWLL",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 18876,
+                "team_name": "St. Vincent and the Grenadines",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244793,
+                "group_name": "Group C",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 3,
+                  "goals_scored": 3,
+                  "goals_against": 16,
+                  "points": 3
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 3,
+                  "goals_against": 1,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 15,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-13",
+                  "points": 3
+                },
+                "result": null,
+                "points": 3,
+                "recent_form": "LLWL",
+                "status": null
+              },
+              {
+                "position": 5,
+                "team_id": 18926,
+                "team_name": "British Virgin Islands",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244793,
+                "group_name": "Group C",
+                "overall": {
+                  "games_played": 4,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 4,
+                  "goals_scored": 0,
+                  "goals_against": 19,
+                  "points": 0
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 11,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 8,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-19",
+                  "points": 0
+                },
+                "result": null,
+                "points": 0,
+                "recent_form": "LLLL",
+                "status": null
+              }
+            ]
+          }
+        },
+        {
+          "id": 244794,
+          "name": "Group D",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18717,
+                "team_name": "Panama",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244794,
+                "group_name": "Group D",
+                "overall": {
+                  "games_played": 4,
+                  "won": 4,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 19,
+                  "goals_against": 1,
+                  "points": 12
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 4,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 15,
+                  "goals_against": 1,
+                  "points": 6
+                },
+                "total": {
+                  "goal_difference": "18",
+                  "points": 12
+                },
+                "result": "Next Round",
+                "points": 12,
+                "recent_form": "WWWW",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 18921,
+                "team_name": "Dominican Republic",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244794,
+                "group_name": "Group D",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 8,
+                  "goals_against": 4,
+                  "points": 7
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 2,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 6,
+                  "goals_against": 3,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "4",
+                  "points": 7
+                },
+                "result": null,
+                "points": 7,
+                "recent_form": "WLDW",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18811,
+                "team_name": "Barbados",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244794,
+                "group_name": "Group D",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 2,
+                  "lost": 1,
+                  "goals_scored": 3,
+                  "goals_against": 3,
+                  "points": 5
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 2,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 1,
+                  "goals_against": 2,
+                  "points": 1
+                },
+                "total": {
+                  "goal_difference": "0",
+                  "points": 5
+                },
+                "result": null,
+                "points": 5,
+                "recent_form": "DWDL",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 18878,
+                "team_name": "Dominica",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244794,
+                "group_name": "Group D",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 2,
+                  "goals_scored": 5,
+                  "goals_against": 4,
+                  "points": 4
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 4,
+                  "goals_against": 2,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 1,
+                  "goals_against": 2,
+                  "points": 1
+                },
+                "total": {
+                  "goal_difference": "1",
+                  "points": 4
+                },
+                "result": null,
+                "points": 4,
+                "recent_form": "DWLL",
+                "status": null
+              },
+              {
+                "position": 5,
+                "team_id": 18927,
+                "team_name": "Anguilla",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244794,
+                "group_name": "Group D",
+                "overall": {
+                  "games_played": 4,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 4,
+                  "goals_scored": 0,
+                  "goals_against": 23,
+                  "points": 0
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 19,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 4,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-23",
+                  "points": 0
+                },
+                "result": null,
+                "points": 0,
+                "recent_form": "LLLL",
+                "status": null
+              }
+            ]
+          }
+        },
+        {
+          "id": 244795,
+          "name": "Group E",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18804,
+                "team_name": "Haiti",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244795,
+                "group_name": "Group E",
+                "overall": {
+                  "games_played": 3,
+                  "won": 3,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 13,
+                  "goals_against": 0,
+                  "points": 9
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 3,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 1,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 10,
+                  "goals_against": 0,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "13",
+                  "points": 9
+                },
+                "result": "Next Round",
+                "points": 9,
+                "recent_form": "WWW",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 18999,
+                "team_name": "Nicaragua",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244795,
+                "group_name": "Group E",
+                "overall": {
+                  "games_played": 3,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 10,
+                  "goals_against": 1,
+                  "points": 6
+                },
+                "home": {
+                  "games_played": 1,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 3,
+                  "goals_against": 0,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 7,
+                  "goals_against": 1,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "9",
+                  "points": 6
+                },
+                "result": null,
+                "points": 6,
+                "recent_form": "LWW",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18899,
+                "team_name": "Belize",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244795,
+                "group_name": "Group E",
+                "overall": {
+                  "games_played": 3,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 5,
+                  "goals_against": 5,
+                  "points": 3
+                },
+                "home": {
+                  "games_played": 1,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 5,
+                  "goals_against": 0,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 5,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "0",
+                  "points": 3
+                },
+                "result": null,
+                "points": 3,
+                "recent_form": "LWL",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 18908,
+                "team_name": "St. Lucia",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244795,
+                "group_name": "Group E",
+                "overall": {
+                  "games_played": 0,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 0,
+                  "goals_against": 0,
+                  "points": 0
+                },
+                "home": {
+                  "games_played": 0,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 0,
+                  "goals_against": 0,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 0,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 0,
+                  "goals_against": 0,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "0",
+                  "points": 0
+                },
+                "result": null,
+                "points": 0,
+                "recent_form": "",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 27042,
+                "team_name": "Turks and Caicos Islands",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244795,
+                "group_name": "Group E",
+                "overall": {
+                  "games_played": 3,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 3,
+                  "goals_scored": 0,
+                  "goals_against": 22,
+                  "points": 0
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 17,
+                  "points": 0
+                },
+                "away": {
+                  "games_played": 1,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 0,
+                  "goals_against": 5,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-22",
+                  "points": 0
+                },
+                "result": null,
+                "points": 0,
+                "recent_form": "LLL",
+                "status": null
+              }
+            ]
+          }
+        },
+        {
+          "id": 244796,
+          "name": "Group F",
+          "league_id": 717,
+          "season_id": 18015,
+          "round_id": null,
+          "round_name": null,
+          "stage_id": 77452389,
+          "stage_name": "1st Round",
+          "resource": "group",
+          "standings": {
+            "data": [
+              {
+                "position": 1,
+                "team_id": 18637,
+                "team_name": "Trinidad and Tobago",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244796,
+                "group_name": "Group F",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 2,
+                  "lost": 0,
+                  "goals_scored": 6,
+                  "goals_against": 1,
+                  "points": 8
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 5,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 2,
+                  "lost": 0,
+                  "goals_scored": 1,
+                  "goals_against": 1,
+                  "points": 2
+                },
+                "total": {
+                  "goal_difference": "5",
+                  "points": 8
+                },
+                "result": "Next Round",
+                "points": 8,
+                "recent_form": "WDWD",
+                "status": null
+              },
+              {
+                "position": 2,
+                "team_id": 327,
+                "team_name": "Puerto Rico",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244796,
+                "group_name": "Group F",
+                "overall": {
+                  "games_played": 4,
+                  "won": 2,
+                  "draw": 1,
+                  "lost": 1,
+                  "goals_scored": 10,
+                  "goals_against": 2,
+                  "points": 7
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 8,
+                  "goals_against": 1,
+                  "points": 4
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 2,
+                  "goals_against": 1,
+                  "points": 3
+                },
+                "total": {
+                  "goal_difference": "8",
+                  "points": 7
+                },
+                "result": null,
+                "points": 7,
+                "recent_form": "WWDL",
+                "status": null
+              },
+              {
+                "position": 3,
+                "team_id": 18879,
+                "team_name": "St. Kitts and Nevis",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244796,
+                "group_name": "Group F",
+                "overall": {
+                  "games_played": 3,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 4,
+                  "goals_against": 2,
+                  "points": 6
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 2,
+                  "draw": 0,
+                  "lost": 0,
+                  "goals_scored": 4,
+                  "goals_against": 0,
+                  "points": 6
+                },
+                "away": {
+                  "games_played": 1,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 0,
+                  "goals_against": 2,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "2",
+                  "points": 6
+                },
+                "result": null,
+                "points": 6,
+                "recent_form": "LWW",
+                "status": null
+              },
+              {
+                "position": 4,
+                "team_id": 18877,
+                "team_name": "Guyana",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244796,
+                "group_name": "Group F",
+                "overall": {
+                  "games_played": 4,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 3,
+                  "goals_scored": 4,
+                  "goals_against": 8,
+                  "points": 3
+                },
+                "home": {
+                  "games_played": 2,
+                  "won": 1,
+                  "draw": 0,
+                  "lost": 1,
+                  "goals_scored": 4,
+                  "goals_against": 2,
+                  "points": 3
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 6,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-4",
+                  "points": 3
+                },
+                "result": null,
+                "points": 3,
+                "recent_form": "LLLW",
+                "status": null
+              },
+              {
+                "position": 5,
+                "team_id": 27044,
+                "team_name": "Bahamas",
+                "round_id": null,
+                "round_name": null,
+                "group_id": 244796,
+                "group_name": "Group F",
+                "overall": {
+                  "games_played": 3,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 11,
+                  "points": 1
+                },
+                "home": {
+                  "games_played": 1,
+                  "won": 0,
+                  "draw": 1,
+                  "lost": 0,
+                  "goals_scored": 0,
+                  "goals_against": 0,
+                  "points": 1
+                },
+                "away": {
+                  "games_played": 2,
+                  "won": 0,
+                  "draw": 0,
+                  "lost": 2,
+                  "goals_scored": 0,
+                  "goals_against": 11,
+                  "points": 0
+                },
+                "total": {
+                  "goal_difference": "-11",
+                  "points": 1
+                },
+                "result": null,
+                "points": 1,
+                "recent_form": "DLL",
+                "status": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 77452387,
+    "name": "Final Round",
+    "league_id": 717,
+    "season_id": 18015,
+    "round_id": null,
+    "round_name": null,
+    "type": "Knock Out",
+    "stage_id": 77452387,
+    "stage_name": "Final Round",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18572,
+          "team_name": "Canada",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 14,
+            "won": 8,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 23,
+            "goals_against": 7,
+            "points": 28
+          },
+          "home": {
+            "games_played": 7,
+            "won": 6,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 3,
+            "points": 19
+          },
+          "away": {
+            "games_played": 7,
+            "won": 2,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "16",
+            "points": 28
+          },
+          "result": "World Cup",
+          "points": 28,
+          "recent_form": "LLWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18576,
+          "team_name": "Mexico",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 13,
+            "won": 8,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 17,
+            "goals_against": 8,
+            "points": 27
+          },
+          "home": {
+            "games_played": 6,
+            "won": 4,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 2,
+            "points": 14
+          },
+          "away": {
+            "games_played": 7,
+            "won": 4,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 6,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 27
+          },
+          "result": "World Cup",
+          "points": 27,
+          "recent_form": "WWDWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18571,
+          "team_name": "United States",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 21,
+            "goals_against": 9,
+            "points": 25
+          },
+          "home": {
+            "games_played": 7,
+            "won": 6,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 16,
+            "goals_against": 3,
+            "points": 19
+          },
+          "away": {
+            "games_played": 6,
+            "won": 1,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 6,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 25
+          },
+          "result": "World Cup",
+          "points": 25,
+          "recent_form": "LWWDL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18598,
+          "team_name": "Costa Rica",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 13,
+            "goals_against": 8,
+            "points": 24
+          },
+          "home": {
+            "games_played": 7,
+            "won": 5,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 4,
+            "points": 16
+          },
+          "away": {
+            "games_played": 6,
+            "won": 2,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 4,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 24
+          },
+          "result": "Intercontinental Play-off",
+          "points": 24,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18717,
+          "team_name": "Panama",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 19,
+            "points": 18
+          },
+          "home": {
+            "games_played": 6,
+            "won": 3,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 5,
+            "points": 12
+          },
+          "away": {
+            "games_played": 7,
+            "won": 2,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 8,
+            "goals_against": 14,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 18
+          },
+          "result": null,
+          "points": 18,
+          "recent_form": "WLDLW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18771,
+          "team_name": "Jamaica",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 5,
+            "lost": 7,
+            "goals_scored": 12,
+            "goals_against": 22,
+            "points": 11
+          },
+          "home": {
+            "games_played": 7,
+            "won": 1,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 6
+          },
+          "away": {
+            "games_played": 7,
+            "won": 1,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 7,
+            "goals_against": 13,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 11
+          },
+          "result": null,
+          "points": 11,
+          "recent_form": "WLLLD",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 18725,
+          "team_name": "El Salvador",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 14,
+            "won": 2,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 8,
+            "goals_against": 18,
+            "points": 10
+          },
+          "home": {
+            "games_played": 7,
+            "won": 1,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 6
+          },
+          "away": {
+            "games_played": 7,
+            "won": 1,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 5,
+            "goals_against": 11,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 10
+          },
+          "result": null,
+          "points": 10,
+          "recent_form": "LLDWL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 18574,
+          "team_name": "Honduras",
+          "round_id": null,
+          "round_name": null,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 14,
+            "won": 0,
+            "draw": 4,
+            "lost": 10,
+            "goals_scored": 7,
+            "goals_against": 26,
+            "points": 4
+          },
+          "home": {
+            "games_played": 7,
+            "won": 0,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 3,
+            "goals_against": 14,
+            "points": 1
+          },
+          "away": {
+            "games_played": 7,
+            "won": 0,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 12,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-19",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LLLLD",
+          "status": null
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "id": 77458033,
+    "name": "Regular Season",
+    "league_id": 564,
+    "season_id": 19799,
+    "round_id": 275908,
+    "round_name": 26,
+    "type": "Group Stage",
+    "stage_id": 77458033,
+    "stage_name": "Regular Season",
+    "resource": "stage",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 83,
+          "team_name": "FC Barcelona",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 22,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 49,
+            "goals_against": 9,
+            "points": 68
+          },
+          "home": {
+            "games_played": 13,
+            "won": 11,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 27,
+            "goals_against": 2,
+            "points": 35
+          },
+          "away": {
+            "games_played": 13,
+            "won": 11,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 22,
+            "goals_against": 7,
+            "points": 33
+          },
+          "total": {
+            "goal_difference": "40",
+            "points": 68
+          },
+          "result": "UEFA Champions League",
+          "points": 68,
+          "recent_form": "WWWLW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 3468,
+          "team_name": "Real Madrid",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 17,
+            "draw": 5,
+            "lost": 4,
+            "goals_scored": 51,
+            "goals_against": 21,
+            "points": 56
+          },
+          "home": {
+            "games_played": 12,
+            "won": 8,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 26,
+            "goals_against": 9,
+            "points": 28
+          },
+          "away": {
+            "games_played": 14,
+            "won": 9,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 25,
+            "goals_against": 12,
+            "points": 28
+          },
+          "total": {
+            "goal_difference": "30",
+            "points": 56
+          },
+          "result": "UEFA Champions League",
+          "points": 56,
+          "recent_form": "LWDDW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 7980,
+          "team_name": "Atlético Madrid",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 15,
+            "draw": 6,
+            "lost": 5,
+            "goals_scored": 42,
+            "goals_against": 19,
+            "points": 51
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 25,
+            "goals_against": 11,
+            "points": 24
+          },
+          "away": {
+            "games_played": 13,
+            "won": 8,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 17,
+            "goals_against": 8,
+            "points": 27
+          },
+          "total": {
+            "goal_difference": "23",
+            "points": 51
+          },
+          "result": "UEFA Champions League",
+          "points": 51,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 594,
+          "team_name": "Real Sociedad",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 14,
+            "draw": 6,
+            "lost": 6,
+            "goals_scored": 35,
+            "goals_against": 24,
+            "points": 48
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 15,
+            "goals_against": 12,
+            "points": 22
+          },
+          "away": {
+            "games_played": 13,
+            "won": 8,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 20,
+            "goals_against": 12,
+            "points": 26
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 48
+          },
+          "result": "UEFA Champions League",
+          "points": 48,
+          "recent_form": "WDDLD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 485,
+          "team_name": "Real Betis",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 13,
+            "draw": 6,
+            "lost": 7,
+            "goals_scored": 34,
+            "goals_against": 26,
+            "points": 45
+          },
+          "home": {
+            "games_played": 13,
+            "won": 7,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 12,
+            "points": 24
+          },
+          "away": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 15,
+            "goals_against": 14,
+            "points": 21
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 45
+          },
+          "result": "UEFA Europa League",
+          "points": 45,
+          "recent_form": "WDDWW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 3477,
+          "team_name": "Villarreal",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 12,
+            "draw": 5,
+            "lost": 9,
+            "goals_scored": 32,
+            "goals_against": 24,
+            "points": 41
+          },
+          "home": {
+            "games_played": 12,
+            "won": 7,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 17,
+            "goals_against": 10,
+            "points": 23
+          },
+          "away": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 15,
+            "goals_against": 14,
+            "points": 18
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 41
+          },
+          "result": "UEFA Conference League Qualifiers",
+          "points": 41,
+          "recent_form": "WDWWL",
+          "status": null
+        },
+        {
+          "position": 7,
+          "team_id": 13258,
+          "team_name": "Athletic Club",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 10,
+            "draw": 6,
+            "lost": 10,
+            "goals_scored": 36,
+            "goals_against": 28,
+            "points": 36
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 11,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 18,
+            "goals_against": 17,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "8",
+            "points": 36
+          },
+          "result": null,
+          "points": 36,
+          "recent_form": "WLDLL",
+          "status": null
+        },
+        {
+          "position": 8,
+          "team_id": 377,
+          "team_name": "Rayo Vallecano",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 9,
+            "lost": 8,
+            "goals_scored": 31,
+            "goals_against": 30,
+            "points": 36
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 5,
+            "lost": 3,
+            "goals_scored": 18,
+            "goals_against": 14,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 13,
+            "goals_against": 16,
+            "points": 16
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 36
+          },
+          "result": null,
+          "points": 36,
+          "recent_form": "DLDLD",
+          "status": null
+        },
+        {
+          "position": 9,
+          "team_id": 459,
+          "team_name": "Osasuna",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 7,
+            "lost": 10,
+            "goals_scored": 22,
+            "goals_against": 27,
+            "points": 34
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 12,
+            "goals_against": 14,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 6,
+            "lost": 4,
+            "goals_scored": 10,
+            "goals_against": 13,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "LLDWL",
+          "status": null
+        },
+        {
+          "position": 10,
+          "team_id": 36,
+          "team_name": "Celta de Vigo",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 7,
+            "lost": 10,
+            "goals_scored": 32,
+            "goals_against": 35,
+            "points": 34
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 4,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 14,
+            "points": 19
+          },
+          "away": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 3,
+            "lost": 6,
+            "goals_scored": 13,
+            "goals_against": 21,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 34
+          },
+          "result": null,
+          "points": 34,
+          "recent_form": "WWDWD",
+          "status": null
+        },
+        {
+          "position": 11,
+          "team_id": 645,
+          "team_name": "Mallorca",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 9,
+            "draw": 5,
+            "lost": 12,
+            "goals_scored": 22,
+            "goals_against": 27,
+            "points": 32
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 13,
+            "goals_against": 10,
+            "points": 21
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 2,
+            "lost": 8,
+            "goals_scored": 9,
+            "goals_against": 17,
+            "points": 11
+          },
+          "total": {
+            "goal_difference": "-5",
+            "points": 32
+          },
+          "result": null,
+          "points": 32,
+          "recent_form": "LDLLW",
+          "status": null
+        },
+        {
+          "position": 12,
+          "team_id": 231,
+          "team_name": "Girona",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 8,
+            "draw": 7,
+            "lost": 11,
+            "goals_scored": 40,
+            "goals_against": 41,
+            "points": 31
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 23,
+            "goals_against": 18,
+            "points": 21
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 17,
+            "goals_against": 23,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 31
+          },
+          "result": null,
+          "points": 31,
+          "recent_form": "DLLWW",
+          "status": null
+        },
+        {
+          "position": 13,
+          "team_id": 106,
+          "team_name": "Getafe",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 8,
+            "lost": 11,
+            "goals_scored": 27,
+            "goals_against": 34,
+            "points": 29
+          },
+          "home": {
+            "games_played": 14,
+            "won": 5,
+            "draw": 4,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 16,
+            "points": 19
+          },
+          "away": {
+            "games_played": 12,
+            "won": 2,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 11,
+            "goals_against": 18,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-7",
+            "points": 29
+          },
+          "result": null,
+          "points": 29,
+          "recent_form": "WDWLW",
+          "status": null
+        },
+        {
+          "position": 14,
+          "team_id": 676,
+          "team_name": "Sevilla",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 7,
+            "lost": 12,
+            "goals_scored": 29,
+            "goals_against": 42,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 5,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 16,
+            "goals_against": 16,
+            "points": 18
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 13,
+            "goals_against": 26,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "LWLLD",
+          "status": null
+        },
+        {
+          "position": 15,
+          "team_id": 6827,
+          "team_name": "Cádiz",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 6,
+            "draw": 10,
+            "lost": 10,
+            "goals_scored": 21,
+            "goals_against": 38,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 4,
+            "draw": 6,
+            "lost": 3,
+            "goals_scored": 14,
+            "goals_against": 17,
+            "points": 18
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 4,
+            "lost": 7,
+            "goals_scored": 7,
+            "goals_against": 21,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "-17",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "DDDWL",
+          "status": null
+        },
+        {
+          "position": 16,
+          "team_id": 361,
+          "team_name": "Real Valladolid",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 8,
+            "draw": 4,
+            "lost": 14,
+            "goals_scored": 20,
+            "goals_against": 38,
+            "points": 28
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 13,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 2,
+            "draw": 2,
+            "lost": 9,
+            "goals_scored": 8,
+            "goals_against": 25,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "-18",
+            "points": 28
+          },
+          "result": null,
+          "points": 28,
+          "recent_form": "LDWLL",
+          "status": null
+        },
+        {
+          "position": 17,
+          "team_id": 528,
+          "team_name": "Espanyol",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 6,
+            "draw": 9,
+            "lost": 11,
+            "goals_scored": 32,
+            "goals_against": 42,
+            "points": 27
+          },
+          "home": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 4,
+            "lost": 6,
+            "goals_scored": 17,
+            "goals_against": 23,
+            "points": 13
+          },
+          "away": {
+            "games_played": 13,
+            "won": 3,
+            "draw": 5,
+            "lost": 5,
+            "goals_scored": 15,
+            "goals_against": 19,
+            "points": 14
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 27
+          },
+          "result": null,
+          "points": 27,
+          "recent_form": "LLLWW",
+          "status": null
+        },
+        {
+          "position": 18,
+          "team_id": 214,
+          "team_name": "Valencia",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 5,
+            "lost": 14,
+            "goals_scored": 28,
+            "goals_against": 31,
+            "points": 26
+          },
+          "home": {
+            "games_played": 13,
+            "won": 6,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 20,
+            "goals_against": 12,
+            "points": 20
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 8,
+            "goals_against": 19,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 26
+          },
+          "result": "Relegation",
+          "points": 26,
+          "recent_form": "LWLWL",
+          "status": null
+        },
+        {
+          "position": 19,
+          "team_id": 618,
+          "team_name": "Almería",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 7,
+            "draw": 5,
+            "lost": 14,
+            "goals_scored": 30,
+            "goals_against": 45,
+            "points": 26
+          },
+          "home": {
+            "games_played": 14,
+            "won": 7,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 21,
+            "goals_against": 18,
+            "points": 23
+          },
+          "away": {
+            "games_played": 12,
+            "won": 0,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 9,
+            "goals_against": 27,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-15",
+            "points": 26
+          },
+          "result": "Relegation",
+          "points": 26,
+          "recent_form": "DLLWL",
+          "status": null
+        },
+        {
+          "position": 20,
+          "team_id": 1099,
+          "team_name": "Elche",
+          "round_id": 275908,
+          "round_name": 26,
+          "group_id": null,
+          "group_name": null,
+          "overall": {
+            "games_played": 26,
+            "won": 2,
+            "draw": 7,
+            "lost": 17,
+            "goals_scored": 19,
+            "goals_against": 51,
+            "points": 13
+          },
+          "home": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 4,
+            "lost": 8,
+            "goals_scored": 11,
+            "goals_against": 21,
+            "points": 7
+          },
+          "away": {
+            "games_played": 13,
+            "won": 1,
+            "draw": 3,
+            "lost": 9,
+            "goals_scored": 8,
+            "goals_against": 30,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-32",
+            "points": 13
+          },
+          "result": "Relegation",
+          "points": 13,
+          "recent_form": "LDWLL",
+          "status": null
+        }
+      ]
+    }
+  }
+]

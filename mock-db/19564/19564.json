@@ -1,0 +1,411 @@
+{
+  "id": 19564,
+  "name": "2022",
+  "league_id": 729,
+  "is_current_season": true,
+  "current_round_id": null,
+  "current_stage_id": null,
+  "league": {
+    "data": {
+      "id": 729,
+      "active": true,
+      "type": "international",
+      "legacy_id": null,
+      "country_id": 99474,
+      "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/25/729.png",
+      "name": "WC Qualification Intercontinental Playoffs",
+      "is_cup": true,
+      "is_friendly": false,
+      "current_season_id": 19564,
+      "current_round_id": null,
+      "current_stage_id": null,
+      "live_standings": true,
+      "coverage": {
+        "predictions": false,
+        "topscorer_goals": true,
+        "topscorer_assists": true,
+        "topscorer_cards": true
+      }
+    }
+  },
+  "stages": {
+    "data": [
+      {
+        "id": 77457288,
+        "name": "Finals",
+        "type": "Knock Out",
+        "league_id": 729,
+        "season_id": 19564,
+        "sort_order": 1,
+        "has_standings": false,
+        "has_outgroup_matches": 0
+      }
+    ]
+  },
+  "rounds": {
+    "data": []
+  },
+  "groups": {
+    "data": []
+  },
+  "fixtures": {
+    "data": [
+      {
+        "id": 18515024,
+        "league_id": 729,
+        "season_id": 19564,
+        "stage_id": 77457288,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": null,
+        "referee_id": 40983,
+        "localteam_id": 18598,
+        "visitorteam_id": 18613,
+        "winner_team_id": 18598,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": "4-4-2",
+          "visitorteam_formation": "3-1-4-2"
+        },
+        "scores": {
+          "localteam_score": 1,
+          "visitorteam_score": 0,
+          "localteam_pen_score": null,
+          "visitorteam_pen_score": null,
+          "ht_score": "1-0",
+          "ft_score": "1-0",
+          "et_score": null,
+          "ps_score": null
+        },
+        "time": {
+          "status": "FT",
+          "starting_at": {
+            "date_time": "2022-06-14 18:00:00",
+            "date": "2022-06-14",
+            "time": "18:00:00",
+            "timestamp": 1655229600,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": null,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 785150,
+          "visitorteam_coach_id": 323355
+        },
+        "standings": {
+          "localteam_position": 1,
+          "visitorteam_position": 2
+        },
+        "assistants": {
+          "first_assistant_id": 18610,
+          "second_assistant_id": 18613,
+          "fourth_official_id": 16445
+        },
+        "leg": "1/1",
+        "colors": {
+          "localteam": {
+            "color": "#C40010",
+            "kit_colors": "#C40010,#C40010,#0C183A,#0C183A,#C40010,#0046A8,#0046A8"
+          },
+          "visitorteam": {
+            "color": "#F0F0F0",
+            "kit_colors": "#F0F0F0,#F0F0F0,#F0F0F0,#00C1BA,#C40010,#0046A8,#F0F0F0"
+          }
+        },
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": [
+            {
+              "id": 1,
+              "name": "3Way Result",
+              "suspended": false,
+              "bookmaker": {
+                "data": [
+                  {
+                    "id": 150,
+                    "name": "bwin",
+                    "odds": {
+                      "data": [
+                        {
+                          "label": "1",
+                          "value": "2.15",
+                          "probability": "46.51%",
+                          "dp3": "2.150",
+                          "american": 114,
+                          "factional": null,
+                          "winning": true,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-14 17:54:40.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        },
+                        {
+                          "label": "X",
+                          "value": "2.70",
+                          "probability": "37.04%",
+                          "dp3": "2.700",
+                          "american": 170,
+                          "factional": null,
+                          "winning": false,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-14 17:54:40.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        },
+                        {
+                          "label": "2",
+                          "value": "4.33",
+                          "probability": "23.09%",
+                          "dp3": "4.330",
+                          "american": 333,
+                          "factional": null,
+                          "winning": false,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-14 17:54:40.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 18515025,
+        "league_id": 729,
+        "season_id": 19564,
+        "stage_id": 77457288,
+        "round_id": null,
+        "group_id": null,
+        "aggregate_id": null,
+        "venue_id": null,
+        "referee_id": 19366,
+        "localteam_id": 18730,
+        "visitorteam_id": 18775,
+        "winner_team_id": 18730,
+        "weather_report": null,
+        "commentaries": false,
+        "attendance": null,
+        "pitch": null,
+        "details": null,
+        "neutral_venue": false,
+        "winning_odds_calculated": true,
+        "formations": {
+          "localteam_formation": "4-1-4-1",
+          "visitorteam_formation": "4-1-4-1"
+        },
+        "scores": {
+          "localteam_score": 0,
+          "visitorteam_score": 0,
+          "localteam_pen_score": 5,
+          "visitorteam_pen_score": 4,
+          "ht_score": "0-0",
+          "ft_score": "0-0",
+          "et_score": null,
+          "ps_score": "5-4"
+        },
+        "time": {
+          "status": "FT_PEN",
+          "starting_at": {
+            "date_time": "2022-06-13 18:00:00",
+            "date": "2022-06-13",
+            "time": "18:00:00",
+            "timestamp": 1655143200,
+            "timezone": "UTC"
+          },
+          "minute": 90,
+          "second": null,
+          "added_time": null,
+          "extra_minute": 30,
+          "injury_time": null
+        },
+        "coaches": {
+          "localteam_coach_id": 1525420,
+          "visitorteam_coach_id": 474849
+        },
+        "standings": {
+          "localteam_position": 1,
+          "visitorteam_position": 2
+        },
+        "assistants": {
+          "first_assistant_id": 16682,
+          "second_assistant_id": 19367,
+          "fourth_official_id": 19348
+        },
+        "leg": "1/1",
+        "colors": {
+          "localteam": {
+            "color": "#FDD740",
+            "kit_colors": "#FFDF1B,#FFDF1B,#FFDF1B,#0B7540,#0B7540,#0046A8,#025C17"
+          },
+          "visitorteam": {
+            "color": "#C40010",
+            "kit_colors": "#D6003D,#BF3B09,#C40010,#00C1BA,#C40010,#0046A8,#C40010"
+          }
+        },
+        "deleted": false,
+        "is_placeholder": false,
+        "odds": {
+          "data": [
+            {
+              "id": 1,
+              "name": "3Way Result",
+              "suspended": false,
+              "bookmaker": {
+                "data": [
+                  {
+                    "id": 150,
+                    "name": "bwin",
+                    "odds": {
+                      "data": [
+                        {
+                          "label": "1",
+                          "value": "4.00",
+                          "probability": "25%",
+                          "dp3": "4.000",
+                          "american": 300,
+                          "factional": null,
+                          "winning": false,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-13 18:00:33.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        },
+                        {
+                          "label": "X",
+                          "value": "2.90",
+                          "probability": "34.48%",
+                          "dp3": "2.900",
+                          "american": 190,
+                          "factional": null,
+                          "winning": true,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-13 18:00:33.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        },
+                        {
+                          "label": "2",
+                          "value": "1.90",
+                          "probability": "52.63%",
+                          "dp3": "1.900",
+                          "american": -112,
+                          "factional": null,
+                          "winning": false,
+                          "handicap": null,
+                          "total": null,
+                          "bookmaker_event_id": null,
+                          "last_update": {
+                            "date": "2022-06-13 18:00:33.000000",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "teams": {
+    "data": [
+      {
+        "id": 18598,
+        "legacy_id": 1211,
+        "name": "Costa Rica",
+        "short_code": "CRC",
+        "twitter": null,
+        "country_id": 1739,
+        "national_team": true,
+        "founded": 1921,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/6/18598.png",
+        "venue_id": 10981,
+        "current_season_id": 18017,
+        "is_placeholder": false
+      },
+      {
+        "id": 18613,
+        "legacy_id": 1839,
+        "name": "New Zealand",
+        "short_code": "NZL",
+        "twitter": null,
+        "country_id": 2817,
+        "national_team": true,
+        "founded": 1891,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/21/18613.png",
+        "venue_id": 968,
+        "current_season_id": 19158,
+        "is_placeholder": false
+      },
+      {
+        "id": 18730,
+        "legacy_id": 1332,
+        "name": "Australia",
+        "short_code": "AUS",
+        "twitter": null,
+        "country_id": 98,
+        "national_team": true,
+        "founded": 1961,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/10/18730.png",
+        "venue_id": 14477,
+        "current_season_id": 18017,
+        "is_placeholder": false
+      },
+      {
+        "id": 18775,
+        "legacy_id": 1364,
+        "name": "Peru",
+        "short_code": "PER",
+        "twitter": null,
+        "country_id": 338,
+        "national_team": true,
+        "founded": 1922,
+        "logo_path": "https://cdn.sportmonks.com/images/soccer/teams/23/18775.png",
+        "venue_id": 11432,
+        "current_season_id": 16761,
+        "is_placeholder": false
+      }
+    ]
+  }
+}

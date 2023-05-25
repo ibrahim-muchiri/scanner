@@ -1,0 +1,8 @@
+-- created at {{now()}}
+insert into app_public.league (league_id, country_id, name, active, type, is_cup)
+values
+{% for item in data -%}
+  ({{ item.id }}, {{ item.country_id }}, '{{ item.name|esc }}', {{ item.active }}, '{{ item.type|leagueType }}', {{ item.is_cup }})
+  {%- if not loop.last %},{% endif %}
+{% endfor -%}
+on conflict (league_id) do nothing;

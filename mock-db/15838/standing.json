@@ -1,0 +1,2572 @@
+[
+  {
+    "id": 244521,
+    "name": "Group A",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18873,
+          "team_name": "Serbia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244521,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 8,
+            "won": 6,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 18,
+            "goals_against": 9,
+            "points": 20
+          },
+          "home": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 12,
+            "goals_against": 6,
+            "points": 10
+          },
+          "away": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "9",
+            "points": 20
+          },
+          "result": "Final Tournament",
+          "points": 20,
+          "recent_form": "WWWDW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18701,
+          "team_name": "Portugal",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244521,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 17,
+            "goals_against": 6,
+            "points": 17
+          },
+          "home": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 3,
+            "points": 9
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 3,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 17
+          },
+          "result": "Play-off",
+          "points": 17,
+          "recent_form": "LDWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18654,
+          "team_name": "Republic of Ireland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244521,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 11,
+            "goals_against": 8,
+            "points": 9
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 2,
+            "goals_against": 3,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 9,
+            "goals_against": 5,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "WDWDD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18779,
+          "team_name": "Luxembourg",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244521,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 8,
+            "won": 3,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 8,
+            "goals_against": 18,
+            "points": 9
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 8,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 10,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "LWLLL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18623,
+          "team_name": "Azerbaijan",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244521,
+          "group_name": "Group A",
+          "overall": {
+            "games_played": 8,
+            "won": 0,
+            "draw": 1,
+            "lost": 7,
+            "goals_scored": 5,
+            "goals_against": 18,
+            "points": 1
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 11,
+            "points": 0
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-13",
+            "points": 1
+          },
+          "result": null,
+          "points": 1,
+          "recent_form": "LLLLD",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244522,
+    "name": "Group B",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18710,
+          "team_name": "Spain",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244522,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 8,
+            "won": 6,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 15,
+            "goals_against": 5,
+            "points": 19
+          },
+          "home": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 2,
+            "points": 10
+          },
+          "away": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 19
+          },
+          "result": "Final Tournament",
+          "points": 19,
+          "recent_form": "WWWWL",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18564,
+          "team_name": "Sweden",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244522,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 12,
+            "goals_against": 6,
+            "points": 15
+          },
+          "home": {
+            "games_played": 4,
+            "won": 4,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 1,
+            "points": 12
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 5,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 15
+          },
+          "result": "Play-off",
+          "points": 15,
+          "recent_form": "LLWWL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18568,
+          "team_name": "Greece",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244522,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 4,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 8,
+            "points": 10
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 4,
+            "points": 5
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 4,
+            "goals_against": 4,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 10
+          },
+          "result": null,
+          "points": 10,
+          "recent_form": "DLLWW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18692,
+          "team_name": "Georgia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244522,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 1,
+            "lost": 5,
+            "goals_scored": 6,
+            "goals_against": 12,
+            "points": 7
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 5,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "WWLLL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 27488,
+          "team_name": "Kosovo",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244522,
+          "group_name": "Group B",
+          "overall": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 2,
+            "lost": 5,
+            "goals_scored": 5,
+            "goals_against": 15,
+            "points": 5
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 8,
+            "points": 1
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-10",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "DLLLD",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244523,
+    "name": "Group C",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18708,
+          "team_name": "Switzerland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244523,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 15,
+            "goals_against": 2,
+            "points": 18
+          },
+          "home": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 0,
+            "points": 10
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 2,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "13",
+            "points": 18
+          },
+          "result": "Final Tournament",
+          "points": 18,
+          "recent_form": "WDWWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18658,
+          "team_name": "Italy",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244523,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 8,
+            "won": 4,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 13,
+            "goals_against": 2,
+            "points": 16
+          },
+          "home": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 9,
+            "goals_against": 2,
+            "points": 8
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 0,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 16
+          },
+          "result": "Play-off",
+          "points": 16,
+          "recent_form": "DDWDD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18696,
+          "team_name": "Northern Ireland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244523,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 3,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 7,
+            "points": 9
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 1,
+            "goals_against": 0,
+            "points": 6
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 7,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "DWLLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18690,
+          "team_name": "Bulgaria",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244523,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 6,
+            "goals_against": 14,
+            "points": 8
+          },
+          "home": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 6,
+            "points": 6
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 2,
+            "goals_against": 8,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-8",
+            "points": 8
+          },
+          "result": null,
+          "points": 8,
+          "recent_form": "LWLWD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 27065,
+          "team_name": "Lithuania",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244523,
+          "group_name": "Group C",
+          "overall": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 0,
+            "lost": 7,
+            "goals_scored": 4,
+            "goals_against": 19,
+            "points": 3
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 11,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 0,
+            "goals_against": 8,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-15",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLWLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244524,
+    "name": "Group D",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18647,
+          "team_name": "France",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244524,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 8,
+            "won": 5,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 18,
+            "goals_against": 3,
+            "points": 18
+          },
+          "home": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 12,
+            "goals_against": 2,
+            "points": 8
+          },
+          "away": {
+            "games_played": 4,
+            "won": 3,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 1,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "15",
+            "points": 18
+          },
+          "result": "Final Tournament",
+          "points": 18,
+          "recent_form": "WWWDD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18624,
+          "team_name": "Ukraine",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244524,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 8,
+            "won": 2,
+            "draw": 6,
+            "lost": 0,
+            "goals_scored": 11,
+            "goals_against": 8,
+            "points": 12
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 4,
+            "lost": 0,
+            "goals_scored": 4,
+            "goals_against": 4,
+            "points": 4
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 4,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "3",
+            "points": 12
+          },
+          "result": "Play-off",
+          "points": 12,
+          "recent_form": "WDWDD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18570,
+          "team_name": "Finland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244524,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 8,
+            "won": 3,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 10,
+            "goals_against": 10,
+            "points": 11
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 4,
+            "goals_against": 6,
+            "points": 4
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 11
+          },
+          "result": null,
+          "points": 11,
+          "recent_form": "LWWLL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18625,
+          "team_name": "Bosnia and Herzegovina",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244524,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 4,
+            "lost": 3,
+            "goals_scored": 9,
+            "goals_against": 12,
+            "points": 7
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 8,
+            "points": 1
+          },
+          "away": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 7
+          },
+          "result": null,
+          "points": 7,
+          "recent_form": "LLDWD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18603,
+          "team_name": "Kazakhstan",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244524,
+          "group_name": "Group D",
+          "overall": {
+            "games_played": 8,
+            "won": 0,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 5,
+            "goals_against": 20,
+            "points": 3
+          },
+          "home": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 2,
+            "goals_against": 8,
+            "points": 1
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 12,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-15",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLLDL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244525,
+    "name": "Group E",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18743,
+          "team_name": "Belgium",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244525,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 8,
+            "won": 6,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 25,
+            "goals_against": 6,
+            "points": 20
+          },
+          "home": {
+            "games_played": 4,
+            "won": 4,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 2,
+            "points": 12
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 8,
+            "goals_against": 4,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "19",
+            "points": 20
+          },
+          "result": "Final Tournament",
+          "points": 20,
+          "recent_form": "DWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18721,
+          "team_name": "Wales",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244525,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 8,
+            "won": 4,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 14,
+            "goals_against": 9,
+            "points": 15
+          },
+          "home": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 7,
+            "goals_against": 2,
+            "points": 8
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 7,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 15
+          },
+          "result": "Play-off",
+          "points": 15,
+          "recent_form": "DWWDD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18718,
+          "team_name": "Czech Republic",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244525,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 8,
+            "won": 4,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 14,
+            "goals_against": 9,
+            "points": 14
+          },
+          "home": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 8
+          },
+          "away": {
+            "games_played": 4,
+            "won": 2,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 6,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 14
+          },
+          "result": null,
+          "points": 14,
+          "recent_form": "WWDLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18697,
+          "team_name": "Estonia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244525,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 1,
+            "lost": 6,
+            "goals_scored": 9,
+            "goals_against": 21,
+            "points": 4
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 12,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 3,
+            "goals_against": 9,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-12",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LLLWD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18634,
+          "team_name": "Belarus",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244525,
+          "group_name": "Group E",
+          "overall": {
+            "games_played": 8,
+            "won": 1,
+            "draw": 0,
+            "lost": 7,
+            "goals_scored": 7,
+            "goals_against": 24,
+            "points": 3
+          },
+          "home": {
+            "games_played": 4,
+            "won": 1,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 6,
+            "goals_against": 8,
+            "points": 3
+          },
+          "away": {
+            "games_played": 4,
+            "won": 0,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 1,
+            "goals_against": 16,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-17",
+            "points": 3
+          },
+          "result": null,
+          "points": 3,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244526,
+    "name": "Group F",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18583,
+          "team_name": "Denmark",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 9,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 30,
+            "goals_against": 3,
+            "points": 27
+          },
+          "home": {
+            "games_played": 5,
+            "won": 5,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 19,
+            "goals_against": 1,
+            "points": 15
+          },
+          "away": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 2,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "27",
+            "points": 27
+          },
+          "result": "Final Tournament",
+          "points": 27,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18706,
+          "team_name": "Scotland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 7,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 17,
+            "goals_against": 7,
+            "points": 23
+          },
+          "home": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 12,
+            "goals_against": 4,
+            "points": 13
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 5,
+            "goals_against": 3,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "10",
+            "points": 23
+          },
+          "result": "Play-off",
+          "points": 23,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18643,
+          "team_name": "Austria",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 19,
+            "goals_against": 17,
+            "points": 16
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 11,
+            "goals_against": 9,
+            "points": 9
+          },
+          "away": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 8,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 16
+          },
+          "result": null,
+          "points": 16,
+          "recent_form": "WWLWL",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18657,
+          "team_name": "Israel",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 23,
+            "goals_against": 21,
+            "points": 16
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 8,
+            "points": 10
+          },
+          "away": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 0,
+            "lost": 3,
+            "goals_scored": 12,
+            "goals_against": 13,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "2",
+            "points": 16
+          },
+          "result": null,
+          "points": 16,
+          "recent_form": "WLWLL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18777,
+          "team_name": "Faroe Islands",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 1,
+            "draw": 1,
+            "lost": 8,
+            "goals_scored": 7,
+            "goals_against": 23,
+            "points": 4
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 9,
+            "points": 3
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 5,
+            "goals_against": 14,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 4
+          },
+          "result": null,
+          "points": 4,
+          "recent_form": "LLLLW",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18778,
+          "team_name": "Moldova",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244526,
+          "group_name": "Group F",
+          "overall": {
+            "games_played": 10,
+            "won": 0,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 5,
+            "goals_against": 30,
+            "points": 1
+          },
+          "home": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 2,
+            "goals_against": 13,
+            "points": 1
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 3,
+            "goals_against": 17,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-25",
+            "points": 1
+          },
+          "result": null,
+          "points": 1,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244527,
+    "name": "Group G",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18694,
+          "team_name": "Netherlands",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 7,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 33,
+            "goals_against": 8,
+            "points": 23
+          },
+          "home": {
+            "games_played": 5,
+            "won": 5,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 20,
+            "goals_against": 1,
+            "points": 15
+          },
+          "away": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 13,
+            "goals_against": 7,
+            "points": 8
+          },
+          "total": {
+            "goal_difference": "25",
+            "points": 23
+          },
+          "result": "Final Tournament",
+          "points": 23,
+          "recent_form": "WDWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18716,
+          "team_name": "Turkey",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 6,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 27,
+            "goals_against": 16,
+            "points": 21
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 3,
+            "lost": 0,
+            "goals_scored": 16,
+            "goals_against": 8,
+            "points": 9
+          },
+          "away": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 8,
+            "points": 12
+          },
+          "total": {
+            "goal_difference": "11",
+            "points": 21
+          },
+          "result": "Play-off",
+          "points": 21,
+          "recent_form": "WWWDL",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18578,
+          "team_name": "Norway",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 15,
+            "goals_against": 8,
+            "points": 18
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 5,
+            "points": 8
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 7,
+            "goals_against": 3,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "7",
+            "points": 18
+          },
+          "result": null,
+          "points": 18,
+          "recent_form": "LDWDW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18836,
+          "team_name": "Montenegro",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 3,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 14,
+            "goals_against": 15,
+            "points": 12
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 6,
+            "points": 5
+          },
+          "away": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 9,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "-1",
+            "points": 12
+          },
+          "result": null,
+          "points": 12,
+          "recent_form": "LDLWD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18735,
+          "team_name": "Latvia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 2,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 11,
+            "goals_against": 14,
+            "points": 9
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 5,
+            "goals_against": 8,
+            "points": 3
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 6,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "-3",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "WDLLD",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 27487,
+          "team_name": "Gibraltar",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244527,
+          "group_name": "Group G",
+          "overall": {
+            "games_played": 10,
+            "won": 0,
+            "draw": 0,
+            "lost": 10,
+            "goals_scored": 4,
+            "goals_against": 43,
+            "points": 0
+          },
+          "home": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 1,
+            "goals_against": 19,
+            "points": 0
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 3,
+            "goals_against": 24,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-39",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244528,
+    "name": "Group H",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18588,
+          "team_name": "Croatia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 7,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 21,
+            "goals_against": 4,
+            "points": 23
+          },
+          "home": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 10,
+            "goals_against": 2,
+            "points": 13
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 11,
+            "goals_against": 2,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "17",
+            "points": 23
+          },
+          "result": "Final Tournament",
+          "points": 23,
+          "recent_form": "WWDWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18702,
+          "team_name": "Russia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 7,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 19,
+            "goals_against": 6,
+            "points": 22
+          },
+          "home": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 11,
+            "goals_against": 1,
+            "points": 13
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 8,
+            "goals_against": 5,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "13",
+            "points": 22
+          },
+          "result": "Play-off",
+          "points": 22,
+          "recent_form": "LWWWW",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18648,
+          "team_name": "Slovakia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 3,
+            "draw": 5,
+            "lost": 2,
+            "goals_scored": 17,
+            "goals_against": 10,
+            "points": 14
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 6,
+            "points": 8
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 3,
+            "lost": 1,
+            "goals_scored": 9,
+            "goals_against": 4,
+            "points": 6
+          },
+          "total": {
+            "goal_difference": "7",
+            "points": 14
+          },
+          "result": null,
+          "points": 14,
+          "recent_form": "WDDLW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18630,
+          "team_name": "Slovenia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 4,
+            "draw": 2,
+            "lost": 4,
+            "goals_scored": 13,
+            "goals_against": 12,
+            "points": 14
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 4,
+            "points": 10
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 7,
+            "goals_against": 8,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "1",
+            "points": 14
+          },
+          "result": null,
+          "points": 14,
+          "recent_form": "WDLWL",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18626,
+          "team_name": "Cyprus",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 1,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 4,
+            "goals_against": 21,
+            "points": 5
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 3,
+            "goals_against": 7,
+            "points": 5
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 1,
+            "goals_against": 14,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-17",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "LLDLL",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18691,
+          "team_name": "Malta",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244528,
+          "group_name": "Group H",
+          "overall": {
+            "games_played": 10,
+            "won": 1,
+            "draw": 2,
+            "lost": 7,
+            "goals_scored": 9,
+            "goals_against": 30,
+            "points": 5
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 5,
+            "goals_against": 20,
+            "points": 3
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 4,
+            "goals_against": 10,
+            "points": 2
+          },
+          "total": {
+            "goal_difference": "-21",
+            "points": 5
+          },
+          "result": null,
+          "points": 5,
+          "recent_form": "LLDLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244529,
+    "name": "Group I",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18645,
+          "team_name": "England",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 8,
+            "draw": 2,
+            "lost": 0,
+            "goals_scored": 39,
+            "goals_against": 3,
+            "points": 26
+          },
+          "home": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 17,
+            "goals_against": 2,
+            "points": 13
+          },
+          "away": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 1,
+            "lost": 0,
+            "goals_scored": 22,
+            "goals_against": 1,
+            "points": 13
+          },
+          "total": {
+            "goal_difference": "36",
+            "points": 26
+          },
+          "result": "Final Tournament",
+          "points": 26,
+          "recent_form": "WWDWD",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18699,
+          "team_name": "Poland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 6,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 30,
+            "goals_against": 11,
+            "points": 20
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 14,
+            "goals_against": 4,
+            "points": 10
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 16,
+            "goals_against": 7,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "19",
+            "points": 20
+          },
+          "result": "Play-off",
+          "points": 20,
+          "recent_form": "LWWWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18641,
+          "team_name": "Albania",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 6,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 12,
+            "goals_against": 12,
+            "points": 18
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 3,
+            "points": 9
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 0,
+            "lost": 2,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 9
+          },
+          "total": {
+            "goal_difference": "0",
+            "points": 18
+          },
+          "result": null,
+          "points": 18,
+          "recent_form": "WLLWW",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18732,
+          "team_name": "Hungary",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 19,
+            "goals_against": 13,
+            "points": 17
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 9,
+            "goals_against": 9,
+            "points": 7
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 10,
+            "goals_against": 4,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "6",
+            "points": 17
+          },
+          "result": null,
+          "points": 17,
+          "recent_form": "WWDLW",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18781,
+          "team_name": "Andorra",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 2,
+            "draw": 0,
+            "lost": 8,
+            "goals_scored": 8,
+            "goals_against": 24,
+            "points": 6
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 14,
+            "points": 3
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 0,
+            "lost": 4,
+            "goals_scored": 4,
+            "goals_against": 10,
+            "points": 3
+          },
+          "total": {
+            "goal_difference": "-16",
+            "points": 6
+          },
+          "result": null,
+          "points": 6,
+          "recent_form": "LLWLL",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18872,
+          "team_name": "San Marino",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244529,
+          "group_name": "Group I",
+          "overall": {
+            "games_played": 10,
+            "won": 0,
+            "draw": 0,
+            "lost": 10,
+            "goals_scored": 1,
+            "goals_against": 46,
+            "points": 0
+          },
+          "home": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 1,
+            "goals_against": 25,
+            "points": 0
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 0,
+            "goals_against": 21,
+            "points": 0
+          },
+          "total": {
+            "goal_difference": "-45",
+            "points": 0
+          },
+          "result": null,
+          "points": 0,
+          "recent_form": "LLLLL",
+          "status": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 244530,
+    "name": "Group J",
+    "league_id": 720,
+    "season_id": 15838,
+    "round_id": null,
+    "round_name": null,
+    "stage_id": 77449859,
+    "stage_name": "Group Stage",
+    "resource": "group",
+    "standings": {
+      "data": [
+        {
+          "position": 1,
+          "team_id": 18660,
+          "team_name": "Germany",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 9,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 36,
+            "goals_against": 4,
+            "points": 27
+          },
+          "home": {
+            "games_played": 5,
+            "won": 4,
+            "draw": 0,
+            "lost": 1,
+            "goals_scored": 21,
+            "goals_against": 3,
+            "points": 12
+          },
+          "away": {
+            "games_played": 5,
+            "won": 5,
+            "draw": 0,
+            "lost": 0,
+            "goals_scored": 15,
+            "goals_against": 1,
+            "points": 15
+          },
+          "total": {
+            "goal_difference": "32",
+            "points": 27
+          },
+          "result": "Final Tournament",
+          "points": 27,
+          "recent_form": "WWWWW",
+          "status": null
+        },
+        {
+          "position": 2,
+          "team_id": 18689,
+          "team_name": "North Macedonia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 3,
+            "lost": 2,
+            "goals_scored": 23,
+            "goals_against": 11,
+            "points": 18
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 2,
+            "lost": 1,
+            "goals_scored": 8,
+            "goals_against": 5,
+            "points": 8
+          },
+          "away": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 15,
+            "goals_against": 6,
+            "points": 10
+          },
+          "total": {
+            "goal_difference": "12",
+            "points": 18
+          },
+          "result": "Play-off",
+          "points": 18,
+          "recent_form": "WWLWD",
+          "status": null
+        },
+        {
+          "position": 3,
+          "team_id": 18638,
+          "team_name": "Romania",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 5,
+            "draw": 2,
+            "lost": 3,
+            "goals_scored": 13,
+            "goals_against": 8,
+            "points": 17
+          },
+          "home": {
+            "games_played": 5,
+            "won": 3,
+            "draw": 1,
+            "lost": 1,
+            "goals_scored": 6,
+            "goals_against": 3,
+            "points": 10
+          },
+          "away": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 5,
+            "points": 7
+          },
+          "total": {
+            "goal_difference": "5",
+            "points": 17
+          },
+          "result": null,
+          "points": 17,
+          "recent_form": "WDWLD",
+          "status": null
+        },
+        {
+          "position": 4,
+          "team_id": 18639,
+          "team_name": "Armenia",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 3,
+            "draw": 3,
+            "lost": 4,
+            "goals_scored": 9,
+            "goals_against": 20,
+            "points": 12
+          },
+          "home": {
+            "games_played": 5,
+            "won": 2,
+            "draw": 1,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 12,
+            "points": 7
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 2,
+            "goals_against": 8,
+            "points": 5
+          },
+          "total": {
+            "goal_difference": "-11",
+            "points": 12
+          },
+          "result": null,
+          "points": 12,
+          "recent_form": "LLLDD",
+          "status": null
+        },
+        {
+          "position": 5,
+          "team_id": 18635,
+          "team_name": "Iceland",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 2,
+            "draw": 3,
+            "lost": 5,
+            "goals_scored": 12,
+            "goals_against": 18,
+            "points": 9
+          },
+          "home": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 2,
+            "lost": 2,
+            "goals_scored": 7,
+            "goals_against": 9,
+            "points": 5
+          },
+          "away": {
+            "games_played": 5,
+            "won": 1,
+            "draw": 1,
+            "lost": 3,
+            "goals_scored": 5,
+            "goals_against": 9,
+            "points": 4
+          },
+          "total": {
+            "goal_difference": "-6",
+            "points": 9
+          },
+          "result": null,
+          "points": 9,
+          "recent_form": "LDWDL",
+          "status": null
+        },
+        {
+          "position": 6,
+          "team_id": 18870,
+          "team_name": "Liechtenstein",
+          "round_id": null,
+          "round_name": null,
+          "group_id": 244530,
+          "group_name": "Group J",
+          "overall": {
+            "games_played": 10,
+            "won": 0,
+            "draw": 1,
+            "lost": 9,
+            "goals_scored": 2,
+            "goals_against": 34,
+            "points": 1
+          },
+          "home": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 0,
+            "lost": 5,
+            "goals_scored": 1,
+            "goals_against": 13,
+            "points": 0
+          },
+          "away": {
+            "games_played": 5,
+            "won": 0,
+            "draw": 1,
+            "lost": 4,
+            "goals_scored": 1,
+            "goals_against": 21,
+            "points": 1
+          },
+          "total": {
+            "goal_difference": "-32",
+            "points": 1
+          },
+          "result": null,
+          "points": 1,
+          "recent_form": "LLLLD",
+          "status": null
+        }
+      ]
+    }
+  }
+]

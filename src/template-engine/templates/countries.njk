@@ -1,0 +1,12 @@
+{% import "./macros.njk" as m -%}
+-- created at {{now()}}
+insert into app_public.country (country_id, name, continent, iso, longitude, latitude)
+values
+{% for item in data -%}
+  ({{ item.id }}, '{{ item.name|esc }}', {{ m.nullifyAsString(item.extra.continent) }}, {{ m.nullifyAsString(item.extra.iso) }}, {{ m.nullify(item.extra.longitude) }}, {{ m.nullify(item.extra.latitude) }})
+  {%- if not loop.last %},{% endif %}
+{% endfor %}
+on conflict (country_id) do nothing;
+
+insert into app_public.scanner_log (type, hash, identifier, scanner) values
+ ('{{meta.type}}'::app_public.scanner_log_type, '{{meta.hash}}', '{{ meta.id|ifNil() }}', '{{meta.log}}');
