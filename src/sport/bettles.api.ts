@@ -3,15 +3,16 @@ import { ConfigType } from '@nestjs/config';
 import { Pool } from 'pg';
 import { HashService } from '../core/hash/hash.service';
 import { crawlConfig } from '../core/config';
-import { Repeater } from '../core/network/repeater.class';
 import { POOL_TOKEN } from '../core/db/pool.provider';
 import { NunjuckService } from '../template-engine/nunjuck-service/nunjuck.service';
 import { ApiContinent, ApiCountry, ApiFixture, ApiLeague, ApiStanding, ApiStandingEntry, ApiTeam } from './models';
 import { ScannerApi } from './scanner.api';
 import { CleanedSeason } from './season-cleaner';
 import { randomUUID } from 'crypto';
+import { retry, handleAll, ExponentialBackoff } from 'cockatiel';
 
 export const MAX_ATTEMPTS = 10;
+const retryPolicy = retry(handleAll, { maxAttempts: MAX_ATTEMPTS, backoff: new ExponentialBackoff() });
 
 @Injectable()
 export class BettlesApi {
@@ -25,7 +26,7 @@ export class BettlesApi {
     private engine: NunjuckService,
     private hasher: HashService,
     private scanner: ScannerApi,
-  ) {}
+  ) { }
 
   async updateContinents(list: ApiContinent[], attempts = 0) {
     if (Array.isArray(list) && list.length < 1) {
@@ -337,31 +338,43 @@ export class BettlesApi {
     return this.engine.render(context);
   }
 
-  private async save(sql: string, log: string, attempts = 0) {
-    if (!sql) {
-      this.logger.verbose(`Nothing to save. Query is empty.`);
-      return;
-    }
+  private async save(sql, log, attempts = 0) {
+    retryPolicy.onFailure(({ reason }) => {
+      this.logger.verbose(`Saving the query has failed:  ${reason}`);
+    });
 
-    if (!this.config.persistToDb) {
-      return Promise.resolve();
-    }
+    retryPolicy.onSuccess(({ duration }) => {
+      this.logger.verbose(`Saving the query was successful in ${duration} s`);
+    });
 
-    // console.log(sql);
-    // and push it to database
-    const client = await this.pool.connect();
-    try {
-      await client.query(sql);
-      this.logger.verbose(`Successfully updated ${log}`);
-    } catch (err) {
-      this.logger.error(`An error occurred: ${err} while processing ${log}. Retrying...`);
-      if (attempts < MAX_ATTEMPTS) {
-        Repeater.retry(this.save.bind(this, sql, log, ++attempts), attempts);
-      } else {
-        this.logger.warn(`MAX_ATTEMPTS (${MAX_ATTEMPTS}) reached. Aborted ${log}`);
+    const token = await retryPolicy.execute(async () => {
+      if (!sql) {
+        this.logger.verbose(`Nothing to save. Query is empty.`);
+        return;
       }
-    } finally {
-      client.release();
-    }
+
+      if (!this.config.persistToDb) {
+        return Promise.resolve();
+      }
+
+      try {
+        const client = await this.pool.connect();
+        try {
+          await client.query(sql);
+          this.logger.verbose(`Successfully updated ${log}`);
+        } finally {
+          client.release();
+        }
+      } catch (err) {
+        this.logger.error(`An error occurred: ${err} while processing ${log}. Retrying...`);
+        if (attempts < MAX_ATTEMPTS) {
+          this.save(sql, log, attempts + 1);
+        } else {
+          this.logger.warn(`MAX_ATTEMPTS (${MAX_ATTEMPTS}) reached. Aborted ${log}`);
+        }
+      }
+    });
+    return token;
   }
+
 }
