@@ -8,7 +8,6 @@ import { NunjuckService } from '../template-engine/nunjuck-service/nunjuck.servi
 import { ApiContinent, ApiCountry, ApiFixture, ApiLeague, ApiStanding, ApiStandingEntry, ApiTeam } from './models';
 import { ScannerApi } from './scanner.api';
 import { CleanedSeason } from './season-cleaner';
-import { randomUUID } from 'crypto';
 import { retry, handleAll, ExponentialBackoff } from 'cockatiel';
 
 export const MAX_ATTEMPTS = 10;
@@ -338,9 +337,9 @@ export class BettlesApi {
     return this.engine.render(context);
   }
 
-  private async save(sql, log, attempts = 0) {
+  async save(sql: string, log: string, attempts = 0) {
     retryPolicy.onFailure(({ reason }) => {
-      this.logger.verbose(`Saving the query has failed:  ${reason}`);
+      this.logger.verbose(`Saving the query has failed: ${reason}`);
     });
 
     retryPolicy.onSuccess(({ duration }) => {
@@ -357,23 +356,22 @@ export class BettlesApi {
         return Promise.resolve();
       }
 
+      const client = await this.pool.connect();
       try {
-        const client = await this.pool.connect();
-        try {
-          await client.query(sql);
-          this.logger.verbose(`Successfully updated ${log}`);
-        } finally {
-          client.release();
-        }
-      } catch (err) {
-        this.logger.error(`An error occurred: ${err} while processing ${log}. Retrying...`);
-        if (attempts < MAX_ATTEMPTS) {
-          this.save(sql, log, attempts + 1);
-        } else {
-          this.logger.warn(`MAX_ATTEMPTS (${MAX_ATTEMPTS}) reached. Aborted ${log}`);
-        }
+        await client.query(sql);
+        this.logger.verbose(`Successfully updated ${log}`);
+      } finally {
+        client.release();
+      }
+    }).catch((err) => {
+      this.logger.error(`An error occurred: ${err} while processing ${log}. Retrying...`);
+      if (attempts < MAX_ATTEMPTS) {
+        return this.save(sql, log, attempts + 1);
+      } else {
+        this.logger.warn(`MAX_ATTEMPTS (${MAX_ATTEMPTS}) reached. Aborted ${log}`);
       }
     });
+
     return token;
   }
 
